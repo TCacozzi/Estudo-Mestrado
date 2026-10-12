@@ -1,0 +1,595 @@
+<title>Simulados PPGEP</title>
+<style>
+  /* Layout: sticky header with exam countdown; tabbed card grid on the home screen; single-column focused runner for an open test */
+  :root {
+    --bg: #eef1f6;
+    --surface: #ffffff;
+    --surface-2: #e3e8f0;
+    --fg: #182033;
+    --fg-muted: #5b6577;
+    --accent: #2f5d9c;
+    --accent-strong: #1f3f6e;
+    --accent-ink: #ffffff;
+    --good: #1f8a5f;
+    --good-bg: #e4f5ec;
+    --bad: #c23b3b;
+    --bad-bg: #fbe9e8;
+    --border: #d7dce5;
+    --radius: 14px;
+    --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+    --font-body: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f1420;
+      --surface: #161d2c;
+      --surface-2: #1f2838;
+      --fg: #e7ebf3;
+      --fg-muted: #9aa5ba;
+      --accent: #7fa3df;
+      --accent-strong: #a9c3ea;
+      --accent-ink: #0f1420;
+      --good: #4fbf8a;
+      --good-bg: #16312a;
+      --bad: #e2726f;
+      --bad-bg: #371d1d;
+      --border: #2a3448;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f1420;
+    --surface: #161d2c;
+    --surface-2: #1f2838;
+    --fg: #e7ebf3;
+    --fg-muted: #9aa5ba;
+    --accent: #7fa3df;
+    --accent-strong: #a9c3ea;
+    --accent-ink: #0f1420;
+    --good: #4fbf8a;
+    --good-bg: #16312a;
+    --bad: #e2726f;
+    --bad-bg: #371d1d;
+    --border: #2a3448;
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-body);
+    line-height: 1.55;
+  }
+  #app {
+    max-width: 880px;
+    margin: 0 auto;
+    padding-inline: 16px;
+    padding-block: 20px 56px;
+  }
+  h1, h2, h3 { font-family: var(--font-display); font-weight: 600; text-wrap: balance; margin: 0; }
+  a { color: var(--accent); }
+
+  header.top {
+    position: sticky;
+    top: env(safe-area-inset-top, 0px);
+    z-index: 5;
+    background: var(--bg);
+    padding-block: 12px 10px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+  header.top h1 { font-size: clamp(1.3rem, 1rem + 1.2vw, 1.7rem); }
+  .countdown {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+  .countdown strong { color: var(--accent-strong); font-size: 1rem; }
+
+  .tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--border);
+  }
+  .tab-btn {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: 600;
+    background: none;
+    border: none;
+    color: var(--fg-muted);
+    padding: 10px 4px 12px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }
+  .tab-btn[aria-selected="true"] { color: var(--accent-strong); border-color: var(--accent); }
+  .tab-btn:focus-visible, button:focus-visible, input:focus-visible, label:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .stats-row {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+  .stats-row b { color: var(--fg); font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    text-align: left;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-width: 0;
+    font-family: var(--font-body);
+    color: var(--fg);
+  }
+  .card:hover { border-color: var(--accent); }
+  .card .eyebrow {
+    font-size: 0.72rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--fg-muted);
+  }
+  .card h3 { font-size: 1.05rem; line-height: 1.3; }
+  .card .meta { font-size: 0.8rem; color: var(--fg-muted); margin-top: auto; display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-size: 0.78rem;
+    padding: 3px 9px;
+    border-radius: 999px;
+    background: var(--surface-2);
+    color: var(--fg-muted);
+    white-space: nowrap;
+  }
+  .pill.good { background: var(--good-bg); color: var(--good); }
+
+  .btn {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.95rem;
+    border: 1px solid var(--accent);
+    background: var(--accent);
+    color: var(--accent-ink);
+    border-radius: 999px;
+    padding: 11px 22px;
+    cursor: pointer;
+  }
+  .btn:disabled { opacity: 0.45; cursor: not-allowed; }
+  .btn.secondary { background: transparent; color: var(--accent-strong); }
+  .btn.ghost { background: transparent; color: var(--fg-muted); border-color: var(--border); }
+
+  .back-link {
+    background: none;
+    border: none;
+    color: var(--fg-muted);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    cursor: pointer;
+    padding: 0;
+    margin-bottom: 14px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .back-link:hover { color: var(--accent-strong); }
+
+  .test-head { margin-bottom: 16px; }
+  .test-head .eyebrow { font-size: 0.78rem; letter-spacing: 0.05em; text-transform: uppercase; color: var(--fg-muted); margin-bottom: 4px; }
+  .test-head p.instrucoes { color: var(--fg-muted); font-size: 0.92rem; margin-top: 6px; }
+
+  details.passage {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    margin-bottom: 20px;
+  }
+  details.passage summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-family: var(--font-display);
+  }
+  details.passage .texto {
+    margin-top: 12px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.98rem;
+    max-width: 65ch;
+  }
+  details.passage .texto p { margin: 0 0 1em; }
+
+  .questao {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    margin-bottom: 14px;
+  }
+  .questao .enunciado { font-weight: 600; margin-bottom: 10px; display: flex; gap: 8px; }
+  .questao .num { font-family: var(--font-mono); color: var(--accent-strong); flex-shrink: 0; }
+  .alt {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    padding: 8px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .alt:hover { background: var(--surface-2); }
+  .alt input { margin-top: 3px; accent-color: var(--accent); flex-shrink: 0; }
+  .alt .letra { font-family: var(--font-mono); font-weight: 600; color: var(--fg-muted); flex-shrink: 0; }
+
+  .questao.corrigida .alt { cursor: default; }
+  .questao.corrigida .alt:hover { background: none; }
+  .questao.corrigida .alt.certa { background: var(--good-bg); }
+  .questao.corrigida .alt.errada-escolhida { background: var(--bad-bg); }
+  .explicacao {
+    font-size: 0.88rem;
+    color: var(--fg-muted);
+    margin: 2px 0 2px 40px;
+    padding-bottom: 6px;
+  }
+  .explicacao.ativa { color: var(--fg); }
+  .explicacao .tag { font-weight: 700; font-family: var(--font-mono); }
+  .explicacao.tag-certa .tag { color: var(--good); }
+  .explicacao.tag-errada .tag { color: var(--bad); }
+
+  .result-banner {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 18px;
+    margin-bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .result-banner .score {
+    font-family: var(--font-mono);
+    font-size: 2rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--accent-strong);
+  }
+  .result-banner .score small { font-size: 1rem; color: var(--fg-muted); }
+  .result-banner .msg { flex: 1; min-width: 180px; font-size: 0.95rem; color: var(--fg-muted); }
+
+  .actions-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 18px; }
+
+  footer.note {
+    margin-top: 32px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 0.78rem;
+    color: var(--fg-muted);
+  }
+
+  [hidden] { display: none !important; }
+</style>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap">
+
+<div id="app"></div>
+
+<script>
+const TESTES = __DADOS_JSON__;
+const DATA_PROVA = "2026-10-30T14:30:00-03:00";
+const STORAGE_KEY = "ppgep-quiz-progresso-v1";
+
+function lerProgresso() {
+  try {
+    return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
+  } catch (e) { return {}; }
+}
+function salvarProgresso(progresso) {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(progresso)); } catch (e) {}
+}
+
+const estado = {
+  aba: "ingles",
+  testeAtual: null,
+  respostas: {},
+  corrigido: false,
+};
+
+function diasAteProva() {
+  const agora = new Date();
+  const prova = new Date(DATA_PROVA);
+  const diffMs = prova - agora;
+  const dias = Math.ceil(diffMs / (1000 * 60 * 60 * 24));
+  return dias;
+}
+
+function escapeHtml(str) {
+  const div = document.createElement("div");
+  div.textContent = str == null ? "" : String(str);
+  return div.innerHTML;
+}
+
+function renderApp() {
+  const app = document.getElementById("app");
+  app.innerHTML = "";
+  app.appendChild(renderHeader());
+  if (estado.testeAtual) {
+    app.appendChild(renderTeste());
+  } else {
+    app.appendChild(renderHome());
+  }
+  app.appendChild(renderFooter());
+  window.scrollTo({ top: 0, behavior: "instant" in window ? "instant" : "auto" });
+}
+
+function renderHeader() {
+  const header = document.createElement("header");
+  header.className = "top";
+  const dias = diasAteProva();
+  const diasTexto = dias > 0
+    ? `faltam <strong>${dias}</strong> dia${dias === 1 ? "" : "s"} para a prova de inglês`
+    : (dias === 0 ? "a prova de inglês é <strong>hoje</strong>" : "a prova de inglês já passou");
+  header.innerHTML = `
+    <h1>Simulados PPGEP</h1>
+    <div class="countdown">${diasTexto} (30/10/2026)</div>
+  `;
+  return header;
+}
+
+function renderFooter() {
+  const footer = document.createElement("footer");
+  footer.className = "note";
+  footer.textContent = "Baseado no edital 2610 Poli-Produção (Centro Interdepartamental de Línguas, USP): Parte 1 — 20 questões de compreensão de leitura, 2h15min, dicionário físico permitido — e na bibliografia da linha de pesquisa Qualidade e Sustentabilidade do PPGEP.";
+  return footer;
+}
+
+function contarRespondidas() {
+  if (!estado.testeAtual) return 0;
+  return estado.testeAtual.questoes.filter(q => estado.respostas[q.numero]).length;
+}
+
+function renderHome() {
+  const wrap = document.createElement("div");
+
+  const progresso = lerProgresso();
+  const todos = [...TESTES.ingles, ...TESTES.mestrado];
+  const feitos = todos.filter(t => progresso[t.id]);
+  const mediaTexto = feitos.length
+    ? Math.round(feitos.reduce((acc, t) => acc + (progresso[t.id].melhorPercentual || 0), 0) / feitos.length) + "%"
+    : "—";
+
+  const statsRow = document.createElement("div");
+  statsRow.className = "stats-row";
+  statsRow.innerHTML = `
+    <span>Testes feitos: <b>${feitos.length}</b> / ${todos.length}</span>
+    <span>Melhor média: <b>${mediaTexto}</b></span>
+  `;
+  wrap.appendChild(statsRow);
+
+  const tabs = document.createElement("div");
+  tabs.className = "tabs";
+  tabs.setAttribute("role", "tablist");
+  tabs.innerHTML = `
+    <button class="tab-btn" role="tab" data-aba="ingles" aria-selected="${estado.aba === "ingles"}">Inglês (10)</button>
+    <button class="tab-btn" role="tab" data-aba="mestrado" aria-selected="${estado.aba === "mestrado"}">Estudos · Qualidade e Sustentabilidade (10)</button>
+  `;
+  tabs.querySelectorAll(".tab-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      estado.aba = btn.dataset.aba;
+      renderApp();
+    });
+  });
+  wrap.appendChild(tabs);
+
+  const grid = document.createElement("div");
+  grid.className = "grid";
+  const lista = estado.aba === "ingles" ? TESTES.ingles : TESTES.mestrado;
+  lista.forEach(teste => {
+    const card = document.createElement("button");
+    card.className = "card";
+    card.type = "button";
+    const salvo = progresso[teste.id];
+    const nQuestoes = teste.questoes.length;
+    const pillHtml = salvo
+      ? `<span class="pill good">${salvo.melhorAcertos}/${nQuestoes} melhor</span>`
+      : `<span class="pill">${nQuestoes} questões</span>`;
+    card.innerHTML = `
+      <span class="eyebrow">${escapeHtml(teste.topico)}</span>
+      <h3>${escapeHtml(teste.titulo)}</h3>
+      <div class="meta">${pillHtml}</div>
+    `;
+    card.addEventListener("click", () => abrirTeste(teste));
+    grid.appendChild(card);
+  });
+  wrap.appendChild(grid);
+
+  return wrap;
+}
+
+function abrirTeste(teste) {
+  estado.testeAtual = teste;
+  estado.respostas = {};
+  estado.corrigido = false;
+  renderApp();
+}
+
+function fecharTeste() {
+  estado.testeAtual = null;
+  renderApp();
+}
+
+function corrigirTeste() {
+  estado.corrigido = true;
+  const teste = estado.testeAtual;
+  const total = teste.questoes.length;
+  const acertos = teste.questoes.filter(q => estado.respostas[q.numero] === q.resposta).length;
+  const percentual = Math.round((acertos / total) * 100);
+
+  const progresso = lerProgresso();
+  const anterior = progresso[teste.id];
+  progresso[teste.id] = {
+    melhorAcertos: anterior ? Math.max(anterior.melhorAcertos, acertos) : acertos,
+    melhorPercentual: anterior ? Math.max(anterior.melhorPercentual, percentual) : percentual,
+    ultimaData: new Date().toISOString(),
+  };
+  salvarProgresso(progresso);
+
+  renderApp();
+}
+
+function refazerTeste() {
+  estado.respostas = {};
+  estado.corrigido = false;
+  renderApp();
+}
+
+function renderTeste() {
+  const teste = estado.testeAtual;
+  const wrap = document.createElement("div");
+
+  const back = document.createElement("button");
+  back.className = "back-link";
+  back.innerHTML = "&larr; Voltar aos testes";
+  back.addEventListener("click", fecharTeste);
+  wrap.appendChild(back);
+
+  const head = document.createElement("div");
+  head.className = "test-head";
+  head.innerHTML = `
+    <div class="eyebrow">${escapeHtml(teste.topico)}</div>
+    <h2>${escapeHtml(teste.titulo)}</h2>
+    <p class="instrucoes">${escapeHtml(teste.instrucoes)}</p>
+  `;
+  wrap.appendChild(head);
+
+  if (teste.texto) {
+    const det = document.createElement("details");
+    det.className = "passage";
+    det.open = true;
+    const paragrafos = teste.texto.split("\n").filter(p => p.trim()).map(p => `<p>${escapeHtml(p.trim())}</p>`).join("");
+    det.innerHTML = `<summary>Texto em inglês</summary><div class="texto">${paragrafos}</div>`;
+    wrap.appendChild(det);
+  }
+
+  if (!estado.corrigido) {
+    const total = teste.questoes.length;
+    const respondidas = contarRespondidas();
+    const banner = document.createElement("div");
+    banner.className = "stats-row";
+    banner.innerHTML = `<span>Respondidas: <b>${respondidas}</b> / ${total}</span>`;
+    wrap.appendChild(banner);
+  } else {
+    const acertos = teste.questoes.filter(q => estado.respostas[q.numero] === q.resposta).length;
+    const total = teste.questoes.length;
+    const percentual = Math.round((acertos / total) * 100);
+    const banner = document.createElement("div");
+    banner.className = "result-banner";
+    banner.innerHTML = `
+      <div class="score">${acertos}/${total}<small> · ${percentual}%</small></div>
+      <div class="msg">${percentual >= 70
+        ? "Bom resultado. Revise as explicações das questões que errou para fixar os pontos fracos."
+        : "Leia com atenção os comentários de cada questão errada antes de refazer o teste."
+      }</div>
+    `;
+    wrap.appendChild(banner);
+  }
+
+  teste.questoes.forEach(q => {
+    wrap.appendChild(renderQuestao(teste, q));
+  });
+
+  const actions = document.createElement("div");
+  actions.className = "actions-row";
+  if (!estado.corrigido) {
+    const btn = document.createElement("button");
+    btn.className = "btn";
+    btn.textContent = "Corrigir teste";
+    btn.addEventListener("click", corrigirTeste);
+    actions.appendChild(btn);
+  } else {
+    const btnRefazer = document.createElement("button");
+    btnRefazer.className = "btn secondary";
+    btnRefazer.textContent = "Refazer este teste";
+    btnRefazer.addEventListener("click", refazerTeste);
+    actions.appendChild(btnRefazer);
+
+    const btnVoltar = document.createElement("button");
+    btnVoltar.className = "btn ghost";
+    btnVoltar.textContent = "Voltar aos testes";
+    btnVoltar.addEventListener("click", fecharTeste);
+    actions.appendChild(btnVoltar);
+  }
+  wrap.appendChild(actions);
+
+  return wrap;
+}
+
+function renderQuestao(teste, q) {
+  const div = document.createElement("div");
+  div.className = "questao" + (estado.corrigido ? " corrigida" : "");
+
+  const enunciado = document.createElement("div");
+  enunciado.className = "enunciado";
+  enunciado.innerHTML = `<span class="num">${q.numero}.</span><span>${escapeHtml(q.enunciado)}</span>`;
+  div.appendChild(enunciado);
+
+  const respostaSelecionada = estado.respostas[q.numero];
+
+  Object.entries(q.alternativas).forEach(([letra, texto]) => {
+    const row = document.createElement("label");
+    row.className = "alt";
+    if (estado.corrigido) {
+      if (letra === q.resposta) row.classList.add("certa");
+      else if (letra === respostaSelecionada) row.classList.add("errada-escolhida");
+    }
+    const inputId = `q${teste.id}-${q.numero}-${letra}`;
+    row.setAttribute("for", inputId);
+    row.innerHTML = `
+      <input type="radio" id="${inputId}" name="q-${teste.id}-${q.numero}" value="${letra}" ${respostaSelecionada === letra ? "checked" : ""} ${estado.corrigido ? "disabled" : ""}>
+      <span class="letra">${letra})</span>
+      <span>${escapeHtml(texto)}</span>
+    `;
+    if (!estado.corrigido) {
+      row.querySelector("input").addEventListener("change", () => {
+        estado.respostas[q.numero] = letra;
+        renderApp();
+      });
+    }
+    div.appendChild(row);
+
+    if (estado.corrigido) {
+      const exp = document.createElement("div");
+      const ehCerta = letra === q.resposta;
+      const foiEscolhida = letra === respostaSelecionada;
+      exp.className = "explicacao" + (ehCerta || foiEscolhida ? " ativa" : "") + (ehCerta ? " tag-certa" : " tag-errada");
+      exp.innerHTML = `<span class="tag">${ehCerta ? "Correta —" : "Errada —"}</span> ${escapeHtml(q.explicacoes[letra])}`;
+      div.appendChild(exp);
+    }
+  });
+
+  return div;
+}
+
+renderApp();
+</script>

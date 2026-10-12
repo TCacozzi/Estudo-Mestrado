@@ -19,8 +19,17 @@ O formato exato da questão (múltipla escolha, discursiva curta, etc.) é escol
 
 ## Versão interativa
 
-Além dos arquivos markdown (fonte), os testes também terão uma versão interativa (artifact HTML) para responder, corrigir na hora e ler as explicações dos erros.
+Quiz interativo (responde, corrige na hora e mostra a explicação de cada questão): https://claude.ai/artifact/3siyTpsKFFAhc4dq1nJVmN
+
+Fonte dos dados: `dados/ingles/*.json` e `dados/mestrado/*.json`. Para gerar os arquivos derivados depois de editar os JSON:
+
+```
+python3 scripts/gerar_markdown.py   # atualiza testes/ingles/*.md e testes/mestrado/*.md
+python3 scripts/build_quiz.py       # gera dist/quiz.html (publicar de novo manualmente)
+```
 
 ## Status
 
-Aguardando envio dos materiais de referência para começar a gerar os testes.
+- Inglês: 10 testes prontos (20 questões cada, texto em inglês + perguntas/alternativas em português), seguindo o formato da Parte 1 do edital 2610 Poli-Produção (compreensão de leitura, 20 questões, 2h15min).
+- Mestrado: 10 testes prontos (10 questões cada) sobre a linha de pesquisa Qualidade e Sustentabilidade (QS) do PPGEP.
+- Todas as questões têm explicação em português para cada alternativa (certa e erradas).
