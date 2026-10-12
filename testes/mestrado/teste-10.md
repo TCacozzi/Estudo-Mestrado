@@ -1,0 +1,148 @@
+# Mercado Elétrico Brasileiro: Planejamento, Despacho e Modernização
+
+**Tópico:** Mercado Elétrico Brasileiro: Planejamento, Despacho e Modernização (estrutura do setor elétrico brasileiro, modelos de despacho, formação de preços, modernização regulatória, segundo Silva et al. 2025)  
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+
+## Questões
+
+**1.** Na estrutura institucional do setor elétrico brasileiro, a entidade responsável pela operação centralizada do Sistema Interligado Nacional (SIN), coordenando o despacho das usinas, é:
+
+- **A)** A Agência Nacional de Energia Elétrica (ANEEL).
+- **B)** O Operador Nacional do Sistema Elétrico (ONS).
+- **C)** A Câmara de Comercialização de Energia Elétrica (CCEE).
+- **D)** O Ministério de Minas e Energia (MME).
+
+**2.** O modelo de despacho hidrotérmico utilizado no Brasil, discutido por Silva et al. (2025), caracteriza-se por:
+
+- **A)** Despacho descentralizado, em que cada usina decide livremente quando gerar, sem qualquer coordenação central.
+- **B)** Despacho centralizado baseado em otimização de custo mínimo esperado, que utiliza modelos estocásticos para lidar com a incerteza hidrológica e coordenar o uso de reservatórios (gestão intertemporal da água) e usinas térmicas.
+- **C)** Despacho baseado unicamente no preço ofertado por cada usina em um leilão de curtíssimo prazo (spot), semelhante a mercados totalmente descentralizados do tipo bolsa de energia pura.
+- **D)** Despacho exclusivamente determinado por contratos bilaterais entre geradoras e consumidores, sem qualquer otimização central.
+
+**3.** No mercado brasileiro de energia, a distinção entre Ambiente de Contratação Regulada (ACR) e Ambiente de Contratação Livre (ACL) refere-se a:
+
+- **A)** O ACR é destinado a grandes consumidores industriais que negociam livremente preços com geradores, enquanto o ACL é restrito a consumidores residenciais.
+- **B)** O ACR envolve a contratação de energia por distribuidoras para atender consumidores cativos, geralmente via leilões regulados pela ANEEL; o ACL permite que consumidores livres/especiais negociem diretamente condições de suprimento com geradores e comercializadores.
+- **C)** Ambos os ambientes são idênticos, diferindo apenas no nome usado por diferentes estados brasileiros.
+- **D)** O ACL é um ambiente exclusivo para energias renováveis, enquanto o ACR só comercializa energia de usinas térmicas.
+
+**4.** O Preço de Liquidação das Diferenças (PLD) no mercado elétrico brasileiro é:
+
+- **A)** O preço final cobrado do consumidor residencial em sua fatura de energia elétrica.
+- **B)** Um preço de referência de curto prazo, calculado periodicamente, utilizado para liquidar financeiramente as diferenças entre a energia contratada e a energia efetivamente gerada/consumida por cada agente no mercado de curto prazo.
+- **C)** Uma tarifa fixa definida por contrato de longo prazo entre geradoras e o governo federal, imutável ao longo do ano.
+- **D)** O custo de investimento (CAPEX) de construção de novas usinas geradoras.
+
+**5.** A matriz de geração elétrica brasileira é historicamente caracterizada pela predominância de usinas hidrelétricas, com usinas termelétricas desempenhando um papel complementar. Essa complementaridade tem como principal função:
+
+- **A)** Substituir definitivamente a geração hidrelétrica, que estaria em processo de extinção no Brasil.
+- **B)** Atuar como reserva e apoio em períodos de hidrologia desfavorável (baixa afluência aos reservatórios), ajudando a preservar os níveis dos reservatórios e garantir a segurança do suprimento.
+- **C)** Eliminar completamente a necessidade de operação coordenada pelo ONS.
+- **D)** Fornecer exclusivamente energia para exportação a países vizinhos, sem uso doméstico.
+
+**6.** Entre os processos de modernização regulatória do setor elétrico brasileiro discutidos por Silva et al. (2025), destaca-se:
+
+- **A)** O fechamento completo do mercado livre de energia (ACL), restringindo toda a contratação exclusivamente ao ambiente regulado.
+- **B)** A ampliação do mercado livre, com a redução progressiva dos limiares de carga/tensão que definem a elegibilidade de consumidores para migrar do mercado cativo (ACR) para o mercado livre (ACL), ampliando a liberdade de escolha do consumidor.
+- **C)** A eliminação total do papel da ANEEL como agência reguladora do setor.
+- **D)** O retorno ao modelo de monopólios estatais verticalizados vigente antes das reformas dos anos 1990.
+
+**7.** O conceito de 'garantia física' de uma usina geradora no setor elétrico brasileiro representa:
+
+- **A)** A garantia bancária exigida para a construção civil da usina.
+- **B)** A quantidade máxima de energia que a usina pode fisicamente produzir em um único instante de pico de operação.
+- **C)** O montante de energia que a usina está habilitada a comercializar em contratos, calculado com base na capacidade de produção de energia do sistema como um todo (de forma a assegurar, estatisticamente, o atendimento à demanda) e não apenas na capacidade individual da usina isoladamente.
+- **D)** O valor do seguro contratado para cobrir danos físicos aos equipamentos da usina.
+
+**8.** O Mecanismo de Realocação de Energia (MRE) foi criado no setor elétrico brasileiro com o objetivo de:
+
+- **A)** Compartilhar entre as usinas hidrelétricas participantes o risco hidrológico (variações na vazão dos rios), realocando energia entre elas de modo que gerem, em conjunto, próximo à garantia física total do mecanismo, independentemente da geração individual de cada usina.
+- **B)** Transferir integralmente o risco hidrológico para os consumidores finais, sem qualquer mecanismo de mitigação para os geradores.
+- **C)** Definir o preço final da energia vendida no varejo aos consumidores residenciais.
+- **D)** Substituir completamente a necessidade de despacho centralizado pelo ONS.
+
+**9.** A crescente participação de fontes renováveis intermitentes (eólica e solar) na matriz elétrica brasileira traz, entre outros, o seguinte desafio técnico-operacional para o sistema, discutido na literatura sobre modernização do setor:
+
+- **A)** A necessidade de maior flexibilidade operacional e de mecanismos de previsão e integração (incluindo complementaridade com fontes despacháveis, como hidrelétricas e térmicas), em razão da variabilidade e incerteza da geração eólica e solar.
+- **B)** A completa eliminação da necessidade de reservatórios hidrelétricos no sistema.
+- **C)** A garantia de que a geração eólica e solar será sempre perfeitamente previsível e constante ao longo do dia.
+- **D)** A redução da complexidade de operação do sistema elétrico, tornando desnecessária qualquer coordenação centralizada.
+
+**10.** Os leilões de energia no Brasil, instrumento central do Ambiente de Contratação Regulada (ACR), podem ser classificados, entre outras categorias, em leilões de energia nova e leilões de energia existente. A diferença entre eles é que:
+
+- **A)** Leilões de energia nova contratam energia proveniente de empreendimentos de geração ainda não construídos (a serem implantados), enquanto leilões de energia existente contratam energia de usinas já em operação.
+- **B)** Leilões de energia nova são destinados exclusivamente a usinas termelétricas, e leilões de energia existente apenas a hidrelétricas.
+- **C)** Não há distinção real entre os dois tipos de leilão; ambos os termos são usados de forma intercambiável no setor.
+- **D)** Leilões de energia existente são realizados apenas no Ambiente de Contratação Livre (ACL), nunca no ACR.
+
+## Gabarito e explicações
+
+**1. Resposta: B**
+
+- ❌ **A)** A ANEEL é a agência reguladora do setor elétrico, responsável por regulação, fiscalização e outorga de concessões/autorizações, não pela operação técnica e despacho diário do sistema.
+- ✅ **B)** Correto. O ONS é responsável pela operação centralizada do SIN, definindo o despacho das usinas (geralmente com base em modelos de otimização de custo mínimo) e coordenando a operação técnica do sistema de transmissão para garantir confiabilidade e segurança do suprimento.
+- ❌ **C)** A CCEE é responsável pela contabilização e liquidação financeira das transações de energia no mercado (incluindo o cálculo do PLD), não pela operação técnica/despacho do sistema elétrico.
+- ❌ **D)** O MME é o órgão formulador de políticas públicas e diretrizes setoriais para o setor energético, de natureza mais estratégica/regulatória, e não o responsável operacional pelo despacho diário.
+
+**2. Resposta: B**
+
+- ❌ **A)** O sistema brasileiro é fortemente centralizado (via ONS), ao contrário de despachos puramente descentralizados; essa centralização é necessária justamente pela forte predominância hidrelétrica e pela necessidade de gestão coordenada dos reservatórios.
+- ✅ **B)** Correto. Dado o peso das hidrelétricas com reservatórios de regularização plurianual, o Brasil adota um despacho centralizado baseado em modelos de otimização estocástica (como o NEWAVE/DECOMP), que minimizam o custo total esperado de operação (incluindo o custo de déficit), equilibrando o uso presente da água armazenada contra o risco hidrológico futuro.
+- ❌ **C)** Embora exista um preço de referência de curto prazo (PLD), o despacho físico das usinas não é definido por lances de oferta em leilão spot como em mercados puramente baseados em ofertas (bid-based); o despacho brasileiro é determinado por otimização de custos (cost-based), centralizada pelo ONS.
+- ❌ **D)** Contratos bilaterais definem obrigações financeiras entre as partes, mas o despacho físico das usinas continua sendo determinado centralmente pelo ONS com base em critérios de otimização e segurança energética, independentemente dos contratos financeiros firmados.
+
+**3. Resposta: B**
+
+- ❌ **A)** A descrição está invertida: consumidores cativos (geralmente residenciais e pequenos) são atendidos no ACR por meio das distribuidoras, enquanto grandes consumidores (livres/especiais) são os que podem migrar para o ACL e negociar livremente.
+- ✅ **B)** Correto. O ACR concentra a contratação de energia das distribuidoras para atender seus consumidores cativos, com preços e condições definidos principalmente via leilões regulados; o ACL permite que consumidores livres (geralmente de maior porte, e progressivamente consumidores de menor porte, num processo de modernização/abertura do mercado) negociem diretamente preços e prazos com geradores e comercializadoras.
+- ❌ **C)** Os dois ambientes têm regras, participantes e lógicas de formação de preço distintas; não são nomes regionais equivalentes, mas sim segmentos estruturalmente diferentes do mercado.
+- ❌ **D)** A divisão ACR/ACL não se baseia na fonte de energia (renovável ou térmica), mas sim no regime de contratação (regulado vs. livre) e no tipo de consumidor atendido.
+
+**4. Resposta: B**
+
+- ❌ **A)** A tarifa na fatura do consumidor residencial é definida pela distribuidora local, regulada pela ANEEL, e envolve componentes tarifárias distintas (energia, transmissão, encargos, tributos); não se confunde diretamente com o PLD, que opera no mercado de curto prazo entre agentes.
+- ✅ **B)** Correto. O PLD reflete o custo marginal de operação do sistema (derivado dos modelos de otimização do despacho) e é usado pela CCEE para liquidar financeiramente, no mercado de curto prazo, as diferenças entre o montante de energia contratado por cada agente e o montante efetivamente gerado ou consumido.
+- ❌ **C)** O PLD é recalculado periodicamente (não é fixo por longo prazo) e reflete condições de oferta, demanda e hidrologia no curto prazo, diferentemente de uma tarifa contratual fixa de longo prazo.
+- ❌ **D)** CAPEX é uma medida de investimento em ativos de geração, um conceito de finanças de projeto, sem relação direta com o PLD, que é um preço de mercado de curto prazo associado à operação do sistema.
+
+**5. Resposta: B**
+
+- ❌ **A)** A hidreletricidade continua sendo a espinha dorsal da matriz brasileira (embora sua participação relativa venha diminuindo com a expansão de eólica e solar); ela não está em processo de extinção.
+- ✅ **B)** Correto. Como a geração hidrelétrica depende da disponibilidade de água nos reservatórios (sujeita a variabilidade hidrológica interanual), as usinas termelétricas (e cada vez mais outras fontes) atuam de forma complementar, sendo acionadas especialmente em períodos de hidrologia desfavorável, permitindo poupar água nos reservatórios e reduzir o risco de déficit de energia.
+- ❌ **C)** Pelo contrário: justamente pela complexidade de coordenar fontes complementares (hídrica, térmica, e cada vez mais eólica/solar), a operação centralizada do ONS se torna ainda mais necessária, não dispensável.
+- ❌ **D)** A geração termelétrica no Brasil atende prioritariamente a demanda doméstica do SIN; embora existam interligações internacionais, a exportação não é a finalidade principal da complementaridade termelétrica discutida na literatura.
+
+**6. Resposta: B**
+
+- ❌ **A)** A tendência discutida na literatura é exatamente oposta: abertura e expansão do mercado livre, não seu fechamento ou eliminação.
+- ✅ **B)** Correto. Um dos eixos centrais da modernização do setor elétrico brasileiro é a abertura gradual do mercado, reduzindo os requisitos mínimos de carga/tensão para que consumidores de menor porte possam se tornar consumidores livres, aumentando a concorrência, a liberdade de escolha de fornecedor e pressionando por maior eficiência e transparência na formação de preços.
+- ❌ **C)** A modernização regulatória discutida envolve o aprimoramento do papel da ANEEL e de outras instituições (não sua eliminação), incluindo novas regras de mercado, precificação horária e maior transparência.
+- ❌ **D)** O movimento histórico e as reformas discutidas vão na direção de maior competição e desverticalização (separação entre geração, transmissão, distribuição e comercialização), não um retorno ao modelo estatal verticalizado anterior às reformas.
+
+**7. Resposta: C**
+
+- ❌ **A)** Garantia física não é um instrumento financeiro/bancário de construção, mas um conceito regulatório-energético relacionado à capacidade de comercialização de energia.
+- ❌ **B)** A garantia física não corresponde à capacidade instantânea máxima (pico) de uma usina isolada, mas sim a um valor calculado de forma sistêmica, considerando inclusive a complementaridade entre fontes (especialmente relevante para hidrelétricas, cuja geração depende de hidrologia variável).
+- ✅ **C)** Correto. A garantia física é o lastro de energia que cada usina (ou conjunto de usinas, no caso de hidrelétricas despachadas de forma centralizada) está autorizada a vender em contratos, calculada por meio de estudos energéticos que consideram o comportamento do sistema como um todo, garantindo que o total de energia contratada no país seja compatível com a capacidade efetiva de suprimento do SIN.
+- ❌ **D)** Isso descreve um seguro contra danos físicos a ativos, um instrumento de gestão de risco patrimonial, sem relação com o conceito regulatório de lastro de comercialização de energia.
+
+**8. Resposta: A**
+
+- ✅ **A)** Correto. O MRE funciona como um mecanismo de compartilhamento de risco hidrológico entre as hidrelétricas participantes: como o despacho é centralizado (ONS decide quanto cada usina gera fisicamente, não necessariamente em linha com seus contratos), o MRE realoca a energia gerada de forma que cada usina receba (contabilmente) uma quantidade proporcional à sua garantia física, mitigando o descompasso entre geração física individual e compromissos contratuais.
+- ❌ **B)** O MRE foi criado para justamente mitigar (não eliminar ou transferir integralmente) o risco hidrológico entre geradores; quando a geração total do mecanismo fica abaixo da garantia física agregada (ocorrência de GSF menor que 1), ainda assim existe um mecanismo de compartilhamento entre os participantes, e não uma simples transferência ao consumidor.
+- ❌ **C)** A formação de preços no varejo para consumidores residenciais é definida por processos tarifários regulados pela ANEEL/distribuidoras, distintos do MRE, que opera entre geradores hidrelétricos no atacado.
+- ❌ **D)** O MRE é um mecanismo contábil/financeiro de alocação de energia entre geradores, complementar ao despacho centralizado do ONS, e não um substituto dele.
+
+**9. Resposta: A**
+
+- ✅ **A)** Correto. Fontes intermitentes como eólica e solar têm geração variável e parcialmente imprevisível (dependente de vento e insolação), exigindo maior flexibilidade dos demais recursos do sistema (especialmente hidrelétricas com reservatório, que podem compensar rapidamente variações), aprimoramento de modelos de previsão meteorológica/energética e investimentos em flexibilidade operacional e, eventualmente, armazenamento.
+- ❌ **B)** Pelo contrário: os reservatórios hidrelétricos se tornam ainda mais valiosos nesse contexto, pois sua flexibilidade de despacho ajuda a compensar a variabilidade das fontes intermitentes — não há eliminação dessa necessidade.
+- ❌ **C)** Um dos problemas centrais discutidos na literatura é justamente a variabilidade e a incerteza (não a previsibilidade e constância) da geração eólica e solar, que exige ferramentas robustas de previsão probabilística.
+- ❌ **D)** O aumento de fontes intermitentes tende a ELEVAR, não reduzir, a complexidade operacional do sistema, reforçando (não eliminando) a necessidade de coordenação centralizada pelo ONS.
+
+**10. Resposta: A**
+
+- ✅ **A)** Correto. Os leilões de energia nova (A-3, A-4, A-5, A-6, conforme o prazo de antecedência) contratam energia de usinas que ainda serão construídas, servindo como instrumento de planejamento da expansão da oferta; os leilões de energia existente (A-1) contratam energia de usinas já em operação, voltados a repor contratos a vencer e à gestão de curto prazo do portfólio das distribuidoras.
+- ❌ **B)** A classificação em energia nova/existente não se baseia na fonte (termelétrica vs. hidrelétrica), mas no fato de o empreendimento já existir ou ainda precisar ser construído; ambos os tipos de leilão podem envolver diferentes fontes de geração.
+- ❌ **C)** Os dois tipos de leilão têm propósitos, prazos de contratação e públicos de geradores distintos (planejamento de expansão versus gestão de energia de usinas já operacionais), não sendo termos equivalentes.
+- ❌ **D)** Leilões regulados de energia nova e existente são realizados justamente no ACR (sob coordenação da ANEEL/CCEE) para suprir as distribuidoras; o ACL, por definição, é o ambiente de negociação livre e bilateral, sem leilões regulados centralizados desse tipo.

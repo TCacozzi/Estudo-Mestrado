@@ -1,0 +1,148 @@
+# Fundamentos e Evolução da Qualidade: Gurus, Conceitos e TQM
+
+**Tópico:** Fundamentos e Evolução da Qualidade  
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+
+## Questões
+
+**1.** William Edwards Deming é associado a uma visão estatística e sistêmica da qualidade, tendo popularizado no Japão pós-guerra um ciclo de melhoria contínua originalmente proposto por Walter Shewhart. Esse ciclo é conhecido como:
+
+- **A)** Ciclo PDCA (Plan-Do-Check-Act), também chamado de ciclo de Shewhart ou ciclo de Deming
+- **B)** Trilogia da Qualidade (Planejamento, Controle e Melhoria)
+- **C)** Os 14 pontos para a gestão, que substituem qualquer ferramenta estatística
+- **D)** O método dos Zero Defeitos, baseado em metas comportamentais
+
+**2.** Joseph Juran definiu qualidade de forma pragmática como "adequação ao uso" (fitness for use) e estruturou a gestão da qualidade em três processos gerenciais inter-relacionados. Esse modelo é conhecido como:
+
+- **A)** Os quatro absolutos da qualidade
+- **B)** A Trilogia de Juran: Planejamento da Qualidade, Controle da Qualidade e Melhoria da Qualidade
+- **C)** O Total Quality Control (TQC)
+- **D)** O diagrama de causa e efeito
+
+**3.** Philip Crosby ficou conhecido por afirmar que "a qualidade é gratuita" (quality is free), argumentando que o investimento em prevenção é compensado pela redução de custos de falhas. Qual conceito está mais diretamente associado à sua abordagem?
+
+- **A)** Controle Estatístico de Processo (CEP) como base exclusiva da qualidade
+- **B)** Círculos de Controle da Qualidade (CCQ) como unidade central do programa
+- **C)** Zero Defeitos e conformidade com os requisitos como padrão de desempenho
+- **D)** A hierarquia dos 9Rs para gestão de resíduos
+
+**4.** Kaoru Ishikawa é reconhecido por difundir ferramentas simples e acessíveis a todos os níveis da organização, incluindo operários, para análise e solução de problemas de qualidade. Duas de suas principais contribuições são:
+
+- **A)** O diagrama de causa e efeito (espinha de peixe) e os Círculos de Controle da Qualidade (CCQ)
+- **B)** A matriz FMEA e o diagrama de dispersão
+- **C)** Os 14 pontos para a gestão e a reação em cadeia da qualidade
+- **D)** O conceito de custo da má qualidade (COPQ) e os quatro absolutos
+
+**5.** Armand Feigenbaum cunhou o termo Total Quality Control (TQC), defendendo que a qualidade não poderia ser responsabilidade exclusiva de um departamento. Qual é a ideia central dessa abordagem?
+
+- **A)** A qualidade deve ser garantida apenas pela inspeção final realizada pelo departamento de controle de qualidade
+- **B)** A qualidade é responsabilidade de todos os departamentos e funções da organização, exigindo coordenação sistêmica ao longo de todo o ciclo do produto
+- **C)** A qualidade é determinada exclusivamente pela conformidade estatística dos processos de manufatura
+- **D)** A qualidade deve ser medida apenas após a entrega do produto ao cliente, por meio de pesquisas de satisfação
+
+**6.** David Garvin propôs uma visão histórica da evolução da gestão da qualidade em eras sucessivas. Qual sequência representa corretamente essa evolução, do estágio mais antigo ao mais recente?
+
+- **A)** Gestão Estratégica da Qualidade → Garantia da Qualidade → Controle Estatístico → Inspeção
+- **B)** Inspeção → Controle Estatístico da Qualidade → Garantia da Qualidade → Gestão Estratégica da Qualidade
+- **C)** Controle Estatístico → Inspeção → Gestão Estratégica da Qualidade → Garantia da Qualidade
+- **D)** Garantia da Qualidade → Inspeção → Gestão Estratégica da Qualidade → Controle Estatístico
+
+**7.** A Gestão da Qualidade Total (TQM - Total Quality Management) é frequentemente descrita por um conjunto de princípios centrais. Qual das alternativas reúne corretamente princípios amplamente associados ao TQM?
+
+- **A)** Foco exclusivo em metas financeiras de curto prazo e centralização das decisões na alta direção
+- **B)** Foco no cliente, melhoria contínua, envolvimento e comprometimento de todos os colaboradores, e gestão baseada em processos
+- **C)** Ênfase exclusiva na certificação ISO 9001 como único mecanismo de melhoria
+- **D)** Priorização da inspeção final como principal mecanismo de garantia da qualidade
+
+**8.** Garvin também propôs diferentes abordagens (definições) para o conceito de qualidade, que variam conforme a perspectiva adotada. Qual par de abordagens está corretamente descrito?
+
+- **A)** Abordagem transcendente (qualidade como excelência inata, absoluta e reconhecível, mas difícil de definir) e abordagem baseada no usuário (qualidade como capacidade de satisfazer preferências e necessidades do consumidor)
+- **B)** Abordagem baseada no produto e abordagem transcendente são sinônimos e definem qualidade apenas pelo preço do bem
+- **C)** Abordagem baseada no valor considera exclusivamente as especificações técnicas do produto, ignorando custo e preço
+- **D)** Abordagem baseada na manufatura define qualidade a partir da percepção subjetiva do cliente final
+
+**9.** Garvin também identificou oito dimensões da qualidade aplicáveis a produtos, úteis para análise estratégica e competitiva. Qual conjunto de dimensões está correto?
+
+- **A)** Desempenho, características (features), confiabilidade, conformidade, durabilidade, atendimento, estética e qualidade percebida
+- **B)** Preço, promoção, praça, produto, pessoas, processos, evidência física e produtividade
+- **C)** Planejar, Fazer, Verificar, Agir, Medir, Analisar, Melhorar e Controlar
+- **D)** Severidade, ocorrência, detecção e número de prioridade de risco
+
+**10.** Comparando as abordagens dos principais gurus da qualidade, é correto afirmar que:
+
+- **A)** Deming enfatizava sobretudo a redução da variação por meio de métodos estatísticos e a responsabilidade da alta administração pelo sistema; Crosby enfatizava mais os aspectos comportamentais e motivacionais, com a meta de zero defeitos
+- **B)** Todos os gurus da qualidade (Deming, Juran, Crosby, Ishikawa e Feigenbaum) propuseram exatamente o mesmo conjunto de ferramentas e a mesma definição de qualidade, sem diferenças relevantes entre si
+- **C)** Ishikawa rejeitava a participação dos trabalhadores de chão de fábrica na melhoria da qualidade, defendendo que essa tarefa deveria ficar restrita a especialistas estatísticos
+- **D)** Feigenbaum defendia que os custos da qualidade deveriam ser ignorados na gestão, pois a qualidade não teria relação mensurável com resultados financeiros
+
+## Gabarito e explicações
+
+**1. Resposta: A**
+
+- ✅ **A)** Correta. O ciclo PDCA (Planejar, Executar, Verificar, Agir) foi originalmente formulado por Shewhart e amplamente difundido por Deming como método sistemático de melhoria contínua baseado em experimentação e aprendizado, por isso também é chamado de ciclo de Shewhart-Deming.
+- ❌ **B)** Incorreta. A Trilogia da Qualidade (Planejamento, Controle e Melhoria da Qualidade) é um modelo de gestão proposto por Joseph Juran, não por Deming, embora ambos compartilhem a ideia de melhoria contínua.
+- ❌ **C)** Incorreta. Os 14 pontos para a gestão são, de fato, uma contribuição de Deming, mas são princípios gerenciais e filosóficos; não substituem o PDCA, que é a ferramenta operacional de melhoria associada a ele.
+- ❌ **D)** Incorreta. O programa Zero Defeitos é associado a Philip Crosby, que enfatizava motivação, conscientização e conformidade com requisitos, e não ao ciclo de melhoria contínua de Deming/Shewhart.
+
+**2. Resposta: B**
+
+- ❌ **A)** Incorreta. Os quatro absolutos da qualidade (definição como conformidade com requisitos, sistema de prevenção, padrão de desempenho zero defeitos, medição pelo custo da não conformidade) são de Philip Crosby, não de Juran.
+- ✅ **B)** Correta. Juran estruturou a gestão da qualidade em três processos universais e inter-relacionados — Planejamento, Controle e Melhoria da Qualidade — conhecidos como a Trilogia de Juran (Juran's Trilogy), análogos à forma como empresas gerenciam finanças (orçamento, controle orçamentário e redução de custos).
+- ❌ **C)** Incorreta. O Total Quality Control (Controle da Qualidade Total) é o conceito central da obra de Armand Feigenbaum, que defendia a qualidade como responsabilidade coordenada de toda a organização, e não um sinônimo da trilogia de Juran.
+- ❌ **D)** Incorreta. O diagrama de causa e efeito (espinha de peixe) é uma ferramenta desenvolvida por Kaoru Ishikawa para análise de causas-raiz de problemas, não um modelo gerencial de Juran.
+
+**3. Resposta: C**
+
+- ❌ **A)** Incorreta. O CEP é fortemente associado a Deming e Shewhart, com ênfase na variação estatística dos processos; Crosby é mais conhecido por uma abordagem comportamental e gerencial, não estatística.
+- ❌ **B)** Incorreta. Os Círculos de Controle da Qualidade (CCQ) são associados a Kaoru Ishikawa e ao modelo japonês de envolvimento dos trabalhadores em pequenos grupos de melhoria.
+- ✅ **C)** Correta. Crosby definiu qualidade como "conformidade com os requisitos" e defendeu o padrão de desempenho de Zero Defeitos (fazer certo da primeira vez), afirmando que prevenir falhas custa menos do que corrigi-las, daí a frase "a qualidade é gratuita".
+- ❌ **D)** Incorreta. A hierarquia dos 9Rs é um conceito da literatura de economia circular (Homrich et al. e correlatos), sem relação com a obra de Crosby sobre qualidade.
+
+**4. Resposta: A**
+
+- ✅ **A)** Correta. Ishikawa desenvolveu o diagrama de causa e efeito (também chamado diagrama de Ishikawa ou espinha de peixe) e promoveu os Círculos de Controle da Qualidade, grupos voluntários de trabalhadores que se reúnem para identificar e resolver problemas, difundindo a ideia de 'qualidade total' envolvendo todos os níveis hierárquicos.
+- ❌ **B)** Incorreta. O FMEA é uma técnica de análise de modos de falha associada à engenharia da confiabilidade (popularizada em contextos automotivo e aeroespacial), e o diagrama de dispersão, embora integre as sete ferramentas da qualidade como o diagrama de Ishikawa, não é uma criação exclusiva dele.
+- ❌ **C)** Incorreta. Os 14 pontos para a gestão e a reação em cadeia da qualidade (melhoria da qualidade reduz custos, aumenta produtividade e participação de mercado) são contribuições de Deming, não de Ishikawa.
+- ❌ **D)** Incorreta. O custo da má qualidade (Cost of Poor Quality) é mais associado a Juran e Feigenbaum, e os quatro absolutos da qualidade são de Crosby.
+
+**5. Resposta: B**
+
+- ❌ **A)** Incorreta. Essa é justamente a visão tradicional e limitada que Feigenbaum criticava: a qualidade concentrada apenas na inspeção final e em um departamento isolado, modelo típico das eras anteriores de inspeção da qualidade.
+- ✅ **B)** Correta. Feigenbaum defendia que a qualidade deveria ser integrada a todas as funções organizacionais (projeto, compras, produção, marketing, assistência técnica etc.), exigindo um sistema coordenado de controle total da qualidade ao longo de todo o ciclo de vida do produto, e não responsabilidade exclusiva de um setor.
+- ❌ **C)** Incorreta. Embora o controle estatístico seja uma ferramenta importante (mais associada a Deming/Shewhart), Feigenbaum ampliou o escopo da qualidade para além da manufatura, incluindo dimensões gerenciais, organizacionais e de custos.
+- ❌ **D)** Incorreta. Medir qualidade apenas após a entrega ignora a lógica de prevenção que Feigenbaum e os demais gurus da qualidade (Crosby, Deming, Juran) enfatizavam como superior a depender somente de avaliações posteriores.
+
+**6. Resposta: B**
+
+- ❌ **A)** Incorreta. Essa sequência está invertida: a Gestão Estratégica da Qualidade é a era mais recente e mais ampla, não a inicial; ela sucede, e não precede, as demais eras.
+- ✅ **B)** Correta. Garvin descreve quatro eras da evolução da qualidade: (1) Inspeção, focada em detectar defeitos no produto final; (2) Controle Estatístico da Qualidade, com amostragem e cartas de controle; (3) Garantia da Qualidade, ampliando o escopo para prevenção, custos da qualidade e sistemas; e (4) Gestão Estratégica da Qualidade, integrando a qualidade ao planejamento estratégico e à vantagem competitiva da organização.
+- ❌ **C)** Incorreta. Essa ordem mistura e inverte as eras de forma incoerente; a Inspeção é historicamente a primeira era, não a segunda, e a Gestão Estratégica é a última, não a terceira.
+- ❌ **D)** Incorreta. A Garantia da Qualidade é a terceira era, posterior à Inspeção e ao Controle Estatístico, não a primeira.
+
+**7. Resposta: B**
+
+- ❌ **A)** Incorreta. O TQM não prioriza metas financeiras de curto prazo isoladamente, nem centraliza decisões apenas na alta direção; pelo contrário, valoriza o envolvimento de todos os níveis organizacionais e uma visão de longo prazo.
+- ✅ **B)** Correta. O TQM é tipicamente caracterizado por princípios como foco no cliente (interno e externo), melhoria contínua (kaizen), envolvimento e capacitação de todos os colaboradores, liderança comprometida, gestão baseada em fatos e processos, e integração da qualidade à estratégia organizacional.
+- ❌ **C)** Incorreta. A certificação ISO 9001 é um instrumento formal de sistema de gestão, mas o TQM é um conceito filosófico e gerencial mais amplo, que não depende de certificação para existir, nem se resume a ela.
+- ❌ **D)** Incorreta. A inspeção final é característica da era mais antiga (Inspeção) na evolução da qualidade segundo Garvin; o TQM, ao contrário, busca prevenir defeitos ao longo de todo o processo, reduzindo a dependência da inspeção final.
+
+**8. Resposta: A**
+
+- ✅ **A)** Correta. Garvin descreve cinco abordagens de qualidade: transcendente (excelência inata e universalmente reconhecível, difícil de definir precisamente), baseada no produto (qualidade como quantidade de atributos ou ingredientes mensuráveis), baseada no usuário (adequação às preferências individuais do consumidor, próxima à ideia de 'adequação ao uso' de Juran), baseada na produção/manufatura (conformidade com especificações e ausência de desvios no processo), e baseada no valor (relação entre desempenho/conformidade e preço/custo).
+- ❌ **B)** Incorreta. A abordagem baseada no produto refere-se a atributos mensuráveis do bem, enquanto a abordagem transcendente trata de uma noção abstrata e subjetiva de excelência; não são sinônimos, e nenhuma delas se resume exclusivamente ao preço.
+- ❌ **C)** Incorreta. É exatamente o oposto: a abordagem baseada no valor combina desempenho/conformidade com custo e preço, avaliando o quanto se obtém de qualidade por unidade de custo, e não ignora essa dimensão econômica.
+- ❌ **D)** Incorreta. A abordagem baseada na manufatura (ou produção) define qualidade como conformidade com especificações técnicas e ausência de variações no processo produtivo, sendo uma visão interna à empresa, e não a percepção subjetiva do cliente, que caracteriza a abordagem baseada no usuário.
+
+**9. Resposta: A**
+
+- ✅ **A)** Correta. As oito dimensões da qualidade de Garvin são: desempenho (características operacionais primárias), características adicionais (features), confiabilidade (probabilidade de falha em um período), conformidade (atendimento a especificações e normas), durabilidade (vida útil do produto), atendimento (facilidade e rapidez de reparo/serviço pós-venda), estética (aparência, sabor, aspectos sensoriais) e qualidade percebida (reputação e imagem).
+- ❌ **B)** Incorreta. Esse conjunto mistura elementos do composto de marketing (4 Ps) e de marketing de serviços (7 Ps), que não correspondem às dimensões da qualidade de produto propostas por Garvin.
+- ❌ **C)** Incorreta. Essa sequência mistura as etapas do ciclo PDCA (Planejar, Fazer, Verificar, Agir) com as etapas do DMAIC do Six Sigma (Medir, Analisar, Melhorar, Controlar), que são metodologias de melhoria de processo, não dimensões de qualidade de produto.
+- ❌ **D)** Incorreta. Severidade, ocorrência, detecção e número de prioridade de risco (NPR) são elementos do FMEA (Failure Mode and Effects Analysis), uma ferramenta de análise de risco, não as dimensões de qualidade de Garvin.
+
+**10. Resposta: A**
+
+- ✅ **A)** Correta. Embora todos compartilhem o objetivo de melhorar a qualidade, há ênfases distintas: Deming é fortemente associado ao pensamento estatístico sobre variação (causas comuns e especiais) e à responsabilidade sistêmica da gestão (seus 14 pontos tratam majoritariamente de cultura e liderança); Crosby, por sua vez, enfatizava aspectos motivacionais, comportamentais e de conscientização dos funcionários, com a meta absoluta de zero defeitos como padrão de desempenho.
+- ❌ **B)** Incorreta. Essa afirmação é falsa e contraria todo o histórico da disciplina: cada guru desenvolveu ênfases, ferramentas e definições próprias (por exemplo, Deming com o CEP e PDCA, Juran com a Trilogia, Crosby com Zero Defeitos, Ishikawa com CCQ e diagrama causa-efeito, Feigenbaum com o TQC), ainda que compartilhem princípios gerais de melhoria contínua.
+- ❌ **C)** Incorreta. É o oposto do que Ishikawa defendia: ele foi um dos principais responsáveis por democratizar as ferramentas da qualidade, tornando-as acessíveis a operários por meio dos Círculos de Controle da Qualidade, valorizando fortemente a participação de todos os níveis hierárquicos.
+- ❌ **D)** Incorreta. Feigenbaum, ao contrário, foi um dos pioneiros em sistematizar os custos da qualidade (prevenção, avaliação e falhas) como instrumento gerencial para justificar investimentos em qualidade perante a alta administração, demonstrando sua relação direta com resultados financeiros.
