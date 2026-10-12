@@ -1,0 +1,349 @@
+{
+  "id": "ingles-05",
+  "titulo": "Pesquisa Operacional e Tomada de Decisão",
+  "topico": "Operations Research and Decision Making",
+  "instrucoes": "Leia o texto em inglês e responda às questões a seguir, com base exclusivamente no texto.",
+  "texto": "Operations research emerged during the Second World War, when military planners enlisted mathematicians and scientists to improve the allocation of scarce resources such as radar coverage, convoy routing, and anti-aircraft gunnery. After the war, the same quantitative techniques migrated into civilian industry, giving rise to a discipline devoted to applying mathematical models, statistics, and algorithms to support complex decisions in logistics, manufacturing, finance, and public policy.\n\nOne of the field's foundational tools is linear programming, a method for finding the best possible outcome, such as maximum profit or minimum cost, in a mathematical model whose requirements are represented by linear relationships. A manufacturer, for example, might use linear programming to determine how many units of each product to produce given limited raw materials, labor hours, and machine capacity, so as to maximize overall profit while respecting every constraint simultaneously. Although real-world problems rarely conform perfectly to the linear assumptions underlying the method, linear programming nonetheless provides a powerful first approximation that has guided decisions ranging from airline crew scheduling to agricultural land allocation.\n\nMany decisions, however, cannot be reduced to a single, perfectly known set of parameters, since the future is inherently uncertain. Decision theory addresses this challenge by distinguishing between decisions made under risk, where probabilities of different outcomes are known or can be reasonably estimated, and decisions made under genuine uncertainty, where even these probabilities remain unknown. Under risk, decision-makers often rely on expected value calculations, weighting each possible outcome by its probability of occurrence. Under uncertainty, by contrast, analysts turn to criteria such as the maximin rule, which selects the option whose worst possible outcome is the least bad among all alternatives, reflecting a cautious, risk-averse posture rather than an attempt to calculate a precise expected payoff.\n\nQueueing theory offers another illustrative example of the field's practical relevance. By modeling how customers, parts, or information arrive at a service point and how long they take to be processed, analysts can predict waiting times and congestion under different staffing or capacity scenarios, informing decisions as varied as how many tellers a bank should employ or how many checkout lanes a supermarket should open during peak hours.\n\nCritics occasionally argue that these models oversimplify messy organizational realities, reducing nuanced human behavior to tidy mathematical abstractions. Proponents respond that a deliberately simplified model, precisely because it strips away extraneous detail, allows decision-makers to isolate the effect of specific variables and compare alternatives systematically, something that intuition alone struggles to achieve consistently, particularly as the number of variables and constraints grows beyond what a single human mind can track unaided. In this sense, operations research does not replace managerial judgment but rather equips it with structured, quantitative support for navigating complexity.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Qual é a ideia central do texto?",
+      "alternativas": {
+        "A": "A pesquisa operacional surgiu exclusivamente para uso militar e nunca foi aplicada civilmente.",
+        "B": "A pesquisa operacional aplica modelos matemáticos e estatísticos para apoiar decisões complexas sob diferentes condições de certeza, risco e incerteza, complementando o julgamento humano.",
+        "C": "A programação linear é a única ferramenta relevante da pesquisa operacional.",
+        "D": "Modelos matemáticos sempre substituem completamente o julgamento gerencial."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. O texto afirma que, após a guerra, \"the same quantitative techniques migrated into civilian industry\", ou seja, houve aplicação civil.",
+        "B": "Correta. Resume o conteúdo do texto, que trata de múltiplas ferramentas (programação linear, teoria da decisão, teoria das filas) aplicadas sob diferentes condições, complementando o julgamento humano.",
+        "C": "Errada. O texto apresenta várias ferramentas, não apenas a programação linear.",
+        "D": "Errada. O texto conclui justamente o oposto, que a pesquisa operacional \"does not replace managerial judgment but rather equips it\"."
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "O propósito principal do texto é...",
+      "alternativas": {
+        "A": "Detalhar historicamente todas as batalhas da Segunda Guerra Mundial.",
+        "B": "Apresentar, de forma introdutória, os fundamentos, ferramentas e aplicações da pesquisa operacional na tomada de decisão.",
+        "C": "Promover um software específico de otimização.",
+        "D": "Argumentar que a intuição gerencial deve ser completamente abandonada."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. A Segunda Guerra Mundial é mencionada apenas como contexto de origem, não como tema central.",
+        "B": "Correta. O texto apresenta de forma introdutória conceitos como programação linear, teoria da decisão e teoria das filas.",
+        "C": "Errada. Nenhum software específico é promovido no texto.",
+        "D": "Errada. O texto não defende abandono da intuição gerencial; afirma que a pesquisa operacional a complementa."
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Segundo o texto, a pesquisa operacional surgiu durante qual período histórico?",
+      "alternativas": {
+        "A": "A Revolução Industrial.",
+        "B": "A Segunda Guerra Mundial.",
+        "C": "A Grande Depressão.",
+        "D": "A Guerra Fria, décadas após 1950."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. A Revolução Industrial não é mencionada no texto.",
+        "B": "Correta. O texto afirma que \"Operations research emerged during the Second World War\".",
+        "C": "Errada. A Grande Depressão não é mencionada.",
+        "D": "Errada. O texto situa a origem na Segunda Guerra Mundial, não décadas depois."
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Segundo o texto, quais eram alguns dos problemas militares que motivaram o desenvolvimento inicial da pesquisa operacional?",
+      "alternativas": {
+        "A": "Cobertura de radar, roteamento de comboios e artilharia antiaérea.",
+        "B": "Produção agrícola e escalonamento de voos comerciais.",
+        "C": "Gestão de filas em bancos e supermercados.",
+        "D": "Alocação de verbas para universidades."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta. O texto cita exatamente \"radar coverage, convoy routing, and anti-aircraft gunnery\".",
+        "B": "Errada. Esses exemplos aparecem depois, como aplicações civis posteriores (programação linear).",
+        "C": "Errada. Gestão de filas é mencionada em outro contexto (teoria das filas), não como motivação militar original.",
+        "D": "Errada. Alocação para universidades não é mencionada no texto."
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "No trecho \"military planners enlisted mathematicians and scientists\", a palavra \"enlisted\" significa, no contexto...",
+      "alternativas": {
+        "A": "Demitiram.",
+        "B": "Recrutaram/convocaram.",
+        "C": "Ignoraram.",
+        "D": "Financiaram apenas parcialmente."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. \"Enlisted\" não significa demitir.",
+        "B": "Correta. \"Enlisted\" significa recrutar ou convocar, no sentido de os planejadores militares terem convocado matemáticos e cientistas.",
+        "C": "Errada. Não há relação com ignorar.",
+        "D": "Errada. Não há relação com financiamento parcial."
+      }
+    },
+    {
+      "numero": 6,
+      "enunciado": "Segundo o texto, o que é a programação linear?",
+      "alternativas": {
+        "A": "Um método para encontrar o melhor resultado possível, como lucro máximo ou custo mínimo, em um modelo cujas restrições são representadas por relações lineares.",
+        "B": "Um método exclusivo para prever o comportamento humano em filas.",
+        "C": "Uma técnica utilizada apenas em contextos militares.",
+        "D": "Um método que elimina qualquer tipo de restrição de recursos."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta. O texto define assim: \"a method for finding the best possible outcome... in a mathematical model whose requirements are represented by linear relationships\".",
+        "B": "Errada. Essa descrição se refere à teoria das filas, não à programação linear.",
+        "C": "Errada. O texto cita aplicações civis, como escalonamento de voos e alocação agrícola.",
+        "D": "Errada. O método considera restrições de recursos, não as elimina."
+      }
+    },
+    {
+      "numero": 7,
+      "enunciado": "Com base no exemplo do fabricante apresentado no texto, pode-se inferir que a programação linear é útil para decidir...",
+      "alternativas": {
+        "A": "Quantas unidades de cada produto fabricar, dadas restrições de matéria-prima, mão de obra e capacidade de máquina, maximizando o lucro.",
+        "B": "Qual será o preço de venda de um produto no mercado internacional.",
+        "C": "Como motivar emocionalmente os funcionários de uma fábrica.",
+        "D": "Como eliminar totalmente a necessidade de matéria-prima."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta. O texto descreve exatamente esse exemplo: determinar quantas unidades produzir dadas restrições de matéria-prima, mão de obra e capacidade de máquina, maximizando o lucro.",
+        "B": "Errada. Preço de venda internacional não é mencionado nesse exemplo.",
+        "C": "Errada. Motivação emocional de funcionários não é mencionada.",
+        "D": "Errada. O método considera restrições de matéria-prima, não as elimina."
+      }
+    },
+    {
+      "numero": 8,
+      "enunciado": "No trecho \"Although real-world problems rarely conform perfectly to the linear assumptions... linear programming nonetheless provides a powerful first approximation\", a palavra \"nonetheless\" indica...",
+      "alternativas": {
+        "A": "Uma negação total da utilidade da programação linear.",
+        "B": "Uma concessão: apesar da limitação mencionada, a ferramenta ainda é útil.",
+        "C": "Uma relação de causa direta sem qualquer ressalva.",
+        "D": "Um exemplo adicional sem relação com a frase anterior."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. \"Nonetheless\" não nega a utilidade; afirma que a ferramenta ainda é útil apesar da limitação.",
+        "B": "Correta. A palavra introduz uma concessão: mesmo com a limitação de não conformar perfeitamente à realidade, a ferramenta continua útil.",
+        "C": "Errada. Há uma ressalva explícita (\"although... rarely conform perfectly\"), não uma causa direta sem ressalvas.",
+        "D": "Errada. A frase está diretamente relacionada à anterior, não é um exemplo desconexo."
+      }
+    },
+    {
+      "numero": 9,
+      "enunciado": "Segundo o texto, o que caracteriza uma decisão tomada \"sob risco\" (under risk)?",
+      "alternativas": {
+        "A": "As probabilidades dos diferentes resultados são conhecidas ou podem ser razoavelmente estimadas.",
+        "B": "Nenhuma informação sobre probabilidades está disponível.",
+        "C": "O resultado é sempre previsível com certeza absoluta.",
+        "D": "Não há necessidade de qualquer cálculo matemático."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta. O texto define decisão sob risco como aquela em que \"probabilities of different outcomes are known or can be reasonably estimated\".",
+        "B": "Errada. Essa descrição corresponde à incerteza genuína, não ao risco.",
+        "C": "Errada. O texto não afirma certeza absoluta sob risco, apenas probabilidades conhecidas/estimáveis.",
+        "D": "Errada. O texto menciona explicitamente cálculos (valor esperado) nesse contexto."
+      }
+    },
+    {
+      "numero": 10,
+      "enunciado": "Segundo o texto, sob incerteza genuína (genuine uncertainty), os analistas costumam recorrer a qual critério?",
+      "alternativas": {
+        "A": "Cálculo de valor esperado ponderado por probabilidades conhecidas.",
+        "B": "A regra maximin, que seleciona a opção cujo pior resultado possível é o menos ruim entre todas as alternativas.",
+        "C": "Um sorteio aleatório entre as opções disponíveis.",
+        "D": "A opinião da maioria dos funcionários da empresa."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. Essa descrição corresponde a decisões sob risco, não sob incerteza.",
+        "B": "Correta. O texto afirma que, sob incerteza, \"analysts turn to criteria such as the maximin rule, which selects the option whose worst possible outcome is the least bad\".",
+        "C": "Errada. Sorteio aleatório não é mencionado no texto.",
+        "D": "Errada. Opinião da maioria dos funcionários não é mencionada no texto."
+      }
+    },
+    {
+      "numero": 11,
+      "enunciado": "No trecho \"reflecting a cautious, risk-averse posture\", a expressão \"risk-averse\" significa...",
+      "alternativas": {
+        "A": "Disposto a assumir grandes riscos sem cautela.",
+        "B": "Avesso ao risco, ou seja, inclinado a evitar ou minimizar exposição a riscos.",
+        "C": "Indiferente a qualquer tipo de risco.",
+        "D": "Favorável a decisões aleatórias."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. É o oposto do significado de \"risk-averse\".",
+        "B": "Correta. \"Risk-averse\" significa avesso ao risco, inclinado a evitar ou minimizar exposição a ele.",
+        "C": "Errada. \"Risk-averse\" não indica indiferença, mas aversão ativa ao risco.",
+        "D": "Errada. Não há relação com decisões aleatórias."
+      }
+    },
+    {
+      "numero": 12,
+      "enunciado": "Com base na distinção entre decisões sob risco e sob incerteza, pode-se inferir que a principal diferença entre essas duas situações é...",
+      "alternativas": {
+        "A": "O fato de que, sob incerteza, não é possível tomar nenhuma decisão.",
+        "B": "A disponibilidade (ou não) de probabilidades conhecidas ou razoavelmente estimáveis para os diferentes resultados possíveis.",
+        "C": "O fato de que decisões sob risco nunca envolvem cálculos matemáticos.",
+        "D": "O fato de que a incerteza só ocorre em contextos militares."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. O texto não afirma que é impossível decidir sob incerteza; descreve um critério diferente (maximin) para esses casos.",
+        "B": "Correta. A distinção central apresentada no texto é justamente a disponibilidade ou não de probabilidades conhecidas/estimáveis.",
+        "C": "Errada. Decisões sob risco envolvem cálculo de valor esperado, que é matemático.",
+        "D": "Errada. O texto não restringe a incerteza a contextos militares."
+      }
+    },
+    {
+      "numero": 13,
+      "enunciado": "Segundo o texto, a teoria das filas (queueing theory) modela o quê?",
+      "alternativas": {
+        "A": "Como clientes, peças ou informações chegam a um ponto de atendimento e quanto tempo levam para serem processados.",
+        "B": "Apenas o comportamento emocional dos clientes em uma fila.",
+        "C": "Exclusivamente o tráfego de veículos em rodovias.",
+        "D": "A alocação de verbas públicas para educação."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta. O texto define a teoria das filas como modelando \"how customers, parts, or information arrive at a service point and how long they take to be processed\".",
+        "B": "Errada. O texto não se refere a comportamento emocional, mas a tempos de chegada e processamento.",
+        "C": "Errada. Tráfego de veículos em rodovias não é mencionado no texto.",
+        "D": "Errada. Alocação de verbas públicas para educação não é mencionada nesse contexto."
+      }
+    },
+    {
+      "numero": 14,
+      "enunciado": "O texto cita quais exemplos de decisões informadas pela teoria das filas?",
+      "alternativas": {
+        "A": "Quantos caixas um banco deve empregar ou quantos caixas de supermercado abrir em horários de pico.",
+        "B": "Quantas universidades devem ser construídas em uma cidade.",
+        "C": "Quantos soldados devem compor um pelotão militar.",
+        "D": "Quantas toneladas de matéria-prima uma fábrica deve importar."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta. O texto cita exatamente \"how many tellers a bank should employ or how many checkout lanes a supermarket should open during peak hours\".",
+        "B": "Errada. Construção de universidades não é mencionada.",
+        "C": "Errada. Composição de pelotões militares não é mencionada nesse contexto.",
+        "D": "Errada. Importação de matéria-prima não é mencionada nesse contexto."
+      }
+    },
+    {
+      "numero": 15,
+      "enunciado": "Segundo o texto, qual é a principal crítica feita aos modelos de pesquisa operacional?",
+      "alternativas": {
+        "A": "Eles são caros demais para serem aplicados em qualquer contexto.",
+        "B": "Eles simplificam excessivamente realidades organizacionais complexas, reduzindo o comportamento humano a abstrações matemáticas.",
+        "C": "Eles nunca produzem resultados numéricos.",
+        "D": "Eles são aplicáveis apenas a contextos militares."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. Custo não é mencionado como crítica no texto.",
+        "B": "Correta. O texto afirma que os críticos \"argue that these models oversimplify messy organizational realities, reducing nuanced human behavior to tidy mathematical abstractions\".",
+        "C": "Errada. O texto não afirma que os modelos não produzem resultados numéricos; são baseados em cálculos.",
+        "D": "Errada. O texto cita aplicações civis diversas, não apenas militares."
+      }
+    },
+    {
+      "numero": 16,
+      "enunciado": "Segundo o texto, como os defensores da pesquisa operacional respondem à crítica de simplificação excessiva?",
+      "alternativas": {
+        "A": "Reconhecendo que a crítica está totalmente correta e que os modelos devem ser abandonados.",
+        "B": "Argumentando que a simplificação deliberada permite isolar o efeito de variáveis específicas e comparar alternativas sistematicamente.",
+        "C": "Afirmando que os modelos nunca simplificam a realidade.",
+        "D": "Negando que exista qualquer comportamento humano relevante nas decisões organizacionais."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. Os defensores não concordam integralmente com a crítica nem defendem o abandono dos modelos.",
+        "B": "Correta. O texto afirma que a simplificação deliberada \"allows decision-makers to isolate the effect of specific variables and compare alternatives systematically\".",
+        "C": "Errada. Os defensores reconhecem a simplificação, mas a veem como vantajosa.",
+        "D": "Errada. O texto não nega a relevância do comportamento humano; argumenta que a simplificação tem utilidade analítica."
+      }
+    },
+    {
+      "numero": 17,
+      "enunciado": "Qual é a mensagem central do último parágrafo do texto?",
+      "alternativas": {
+        "A": "A pesquisa operacional substitui completamente o julgamento gerencial.",
+        "B": "A pesquisa operacional não substitui o julgamento gerencial, mas o equipa com suporte quantitativo estruturado para lidar com a complexidade.",
+        "C": "O julgamento gerencial é sempre superior a qualquer modelo matemático.",
+        "D": "Os modelos de pesquisa operacional são completamente inúteis na prática."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. É o oposto da conclusão apresentada no texto.",
+        "B": "Correta. O texto conclui que \"operations research does not replace managerial judgment but rather equips it with structured, quantitative support\".",
+        "C": "Errada. O texto propõe complementaridade, não superioridade absoluta do julgamento gerencial.",
+        "D": "Errada. O texto reconhece a relevância prática dos modelos ao longo de todo o texto."
+      }
+    },
+    {
+      "numero": 18,
+      "enunciado": "Ao apresentar tanto as críticas quanto as defesas dos modelos de pesquisa operacional, o autor demonstra a intenção de...",
+      "alternativas": {
+        "A": "Desqualificar totalmente a disciplina como inútil na prática.",
+        "B": "Oferecer uma visão ponderada e equilibrada sobre os benefícios e as limitações dos modelos quantitativos de apoio à decisão.",
+        "C": "Defender que apenas a intuição humana deve guiar decisões organizacionais.",
+        "D": "Evitar qualquer menção às limitações práticas dos modelos apresentados."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. O texto não desqualifica a disciplina; reconhece tanto limitações quanto benefícios.",
+        "B": "Correta. A estrutura do parágrafo final, apresentando críticas e respostas dos defensores, evidencia uma abordagem ponderada e equilibrada.",
+        "C": "Errada. O texto defende complementaridade entre julgamento e modelos quantitativos, não exclusividade da intuição.",
+        "D": "Errada. O texto efetivamente menciona limitações práticas, como a crítica de simplificação excessiva."
+      }
+    },
+    {
+      "numero": 19,
+      "enunciado": "No trecho \"precisely because it strips away extraneous detail\", a palavra \"extraneous\" significa...",
+      "alternativas": {
+        "A": "Essencial e indispensável.",
+        "B": "Irrelevante ou alheio ao ponto principal.",
+        "C": "Numérico e quantitativo.",
+        "D": "Militar."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada. \"Extraneous\" é o oposto de essencial; refere-se a algo dispensável.",
+        "B": "Correta. \"Extraneous detail\" refere-se a detalhes irrelevantes ou alheios ao ponto principal, removidos para simplificar o modelo.",
+        "C": "Errada. Não há relação direta com algo numérico nesse sentido.",
+        "D": "Errada. Não há relação com contexto militar nesse trecho."
+      }
+    },
+    {
+      "numero": 20,
+      "enunciado": "O tom geral do texto pode ser descrito como...",
+      "alternativas": {
+        "A": "Analítico e didático, apresentando conceitos técnicos de forma acessível e equilibrada.",
+        "B": "Fortemente cético quanto à utilidade de qualquer modelo matemático.",
+        "C": "Publicitário, promovendo uma ferramenta de software específica.",
+        "D": "Exclusivamente histórico, sem qualquer discussão conceitual."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta. O texto apresenta conceitos técnicos (programação linear, teoria da decisão, teoria das filas) de forma didática e equilibrada, incluindo críticas e respostas.",
+        "B": "Errada. O texto não é cético quanto à utilidade dos modelos; reconhece benefícios e limitações de forma equilibrada.",
+        "C": "Errada. Nenhum software específico é promovido no texto.",
+        "D": "Errada. O texto inclui discussão conceitual extensa, não é apenas histórico."
+      }
+    }
+  ]
+}
