@@ -1,0 +1,349 @@
+{
+  "id": "ingles-08",
+  "titulo": "Planejamento e Controle da Produção",
+  "topico": "Production Planning and Control",
+  "instrucoes": "Leia o texto em inglês e responda às questões a seguir, com base exclusivamente no texto.",
+  "texto": "Planning the Flow of Production\n\nProduction planning and control, commonly abbreviated as PPC, refers to the set of managerial activities that determine what to produce, how much to produce, and when production should take place, while also monitoring whether actual output matches the plan. At its core, PPC seeks to reconcile two competing pressures: the need to satisfy customer demand promptly and the need to use productive resources, such as machines and labor, as efficiently as possible. Without adequate planning, a factory risks either accumulating excessive inventory of unsold goods or, conversely, failing to meet delivery deadlines because materials or capacity were not available when needed.\n\nOne of the most influential tools developed to support this function is Material Requirements Planning, widely known by its acronym MRP. Introduced in the 1960s, MRP uses three main inputs — the master production schedule, the bill of materials, and current inventory records — to calculate exactly which components and raw materials must be ordered or produced, and when, in order to meet a given production schedule. By working backward from the required delivery date and accounting for lead times at each stage, MRP systems generate a detailed schedule that tells managers precisely what to procure or manufacture, and by which date, avoiding both idle machines waiting for parts and warehouses overflowing with materials arriving too early.\n\nA markedly different philosophy emerged from Japanese manufacturing practice in the following decades: just-in-time, or JIT, production. Rather than planning production in advance based on forecasts, JIT systems are designed to produce only what is immediately needed, in the exact quantity required, and only when a downstream process actually calls for it. This pull-based logic, often implemented through visual signaling cards known as kanban, stands in sharp contrast to the push-based logic of traditional MRP, in which production is initiated according to a schedule calculated in advance, regardless of whether a specific downstream station already needs the output. Proponents of JIT argue that it dramatically reduces inventory costs and exposes inefficiencies that would otherwise remain hidden behind buffer stocks.\n\nIn practice, many modern manufacturing organizations do not rely exclusively on one approach. Hybrid systems increasingly combine MRP's strength in planning materials with long lead times, such as imported components, with JIT's efficiency in coordinating the final assembly stages, where demand can be met with minimal buffer inventory. Choosing the appropriate balance depends heavily on the nature of the product, the reliability of suppliers, and the volatility of customer demand; a company producing highly customized goods with unpredictable order volumes, for instance, typically requires more planning flexibility than one manufacturing a standardized product with stable, repetitive demand.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Qual é a ideia principal do texto?",
+      "alternativas": {
+        "A": "O MRP é o único sistema de planejamento da produção utilizado atualmente.",
+        "B": "O planejamento e controle da produção busca equilibrar demanda do cliente e uso eficiente dos recursos, e existem diferentes abordagens (como MRP e JIT) para isso.",
+        "C": "O JIT substituiu completamente o MRP em todas as fábricas do mundo.",
+        "D": "A gestão de estoques é irrelevante para o planejamento da produção."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - o parágrafo 4 mostra que muitas empresas combinam MRP e JIT, não usam só MRP.",
+        "B": "Correta - o texto apresenta o objetivo do PPC (parágrafo 1) e detalha duas abordagens principais, MRP e JIT, incluindo sistemas híbridos (parágrafos 2 a 4).",
+        "C": "Errada - o parágrafo 4 explicitamente descreve sistemas híbridos, não substituição completa.",
+        "D": "Errada - a gestão de estoques é tema central do texto, inclusive na comparação entre push e pull."
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Segundo o parágrafo 1, quais são as duas pressões que o PPC busca conciliar?",
+      "alternativas": {
+        "A": "Redução de impostos e aumento de exportações.",
+        "B": "Satisfazer prontamente a demanda do cliente e usar recursos produtivos de forma eficiente.",
+        "C": "Aumentar o número de funcionários e reduzir salários.",
+        "D": "Expandir a fábrica e reduzir a qualidade dos produtos."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - impostos e exportações não são mencionados no texto.",
+        "B": "Correta - o texto diz: \"PPC seeks to reconcile two competing pressures: the need to satisfy customer demand promptly and the need to use productive resources... as efficiently as possible.\"",
+        "C": "Errada - número de funcionários e salários não são mencionados nesse contexto.",
+        "D": "Errada - expansão da fábrica e redução de qualidade não constam no texto."
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Quais são os três principais inputs do MRP mencionados no parágrafo 2?",
+      "alternativas": {
+        "A": "Orçamento anual, relatório de vendas e previsão de lucro.",
+        "B": "Master production schedule, bill of materials e registros atuais de estoque.",
+        "C": "Número de funcionários, turnos de trabalho e salários.",
+        "D": "Fornecedores internacionais, taxas de câmbio e tarifas de importação."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - orçamento anual e previsão de lucro não são citados como inputs do MRP.",
+        "B": "Correta - o texto afirma: \"MRP uses three main inputs — the master production schedule, the bill of materials, and current inventory records.\"",
+        "C": "Errada - número de funcionários e salários não são inputs do MRP segundo o texto.",
+        "D": "Errada - taxas de câmbio e tarifas não são mencionadas no texto."
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "No parágrafo 2, a expressão \"working backward from the required delivery date\" sugere que o MRP calcula o cronograma de produção:",
+      "alternativas": {
+        "A": "a partir do início do processo produtivo até o final.",
+        "B": "partindo da data de entrega desejada e retrocedendo no tempo para determinar quando cada etapa deve ocorrer.",
+        "C": "de forma aleatória, sem relação com datas específicas.",
+        "D": "exclusivamente com base no histórico de vendas do ano anterior."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - \"working backward\" indica o sentido inverso, da entrega para o início, não do início para o fim.",
+        "B": "Correta - o texto explica que o MRP funciona \"working backward from the required delivery date and accounting for lead times at each stage.\"",
+        "C": "Errada - o MRP é descrito como um cálculo sistemático, não aleatório.",
+        "D": "Errada - o texto não menciona uso exclusivo do histórico de vendas do ano anterior."
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "De acordo com o parágrafo 2, quais problemas o MRP busca evitar?",
+      "alternativas": {
+        "A": "Máquinas ociosas esperando peças e armazéns lotados com materiais que chegaram cedo demais.",
+        "B": "Excesso de funcionários contratados e falta de espaço no escritório.",
+        "C": "Redução do preço de venda dos produtos finais.",
+        "D": "Aumento da satisfação do cliente a qualquer custo."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta - o texto afirma que o MRP evita \"idle machines waiting for parts and warehouses overflowing with materials arriving too early.\"",
+        "B": "Errada - contratação de funcionários e espaço de escritório não são mencionados no parágrafo.",
+        "C": "Errada - preço de venda não é discutido nesse trecho.",
+        "D": "Errada - embora relacionado indiretamente, o texto foca em evitar desperdícios logísticos específicos, não em \"qualquer custo\" para satisfação do cliente."
+      }
+    },
+    {
+      "numero": 6,
+      "enunciado": "É possível inferir que, sem um sistema como o MRP, uma fábrica correria maior risco de:",
+      "alternativas": {
+        "A": "ter excesso de funcionários qualificados.",
+        "B": "descompasso entre a chegada de materiais e as necessidades reais de produção.",
+        "C": "reduzir drasticamente seus custos operacionais.",
+        "D": "aumentar automaticamente a qualidade dos produtos."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - não há relação entre MRP e excesso de funcionários qualificados no texto.",
+        "B": "Correta - o texto descreve os riscos que o MRP evita (parágrafo 2), como peças faltando ou chegando cedo demais, indicando descompasso sem esse sistema.",
+        "C": "Errada - o texto não afirma que a ausência de MRP reduziria custos; pelo contrário, sugere ineficiências.",
+        "D": "Errada - qualidade do produto não é tratada como consequência direta no texto."
+      }
+    },
+    {
+      "numero": 7,
+      "enunciado": "Segundo o parágrafo 3, qual é a lógica central do sistema just-in-time (JIT)?",
+      "alternativas": {
+        "A": "Produzir grandes quantidades antecipadamente, com base em previsões de longo prazo.",
+        "B": "Produzir apenas o necessário, na quantidade exata, quando um processo posterior realmente demanda.",
+        "C": "Acumular estoques de segurança elevados para evitar qualquer tipo de falta.",
+        "D": "Ignorar completamente a demanda real do mercado."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - essa descrição se aproxima mais da lógica tradicional (push), não do JIT.",
+        "B": "Correta - o texto define: \"JIT systems are designed to produce only what is immediately needed, in the exact quantity required, and only when a downstream process actually calls for it.\"",
+        "C": "Errada - o JIT busca reduzir estoques, não acumulá-los, segundo o texto.",
+        "D": "Errada - o JIT responde diretamente à demanda real de processos posteriores, não a ignora."
+      }
+    },
+    {
+      "numero": 8,
+      "enunciado": "No parágrafo 3, a palavra \"pull-based\" (em \"pull-based logic\") é contrastada no texto com:",
+      "alternativas": {
+        "A": "\"push-based\", usada para descrever o MRP tradicional.",
+        "B": "\"data-based\", usada para descrever sistemas de big data.",
+        "C": "\"cost-based\", usada para descrever o lean sourcing.",
+        "D": "\"cloud-based\", usada para descrever sistemas digitais."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta - o texto afirma: \"This pull-based logic... stands in sharp contrast to the push-based logic of traditional MRP.\"",
+        "B": "Errada - \"data-based\" não aparece no texto.",
+        "C": "Errada - \"cost-based\" não é mencionado no parágrafo 3.",
+        "D": "Errada - \"cloud-based\" não consta no texto."
+      }
+    },
+    {
+      "numero": 9,
+      "enunciado": "O que são \"kanban\", segundo o parágrafo 3?",
+      "alternativas": {
+        "A": "Relatórios financeiros usados para calcular impostos.",
+        "B": "Cartões de sinalização visual usados para implementar a lógica pull do JIT.",
+        "C": "Máquinas automatizadas usadas exclusivamente no MRP.",
+        "D": "Contratos formais com fornecedores internacionais."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - kanban não tem relação com relatórios financeiros/impostos no texto.",
+        "B": "Correta - o texto diz: \"This pull-based logic, often implemented through visual signaling cards known as kanban.\"",
+        "C": "Errada - kanban é associado ao JIT, não ao MRP, segundo o texto.",
+        "D": "Errada - não há menção de contratos formais associados a kanban no texto."
+      }
+    },
+    {
+      "numero": 10,
+      "enunciado": "No parágrafo 3, a expressão \"rather than\" (em \"Rather than planning production in advance based on forecasts\") estabelece uma relação de:",
+      "alternativas": {
+        "A": "adição de uma ideia complementar.",
+        "B": "contraste, indicando o que o JIT faz em vez de outra prática.",
+        "C": "consequência direta de uma causa anterior.",
+        "D": "exemplificação de um conceito já apresentado."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - \"rather than\" não adiciona uma ideia complementar, mas contrasta duas opções.",
+        "B": "Correta - a expressão indica que o JIT se opõe à prática de planejar com base em previsões, estabelecendo contraste.",
+        "C": "Errada - não há relação de causa e consequência nesse conectivo específico.",
+        "D": "Errada - não se trata de um exemplo, mas de uma distinção entre abordagens."
+      }
+    },
+    {
+      "numero": 11,
+      "enunciado": "Segundo o parágrafo 3, qual é um benefício do JIT citado por seus defensores?",
+      "alternativas": {
+        "A": "Aumento do estoque de segurança em todas as etapas da produção.",
+        "B": "Redução de custos de estoque e exposição de ineficiências antes ocultas por estoques-pulmão.",
+        "C": "Eliminação completa da necessidade de fornecedores.",
+        "D": "Garantia de que nunca ocorrerão atrasos na produção."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - o JIT busca reduzir estoques de segurança, não aumentá-los.",
+        "B": "Correta - o texto afirma: \"it dramatically reduces inventory costs and exposes inefficiencies that would otherwise remain hidden behind buffer stocks.\"",
+        "C": "Errada - o texto não menciona eliminação de fornecedores.",
+        "D": "Errada - o texto não garante ausência total de atrasos; essa afirmação é exagerada e não corresponde ao texto."
+      }
+    },
+    {
+      "numero": 12,
+      "enunciado": "É possível inferir do parágrafo 3 que, em sistemas MRP tradicionais (push-based), a produção pode ocorrer:",
+      "alternativas": {
+        "A": "apenas quando uma estação posterior realmente precisa do produto.",
+        "B": "de acordo com um cronograma pré-calculado, mesmo que a estação seguinte ainda não precise do item.",
+        "C": "exclusivamente por meio de cartões kanban.",
+        "D": "sem qualquer tipo de planejamento prévio."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - essa é a lógica do JIT (pull), não do MRP (push).",
+        "B": "Correta - o texto contrasta o JIT com \"the push-based logic of traditional MRP, in which production is initiated according to a schedule calculated in advance, regardless of whether a specific downstream station already needs the output.\"",
+        "C": "Errada - kanban é um instrumento do JIT, não do MRP tradicional.",
+        "D": "Errada - o MRP é definido justamente como um sistema de planejamento prévio detalhado (parágrafo 2)."
+      }
+    },
+    {
+      "numero": 13,
+      "enunciado": "De acordo com o parágrafo 4, o que caracteriza os sistemas híbridos de produção?",
+      "alternativas": {
+        "A": "O uso exclusivo de MRP em toda a cadeia produtiva.",
+        "B": "A combinação da força do MRP no planejamento de materiais com longos lead times e da eficiência do JIT nas etapas finais de montagem.",
+        "C": "A eliminação total de qualquer tipo de estoque na fábrica.",
+        "D": "O uso exclusivo de JIT desde a compra de matéria-prima até a entrega final."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - sistemas híbridos combinam MRP e JIT, não usam exclusivamente o MRP.",
+        "B": "Correta - o texto afirma: \"Hybrid systems increasingly combine MRP's strength in planning materials with long lead times... with JIT's efficiency in coordinating the final assembly stages.\"",
+        "C": "Errada - o texto não afirma eliminação total de estoque, apenas uso de \"minimal buffer inventory\" nas etapas finais.",
+        "D": "Errada - o uso exclusivo de JIT em toda a cadeia contraria a ideia de sistema híbrido descrita."
+      }
+    },
+    {
+      "numero": 14,
+      "enunciado": "Segundo o parágrafo 4, de que fatores depende a escolha do equilíbrio entre MRP e JIT?",
+      "alternativas": {
+        "A": "Exclusivamente do tamanho da empresa.",
+        "B": "Da natureza do produto, confiabilidade dos fornecedores e volatilidade da demanda do cliente.",
+        "C": "Apenas da localização geográfica da fábrica.",
+        "D": "Unicamente da quantidade de funcionários disponíveis."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - tamanho da empresa não é mencionado como fator determinante nesse trecho.",
+        "B": "Correta - o texto afirma: \"Choosing the appropriate balance depends heavily on the nature of the product, the reliability of suppliers, and the volatility of customer demand.\"",
+        "C": "Errada - localização geográfica não é citada como fator nesse trecho específico.",
+        "D": "Errada - quantidade de funcionários não é mencionada como fator relevante aqui."
+      }
+    },
+    {
+      "numero": 15,
+      "enunciado": "Com base no parágrafo 4, uma empresa que produz bens altamente customizados, com volumes de pedido imprevisíveis, provavelmente precisa de:",
+      "alternativas": {
+        "A": "menos flexibilidade de planejamento do que uma empresa com demanda estável.",
+        "B": "mais flexibilidade de planejamento do que uma empresa com demanda estável e repetitiva.",
+        "C": "exatamente o mesmo grau de flexibilidade que qualquer outra empresa.",
+        "D": "nenhum tipo de planejamento de produção."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - o texto afirma o oposto: produtos customizados com demanda imprevisível exigem mais flexibilidade.",
+        "B": "Correta - o texto diz: \"a company producing highly customized goods with unpredictable order volumes... typically requires more planning flexibility than one manufacturing a standardized product with stable, repetitive demand.\"",
+        "C": "Errada - o texto diferencia claramente os dois casos, não os trata como iguais.",
+        "D": "Errada - o texto não sugere ausência de planejamento, apenas maior flexibilidade."
+      }
+    },
+    {
+      "numero": 16,
+      "enunciado": "Qual é o objetivo principal do autor neste texto?",
+      "alternativas": {
+        "A": "Defender que o MRP é tecnicamente superior ao JIT em qualquer situação.",
+        "B": "Apresentar de forma comparativa os principais sistemas de planejamento e controle da produção e seus contextos de aplicação.",
+        "C": "Criticar duramente as fábricas japonesas que desenvolveram o JIT.",
+        "D": "Convencer o leitor a abandonar completamente o uso de estoques."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - o texto não afirma superioridade do MRP sobre o JIT; trata ambos de forma equilibrada e até propõe combiná-los.",
+        "B": "Correta - o texto descreve PPC, MRP, JIT e sistemas híbridos de forma analítica e comparativa.",
+        "C": "Errada - o texto trata o JIT de forma favorável quanto a seus benefícios, sem crítica às práticas japonesas.",
+        "D": "Errada - o texto discute o uso racional de estoques, não sua eliminação total."
+      }
+    },
+    {
+      "numero": 17,
+      "enunciado": "No parágrafo 2, a expressão \"lead times\" refere-se a:",
+      "alternativas": {
+        "A": "o tempo necessário entre o início de um processo (como pedido ou produção) e sua conclusão/entrega.",
+        "B": "o número de líderes em uma equipe de produção.",
+        "C": "o tempo de vida útil de uma máquina.",
+        "D": "a taxa de câmbio entre moedas usada em compras internacionais."
+      },
+      "resposta": "A",
+      "explicacoes": {
+        "A": "Correta - \"lead times\" é um termo técnico que se refere ao tempo decorrido entre o início e a conclusão de um processo, usado no texto para calcular prazos de produção/entrega.",
+        "B": "Errada - não se refere a número de líderes de equipe.",
+        "C": "Errada - não é sinônimo de vida útil de máquina.",
+        "D": "Errada - não tem relação com taxa de câmbio no texto."
+      }
+    },
+    {
+      "numero": 18,
+      "enunciado": "Em que década o texto afirma que o MRP foi introduzido?",
+      "alternativas": {
+        "A": "Década de 1940.",
+        "B": "Década de 1960.",
+        "C": "Década de 1980.",
+        "D": "Década de 2000."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - o texto não menciona a década de 1940.",
+        "B": "Correta - o texto diz: \"Introduced in the 1960s, MRP uses three main inputs...\"",
+        "C": "Errada - a década de 1980 não é mencionada como a de introdução do MRP.",
+        "D": "Errada - a década de 2000 não corresponde à informação do texto."
+      }
+    },
+    {
+      "numero": 19,
+      "enunciado": "O texto sugere que a escolha entre MRP, JIT ou um sistema híbrido é:",
+      "alternativas": {
+        "A": "irrelevante para o desempenho da fábrica.",
+        "B": "uma decisão estratégica que deve considerar as características específicas do produto e do mercado.",
+        "C": "sempre a mesma para qualquer tipo de indústria.",
+        "D": "determinada exclusivamente pelo governo por meio de regulamentações."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - o texto trata a escolha como central para a eficiência da produção, não irrelevante.",
+        "B": "Correta - o parágrafo 4 mostra que a escolha depende de fatores como natureza do produto, confiabilidade de fornecedores e volatilidade da demanda.",
+        "C": "Errada - o texto diferencia explicitamente situações distintas (produto customizado vs. padronizado).",
+        "D": "Errada - não há menção de regulamentação governamental no texto."
+      }
+    },
+    {
+      "numero": 20,
+      "enunciado": "Qual alternativa melhor resume a conclusão geral do texto sobre planejamento e controle da produção?",
+      "alternativas": {
+        "A": "Um único sistema de planejamento é adequado para todas as empresas, independentemente do contexto.",
+        "B": "O PPC eficaz exige escolher ou combinar abordagens (como MRP e JIT) de acordo com as características do produto e da demanda.",
+        "C": "O planejamento da produção perdeu relevância com o avanço da tecnologia.",
+        "D": "O MRP tornou-se obsoleto e não é mais utilizado por nenhuma empresa."
+      },
+      "resposta": "B",
+      "explicacoes": {
+        "A": "Errada - o texto mostra justamente o oposto, com diferentes abordagens adequadas a diferentes contextos.",
+        "B": "Correta - essa conclusão sintetiza os parágrafos 2 a 4, que apresentam MRP, JIT e sistemas híbridos conforme o contexto de cada empresa.",
+        "C": "Errada - o texto não sugere perda de relevância do planejamento da produção.",
+        "D": "Errada - o parágrafo 4 mostra que o MRP continua sendo usado, inclusive em sistemas híbridos."
+      }
+    }
+  ]
+}
