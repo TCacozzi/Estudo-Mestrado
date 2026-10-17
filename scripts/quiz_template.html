@@ -340,6 +340,9 @@ function renderApp() {
     app.appendChild(renderHome());
   }
   app.appendChild(renderFooter());
+}
+
+function irParaTopo() {
   window.scrollTo({ top: 0, behavior: "instant" in window ? "instant" : "auto" });
 }
 
@@ -398,6 +401,7 @@ function renderHome() {
     btn.addEventListener("click", () => {
       estado.aba = btn.dataset.aba;
       renderApp();
+      irParaTopo();
     });
   });
   wrap.appendChild(tabs);
@@ -432,11 +436,13 @@ function abrirTeste(teste) {
   estado.respostas = {};
   estado.corrigido = false;
   renderApp();
+  irParaTopo();
 }
 
 function fecharTeste() {
   estado.testeAtual = null;
   renderApp();
+  irParaTopo();
 }
 
 function corrigirTeste() {
@@ -462,6 +468,7 @@ function refazerTeste() {
   estado.respostas = {};
   estado.corrigido = false;
   renderApp();
+  irParaTopo();
 }
 
 function renderTeste() {
