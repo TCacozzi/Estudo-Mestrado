@@ -18,6 +18,15 @@ def render(teste: dict) -> str:
     linhas = [f"# {teste['titulo']}", ""]
     linhas.append(f"**Tópico:** {teste['topico']}  ")
     linhas.append(f"**Instruções:** {teste['instrucoes']}")
+
+    dificuldades = [q["dificuldade"] for q in teste["questoes"] if q.get("dificuldade")]
+    if dificuldades:
+        contagem = {nivel: dificuldades.count(nivel) for nivel in ["básico", "intermediário", "avançado"]}
+        linhas.append(
+            f"**Dificuldade:** básico {contagem['básico']} · "
+            f"intermediário {contagem['intermediário']} · "
+            f"avançado {contagem['avançado']}"
+        )
     linhas.append("")
 
     if teste.get("texto"):
@@ -35,7 +44,15 @@ def render(teste: dict) -> str:
     linhas.append("## Questões")
     linhas.append("")
     for q in teste["questoes"]:
-        linhas.append(f"**{q['numero']}.** {q['enunciado']}")
+        tags = []
+        if q.get("dificuldade"):
+            tags.append(q["dificuldade"])
+        if q.get("tipo"):
+            tags.append(q["tipo"])
+        if q.get("assunto"):
+            tags.append(q["assunto"])
+        sufixo_tags = f" _({' · '.join(tags)})_" if tags else ""
+        linhas.append(f"**{q['numero']}.** {q['enunciado']}{sufixo_tags}")
         linhas.append("")
         for letra, texto in q["alternativas"].items():
             linhas.append(f"- **{letra})** {texto}")

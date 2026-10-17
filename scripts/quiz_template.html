@@ -229,8 +229,29 @@
     padding: 16px;
     margin-bottom: 14px;
   }
-  .questao .enunciado { font-weight: 600; margin-bottom: 10px; display: flex; gap: 8px; }
+  .questao .enunciado { font-weight: 600; margin-bottom: 6px; display: flex; gap: 8px; }
   .questao .num { font-family: var(--font-mono); color: var(--accent-strong); flex-shrink: 0; }
+  .questao .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 12px 24px; }
+  .tag-dificuldade {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--fg-muted);
+  }
+  .tag-dificuldade.basico { color: var(--good); border-color: var(--good); }
+  .tag-dificuldade.intermediario { color: var(--accent-strong); border-color: var(--accent); }
+  .tag-dificuldade.avancado { color: var(--bad); border-color: var(--bad); }
+  .tag-assunto {
+    font-size: 0.72rem;
+    color: var(--fg-muted);
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--surface-2);
+  }
   .alt {
     display: flex;
     gap: 10px;
@@ -330,6 +351,16 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
+function classeDificuldade(dificuldade) {
+  const normalizado = (dificuldade || "")
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase();
+  if (normalizado === "basico") return "basico";
+  if (normalizado === "avancado") return "avancado";
+  return "intermediario";
+}
+
 function renderApp() {
   const app = document.getElementById("app");
   app.innerHTML = "";
@@ -363,7 +394,7 @@ function renderHeader() {
 function renderFooter() {
   const footer = document.createElement("footer");
   footer.className = "note";
-  footer.textContent = "Baseado no edital 2610 Poli-Produção (Centro Interdepartamental de Línguas, USP): Parte 1 — 20 questões de compreensão de leitura, 2h15min, dicionário físico permitido — e na bibliografia da linha de pesquisa Qualidade e Sustentabilidade do PPGEP.";
+  footer.textContent = "Inglês baseado no edital 2610 Poli-Produção (Centro Interdepartamental de Línguas, USP): Parte 1 — 20 questões de compreensão de leitura, 2h15min, dicionário físico permitido. Estudos no padrão histórico das provas ABEPRO/SAEPRO (questões conceituais, quantitativas e analíticas em 3 níveis de dificuldade), aplicado à bibliografia da linha Qualidade e Sustentabilidade do PPGEP.";
   return footer;
 }
 
@@ -520,6 +551,19 @@ function renderTeste() {
       }</div>
     `;
     wrap.appendChild(banner);
+
+    const temDificuldade = teste.questoes.some(q => q.dificuldade);
+    if (temDificuldade) {
+      const porNivel = document.createElement("div");
+      porNivel.className = "stats-row";
+      ["básico", "intermediário", "avançado"].forEach(nivel => {
+        const questoesNivel = teste.questoes.filter(q => q.dificuldade === nivel);
+        if (!questoesNivel.length) return;
+        const certasNivel = questoesNivel.filter(q => estado.respostas[q.numero] === q.resposta).length;
+        porNivel.innerHTML += `<span>${nivel}: <b>${certasNivel}/${questoesNivel.length}</b></span>`;
+      });
+      wrap.appendChild(porNivel);
+    }
   }
 
   teste.questoes.forEach(q => {
@@ -560,6 +604,18 @@ function renderQuestao(teste, q) {
   enunciado.className = "enunciado";
   enunciado.innerHTML = `<span class="num">${q.numero}.</span><span>${escapeHtml(q.enunciado)}</span>`;
   div.appendChild(enunciado);
+
+  if (q.dificuldade || q.assunto) {
+    const tags = document.createElement("div");
+    tags.className = "tags";
+    if (q.dificuldade) {
+      tags.innerHTML += `<span class="tag-dificuldade ${classeDificuldade(q.dificuldade)}">${escapeHtml(q.dificuldade)}</span>`;
+    }
+    if (q.assunto) {
+      tags.innerHTML += `<span class="tag-assunto">${escapeHtml(q.assunto)}</span>`;
+    }
+    div.appendChild(tags);
+  }
 
   const respostaSelecionada = estado.respostas[q.numero];
 
