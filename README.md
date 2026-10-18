@@ -31,5 +31,5 @@ python3 scripts/build_quiz.py       # gera dist/quiz.html (publicar de novo manu
 ## Status
 
 - Inglês: 10 testes prontos (20 questões cada, texto em inglês + perguntas/alternativas em português), seguindo o formato da Parte 1 do edital 2610 Poli-Produção (compreensão de leitura, 20 questões, 2h15min).
-- Mestrado: 10 testes prontos (10 questões cada) sobre a linha de pesquisa Qualidade e Sustentabilidade (QS) do PPGEP.
-- Todas as questões têm explicação em português para cada alternativa (certa e erradas).
+- Mestrado: 10 testes prontos (10 questões cada) sobre a linha de pesquisa Qualidade e Sustentabilidade (QS) do PPGEP, no padrão histórico das provas ABEPRO/SAEPRO: questões conceituais, de aplicação, quantitativas (cálculo) e analíticas, classificadas por assunto e por nível de dificuldade (básico/intermediário/avançado, ~25/50/25).
+- Todas as questões têm explicação em português para cada alternativa (certa e erradas); nas quantitativas, a explicação mostra o cálculo.
