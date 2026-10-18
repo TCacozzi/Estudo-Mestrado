@@ -1,178 +1,208 @@
 {
   "id": "mestrado-04",
-  "titulo": "Economia Circular: Conceitos, Trajetórias e Inclusão Social",
-  "topico": "Economia Circular: Conceitos, Trajetórias e Inclusão Social",
-  "instrucoes": "Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).",
+  "titulo": "Economia Circular: Conceitos e Trajetórias",
+  "topico": "Economia Circular: Conceitos e Trajetórias",
+  "instrucoes": "Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.",
   "texto": null,
   "questoes": [
     {
       "numero": 1,
-      "enunciado": "A economia circular é frequentemente definida em contraste com o modelo econômico tradicional. Qual alternativa descreve corretamente essa contraposição?",
+      "assunto": "Economia linear versus economia circular",
+      "dificuldade": "básico",
+      "tipo": "conceitual",
+      "enunciado": "O modelo econômico tradicional é frequentemente descrito como \"linear\", seguindo a lógica extrair-produzir-consumir-descartar. A economia circular propõe, em contraposição, um modelo cujo princípio central é:",
       "alternativas": {
-        "A": "A economia circular propõe um modelo regenerativo/restaurativo por design, buscando manter produtos, componentes e materiais no mais alto nível de utilidade e valor pelo maior tempo possível, em oposição ao modelo linear tradicional de 'extrair, produzir, descartar'",
-        "B": "A economia circular é idêntica ao modelo linear tradicional, apenas com um nome de marketing diferente",
-        "C": "A economia circular defende o aumento do descarte de resíduos em aterros como forma de gerar empregos no setor de limpeza urbana",
-        "D": "A economia circular é um conceito exclusivamente financeiro, relacionado à circulação de moeda em um país, sem relação com materiais ou produtos"
+        "A": "Manter o valor de produtos, componentes e materiais em uso pelo maior tempo possível, fechando os ciclos de materiais e reduzindo a extração de recursos virgens e a geração de resíduos",
+        "B": "Aumentar a velocidade de descarte dos produtos para estimular o consumo e girar mais rapidamente a produção industrial",
+        "C": "Substituir integralmente a produção industrial por serviços, eliminando por completo a manufatura de bens físicos",
+        "D": "Concentrar-se exclusivamente na reciclagem de materiais ao final da vida útil dos produtos, sem alterar as etapas de projeto e produção"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. A economia circular é definida como um modelo econômico regenerativo e restaurativo por intenção e design, que busca dissociar o crescimento econômico do consumo de recursos finitos, mantendo produtos, componentes e materiais em uso pelo maior tempo possível e no mais alto nível de valor, em contraposição ao modelo linear tradicional ('extrair-produzir-usar-descartar').",
-        "B": "Incorreta. Essa afirmação contradiz a própria essência conceitual da economia circular, que surge justamente como alternativa crítica ao modelo linear, e não como um simples rebranding dele.",
-        "C": "Incorreta. A economia circular busca exatamente o oposto: reduzir a geração de resíduos e o descarte em aterros, priorizando estratégias de manutenção de valor dos materiais (reutilização, remanufatura, reciclagem) antes do descarte final.",
-        "D": "Incorreta. Embora tenha implicações econômicas e financeiras, a economia circular é um conceito amplo sobre fluxos de materiais, energia e produtos em sistemas produtivos e de consumo, não um conceito restrito à circulação monetária."
+        "A": "Correta. A economia circular propõe um modelo regenerativo e restaurador por princípio, cujo objetivo central é manter produtos, componentes e materiais no mais alto nível de utilidade e valor pelo maior tempo possível, por meio do fechamento de ciclos de materiais (biológicos e técnicos), reduzindo a dependência de recursos virgens e a geração de resíduos.",
+        "B": "Incorreta. Essa descrição é o oposto da lógica da economia circular; acelerar o descarte para estimular novo consumo é característica da obsolescência programada, associada à economia linear, não à circular.",
+        "C": "Incorreta. A economia circular não elimina a manufatura de bens físicos; ela propõe repensar o design, os modelos de negócio (como economia de performance e servitização) e os fluxos de materiais, mas não a substituição total da produção por serviços.",
+        "D": "Incorreta. Embora a reciclagem seja uma das estratégias da economia circular, ela é considerada uma das últimas opções na hierarquia de valor (R), sendo menos prioritária do que estratégias de projeto, redução, reuso e remanufatura, que atuam antes do descarte."
       }
     },
     {
       "numero": 2,
-      "enunciado": "Homrich, Galvão, Abadia e Carvalho (2018), ao revisarem a literatura sobre economia circular, descrevem o conceito como um 'guarda-chuva' (circular economy umbrella) que integra diversas escolas de pensamento e trajetórias anteriores. Qual das alternativas lista exemplos coerentes dessas trajetórias/escolas que convergem para a economia circular?",
+      "assunto": "Economia circular como conceito guarda-chuva",
+      "dificuldade": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Homrich et al. (2018), em sua revisão sobre a trajetória da economia circular, descrevem o conceito como um \"guarda-chuva\" (circular economy umbrella) que reúne e integra diversas correntes teóricas anteriores. Quais conceitos são comumente citados como precursores reunidos sob esse guarda-chuva?",
       "alternativas": {
-        "A": "Ecologia industrial, Cradle to Cradle (berço ao berço), economia de performance/funcionalidade e biomimética, entre outras abordagens anteriores relacionadas à sustentabilidade de recursos",
-        "B": "Apenas a reciclagem municipal de resíduos sólidos urbanos, sem qualquer outra trajetória teórica relevante",
-        "C": "Exclusivamente teorias de comércio internacional e taxas de câmbio",
-        "D": "Apenas normas de certificação de qualidade, como a ISO 9001"
+        "A": "Cradle to Cradle (Do Berço ao Berço), Ecologia Industrial, Economia de Performance (Performance Economy) e Capitalismo Natural, entre outros",
+        "B": "Apenas a reciclagem municipal de resíduos sólidos urbanos, sem qualquer relação com conceitos industriais ou de design de produto",
+        "C": "Exclusivamente normas de certificação ambiental, como ISO 14001, sem qualquer relação com modelos de negócio",
+        "D": "Apenas o conceito de pegada de carbono (carbon footprint), tomado como sinônimo direto de economia circular"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. Homrich et al. (2018) identificam que a economia circular funciona como um conceito guarda-chuva que agrega e integra múltiplas trajetórias e escolas de pensamento anteriores, como a ecologia industrial (fluxos de materiais e energia entre indústrias, à semelhança de ecossistemas naturais), o Cradle to Cradle (design de produtos para ciclos biológicos ou técnicos sem geração de resíduo), a economia de performance/funcionalidade (venda de serviço/uso em vez de produto), a biomimética, entre outras abordagens correlatas que, ao longo do tempo, convergiram para o conceito mais amplo de economia circular.",
-        "B": "Incorreta. A reciclagem é apenas uma das estratégias dentro do espectro da economia circular (e, geralmente, considerada uma das últimas opções na hierarquia de prioridades), não a única trajetória teórica que compõe o conceito guarda-chuva descrito pelos autores.",
-        "C": "Incorreta. Teorias de comércio internacional e taxas de câmbio pertencem ao campo da macroeconomia internacional, sem relação direta com as trajetórias conceituais de sustentabilidade de materiais que fundamentam a economia circular segundo Homrich et al.",
-        "D": "Incorreta. Normas de certificação de qualidade, como a ISO 9001, pertencem a outro campo temático (gestão da qualidade) e não são apontadas como uma das trajetórias históricas que originaram o conceito de economia circular na revisão de Homrich et al."
+        "A": "Correta. Homrich et al. (2018) caracterizam a economia circular como uma construção guarda-chuva que incorpora e integra ideias de correntes anteriores, como o Cradle to Cradle (design regenerativo de produtos), a Ecologia Industrial (fluxos de materiais e energia entre sistemas produtivos, à semelhança de ecossistemas naturais), a Economia de Performance (venda de desempenho/uso em vez de posse do produto) e o Capitalismo Natural, entre outras abordagens correlatas.",
+        "B": "Incorreta. A reciclagem municipal é apenas uma prática específica, e não o conjunto de correntes teóricas mais amplas (de design, modelos de negócio e ecologia industrial) que compõem o conceito guarda-chuva descrito pelos autores.",
+        "C": "Incorreta. Normas de certificação ambiental como a ISO 14001 são instrumentos de gestão ambiental, mas não são, em si, as correntes teóricas precursoras citadas na literatura sobre a origem conceitual da economia circular.",
+        "D": "Incorreta. A pegada de carbono é um indicador específico de emissões de gases de efeito estufa, conceito distinto e mais restrito do que a economia circular, que abrange fluxos de materiais, energia e modelos de negócio de forma mais ampla."
       }
     },
     {
       "numero": 3,
-      "enunciado": "Uma das principais contribuições do artigo de Homrich et al. (2018) é apontar lacunas (gaps) na literatura sobre economia circular. Qual das alternativas descreve corretamente uma lacuna tipicamente discutida nesse tipo de revisão sobre o tema?",
+      "assunto": "Hierarquia dos 3Rs",
+      "dificuldade": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "O modelo clássico dos 3Rs (Reduzir, Reutilizar, Reciclar), amplamente utilizado como base para hierarquias mais detalhadas de gestão de resíduos, estabelece uma ordem de prioridade entre essas estratégias. Qual é essa ordem de prioridade, da mais para a menos preferível do ponto de vista ambiental?",
       "alternativas": {
-        "A": "A falta de integração entre as diferentes trajetórias/correntes teóricas que compõem o conceito guarda-chuva, dificultando uma definição conceitual unificada e consensual de economia circular",
-        "B": "O excesso de consenso absoluto na literatura, sem qualquer divergência conceitual entre os autores da área",
-        "C": "A inexistência de qualquer aplicação prática do conceito em empresas ou políticas públicas",
-        "D": "A ausência total de qualquer relação entre economia circular e sustentabilidade ambiental"
+        "A": "Reduzir → Reutilizar → Reciclar",
+        "B": "Reciclar → Reutilizar → Reduzir",
+        "C": "Reutilizar → Reciclar → Reduzir",
+        "D": "As três estratégias têm exatamente a mesma prioridade, podendo ser aplicadas em qualquer ordem"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. Um achado recorrente em revisões como a de Homrich et al. (2018) é justamente a fragmentação conceitual: por reunir múltiplas trajetórias e escolas de pensamento distintas sob um mesmo guarda-chuva, a literatura de economia circular carece de maior integração teórica e de uma definição plenamente consensual, o que gera ambiguidades e dificuldades de operacionalização do conceito.",
-        "B": "Incorreta. É o oposto do que se observa: a literatura apresenta diversidade e, por vezes, divergência conceitual entre diferentes abordagens (ecologia industrial, Cradle to Cradle, economia de performance etc.), não um excesso de consenso absoluto.",
-        "C": "Incorreta. Há numerosas aplicações práticas documentadas de economia circular em empresas, cadeias produtivas e políticas públicas; o problema apontado na literatura não é a ausência de aplicações, mas sim lacunas de integração conceitual e, em trabalhos posteriores como o de Piao et al., lacunas na dimensão social do conceito.",
-        "D": "Incorreta. A relação entre economia circular e sustentabilidade ambiental é amplamente reconhecida e documentada na literatura; a lacuna mais discutida está relacionada à integração entre dimensões (especialmente a social) e à consolidação conceitual, não à ausência de relação com o meio ambiente."
+        "A": "Correta. A hierarquia clássica prioriza, em primeiro lugar, a redução do consumo de recursos e da geração de resíduos na origem; em segundo lugar, a reutilização de produtos e componentes sem necessidade de reprocessamento; e, por último, a reciclagem, que envolve o reprocessamento de materiais e, em geral, maior consumo de energia e perda de valor em relação às opções anteriores.",
+        "B": "Incorreta. Essa ordem inverte completamente a hierarquia correta; a reciclagem é a estratégia menos prioritária das três, não a mais prioritária, pois demanda reprocessamento e geralmente degrada parte do valor do material original.",
+        "C": "Incorreta. Embora a reutilização seja de fato mais prioritária que a reciclagem, a redução deveria vir em primeiro lugar nessa ordem, por atuar na origem do problema (evitando a geração do resíduo), e não ao final da sequência.",
+        "D": "Incorreta. As estratégias não são equivalentes em termos de prioridade ambiental; a hierarquia de resíduos é um princípio amplamente aceito justamente por reconhecer que reduzir e reutilizar geram, em geral, benefícios ambientais maiores do que reciclar."
       }
     },
     {
       "numero": 4,
-      "enunciado": "A hierarquia clássica dos \"3Rs\" na gestão de resíduos e materiais é composta, em ordem geral de prioridade, por:",
+      "assunto": "Hierarquia dos 9Rs — remanufatura",
+      "dificuldade": "intermediário",
+      "tipo": "aplicação",
+      "enunciado": "Uma fábrica de motores elétricos recolhe motores usados ao final de seu primeiro ciclo de uso, desmonta-os completamente, substitui peças desgastadas por componentes novos e os revende com garantia equivalente à de um produto novo. Considerando modelos estendidos da hierarquia de circularidade (como os 9Rs), essa prática corresponde a qual estratégia?",
       "alternativas": {
-        "A": "Reduzir, Reutilizar e Reciclar",
-        "B": "Remanufaturar, Recuperar e Repensar",
-        "C": "Recusar, Reparar e Renovar",
-        "D": "Reciclar, Reduzir e Remanufaturar, nesta ordem de prioridade"
+        "A": "Remanufaturar (Remanufacture)",
+        "B": "Reciclar (Recycle)",
+        "C": "Recuperar energia (Recover energy)",
+        "D": "Reduzir (Reduce)"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. Os '3Rs' clássicos, amplamente difundidos na gestão ambiental e de resíduos, são Reduzir (diminuir o consumo de recursos e a geração de resíduos na origem), Reutilizar (usar novamente um produto ou componente sem processamento significativo) e Reciclar (reprocessar materiais para gerar novas matérias-primas), geralmente apresentados nessa ordem de prioridade, do mais preferível (reduzir) ao menos preferível (reciclar) dentro desse conjunto básico.",
-        "B": "Incorreta. Remanufaturar, Recuperar e Repensar são estratégias que fazem parte de hierarquias estendidas, como os 9Rs ou 10Rs, mas não constituem o conjunto clássico e original dos 3Rs.",
-        "C": "Incorreta. Recusar, Reparar e Renovar também são estratégias de hierarquias mais amplas (como os 9Rs), não o conjunto tradicional dos 3Rs.",
-        "D": "Incorreta. Além de reunir estratégias de forma incompleta, a ordem de prioridade está invertida: reciclar é geralmente considerado o último recurso entre os 3Rs clássicos, e não o primeiro, já que reduzir o consumo na origem é preferível a reciclar materiais já descartados."
+        "A": "Correta. A remanufatura consiste em desmontar um produto usado, inspecionar e substituir componentes desgastados, restaurando-o a condições de desempenho e qualidade equivalentes (ou superiores) às de um produto novo, geralmente com garantia similar. Essa estratégia preserva grande parte do valor agregado original (estrutura, forma e função do produto), situando-se em posição mais alta na hierarquia de circularidade do que a reciclagem.",
+        "B": "Incorreta. A reciclagem envolve a quebra do produto em materiais básicos (por exemplo, fundir metais ou triturar plásticos) para reprocessamento em novas matérias-primas, perdendo a estrutura e a identidade do produto original — o que não ocorre no processo descrito, que preserva a identidade do motor.",
+        "C": "Incorreta. A recuperação de energia refere-se ao aproveitamento energético de materiais (como incineração com geração de energia) quando não é mais possível preservar sua forma ou reciclá-los, situação distinta do processo de remanufatura descrito.",
+        "D": "Incorreta. Reduzir refere-se à diminuição do uso de materiais ou recursos na fabricação de novos produtos, e não ao reaproveitamento de produtos já fabricados e usados, como no caso descrito."
       }
     },
     {
       "numero": 5,
-      "enunciado": "Hierarquias estendidas de economia circular, com até nove ou dez estratégias (os chamados \"9Rs\"), ampliam os 3Rs clássicos. Qual princípio orienta a ordem de prioridade dessas estratégias estendidas (por exemplo, Recusar, Repensar, Reduzir, Reutilizar, Reparar, Renovar/Reformar, Remanufaturar, Reaproveitar/Reconverter e Reciclar)?",
+      "assunto": "Reuso versus reciclagem",
+      "dificuldade": "intermediário",
+      "tipo": "analítica",
+      "enunciado": "Do ponto de vista da retenção de valor econômico e energético incorporado aos produtos, qual afirmação compara corretamente as estratégias de reutilização (reuse) e reciclagem (recycle) dentro da hierarquia da economia circular?",
       "alternativas": {
-        "A": "Estratégias mais próximas do uso original do produto e que exigem menos reprocessamento (como recusar, repensar e reduzir o consumo, ou reutilizar e reparar) são geralmente priorizadas sobre estratégias de maior intervenção e reprocessamento intensivo, como reciclagem e recuperação de energia",
-        "B": "Todas as estratégias têm exatamente a mesma prioridade, não havendo qualquer hierarquia entre elas",
-        "C": "A reciclagem é sempre a primeira estratégia a ser considerada, antes mesmo de se pensar em reduzir o consumo",
-        "D": "A hierarquia estendida elimina completamente a necessidade de reciclagem, que não faz mais parte do conceito de economia circular"
+        "A": "A reutilização tende a preservar mais valor e energia incorporados ao produto do que a reciclagem, pois mantém a forma e a função originais do bem, evitando o reprocessamento intensivo de materiais característico da reciclagem",
+        "B": "A reciclagem sempre preserva mais valor econômico do que a reutilização, pois transforma completamente o material em uma nova matéria-prima de maior valor agregado",
+        "C": "Reutilização e reciclagem são estrategicamente equivalentes em todos os aspectos, não havendo qualquer hierarquia de preferência entre elas",
+        "D": "A reciclagem deve sempre ser aplicada antes de se considerar a reutilização, pois é tecnicamente mais simples de implementar em qualquer cadeia produtiva"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. A lógica geral das hierarquias estendidas (9Rs) é que estratégias que preservam mais o valor original do produto/material e exigem menor reprocessamento — como recusar o consumo desnecessário, repensar modelos de uso, reduzir, reutilizar e reparar — são preferíveis, do ponto de vista de circularidade e eficiência de recursos, a estratégias de maior intervenção, como remanufatura, reaproveitamento em outra função (repurpose) e, por último, reciclagem (reprocessamento de materiais) e recuperação de energia, geralmente nas posições finais da hierarquia por implicarem maior perda de valor agregado.",
-        "B": "Incorreta. Existe, sim, uma lógica hierárquica subjacente às estratégias dos Rs estendidos, relacionada à quantidade de energia, trabalho e recursos necessários para cada estratégia, e não uma equivalência indiferenciada entre todas elas.",
-        "C": "Incorreta. É o oposto da lógica da hierarquia: reduzir o consumo e prevenir a geração de resíduos na origem é geralmente priorizado sobre a reciclagem, que ocorre apenas após o material já ter sido descartado ou ter atingido o fim de sua vida útil em determinada função.",
-        "D": "Incorreta. A reciclagem continua sendo uma estratégia válida e relevante dentro das hierarquias estendidas de economia circular; ela não é eliminada, apenas posicionada como uma opção de menor prioridade frente a estratégias que preservam mais valor, como reutilização e remanufatura."
+        "A": "Correta. A reutilização aproveita o produto (ou componente) praticamente como está, preservando a energia, o trabalho e os materiais já incorporados em sua fabricação original; a reciclagem, por sua vez, desmonta essa estrutura, demandando novo processamento (muitas vezes intensivo em energia) para transformar o material em insumo para novos produtos, o que geralmente implica maior perda de valor relativo.",
+        "B": "Incorreta. Em geral, ocorre o oposto: a reciclagem tende a gerar materiais de valor mais baixo que o produto original (downcycling), pois nem sempre é possível recuperar a qualidade original do material, ao contrário da reutilização, que mantém o valor do produto como um todo.",
+        "C": "Incorreta. As duas estratégias não são equivalentes; a hierarquia de circularidade as posiciona de forma distinta, com a reutilização geralmente precedendo a reciclagem por preservar mais valor agregado.",
+        "D": "Incorreta. Do ponto de vista da hierarquia de circularidade, a reutilização deve ser preferida à reciclagem sempre que tecnicamente viável, exatamente o oposto do que a alternativa propõe; a simplicidade de implementação não é o critério central dessa priorização."
       }
     },
     {
       "numero": 6,
-      "enunciado": "Piao et al. (2023), ao investigarem como a economia circular tem incorporado a inclusão social, frequentemente destacam o papel de atores informais na cadeia de reciclagem. Qual grupo é tipicamente central nessas discussões, especialmente no contexto de países em desenvolvimento como o Brasil?",
+      "assunto": "Trajetórias de transição linear–circular",
+      "dificuldade": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Ao discutir as trajetórias de transição da economia linear para a economia circular, a literatura (incluindo Homrich et al., 2018) reconhece diferentes caminhos possíveis para as organizações. Qual afirmação melhor descreve essa diversidade de trajetórias?",
       "alternativas": {
-        "A": "Catadores de materiais recicláveis (waste pickers), que atuam no setor informal ou cooperativado de coleta e triagem de resíduos",
-        "B": "Exclusivamente executivos de grandes corporações multinacionais do setor financeiro",
-        "C": "Apenas auditores certificadores de normas ISO em grandes indústrias",
-        "D": "Somente pesquisadores acadêmicos de universidades de países desenvolvidos, sem qualquer menção a trabalhadores do setor de resíduos"
+        "A": "A transição pode variar desde melhorias incrementais de ecoeficiência dentro da lógica produtiva existente até transformações mais radicais de modelos de negócio, redesenho de produtos e reconfiguração de cadeias de suprimentos voltadas ao fechamento de ciclos",
+        "B": "Existe uma única trajetória universal e obrigatória, idêntica para qualquer setor, porte de empresa ou contexto institucional",
+        "C": "A transição para a economia circular ocorre sempre de forma espontânea e automática, sem necessidade de mudanças em modelos de negócio, políticas públicas ou tecnologia",
+        "D": "A trajetória de transição é definida exclusivamente por exigências legais, sendo irrelevante qualquer iniciativa voluntária das organizações"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. A literatura sobre economia circular e inclusão social, como a discutida por Piao et al. (2023), frequentemente destaca o papel central dos catadores de materiais recicláveis (waste pickers) — trabalhadores que atuam, muitas vezes de forma informal ou organizados em cooperativas e associações, na coleta, triagem e comercialização de resíduos recicláveis — como atores-chave para que a transição à economia circular seja também socialmente inclusiva, especialmente em países em desenvolvimento, onde esse setor emprega grande número de pessoas em situação de vulnerabilidade social.",
-        "B": "Incorreta. Executivos de corporações financeiras não são o foco das discussões sobre inclusão social na economia circular; o tema trata, sobretudo, de populações vulneráveis envolvidas na cadeia de resíduos e materiais.",
-        "C": "Incorreta. Auditores certificadores de normas ISO estão relacionados a sistemas de gestão da qualidade (outro eixo temático da bibliografia), não ao debate sobre inclusão social no contexto de economia circular discutido por Piao et al.",
-        "D": "Incorreta. Embora pesquisadores acadêmicos estudem e discutam o tema, a questão central da inclusão social na economia circular recai sobre os trabalhadores diretamente envolvidos na cadeia de resíduos, como os catadores, e não se restringe ao universo acadêmico."
+        "A": "Correta. A literatura reconhece uma pluralidade de trajetórias de transição, que vão desde abordagens mais incrementais (como ganhos de ecoeficiência e otimização de processos existentes) até mudanças mais profundas e sistêmicas (novos modelos de negócio, como economia de performance e servitização, redesenho ecológico de produtos e reconfiguração de cadeias de suprimentos para fechamento de ciclos de materiais).",
+        "B": "Incorreta. Não há uma trajetória universal única; as transições variam conforme setor, porte da empresa, maturidade tecnológica, contexto institucional e regulatório, entre outros fatores.",
+        "C": "Incorreta. A transição para a economia circular raramente ocorre de forma espontânea; em geral, requer mudanças deliberadas em modelos de negócio, investimentos tecnológicos, políticas públicas de incentivo e mudanças culturais e de consumo.",
+        "D": "Incorreta. Embora a regulação (como políticas de responsabilidade estendida do produtor) seja um driver importante, iniciativas voluntárias de empresas, impulsionadas por pressões de mercado, reputação ou eficiência de recursos, também desempenham papel relevante nas trajetórias de transição."
       }
     },
     {
       "numero": 7,
-      "enunciado": "Uma crítica recorrente na literatura que relaciona economia circular e sustentabilidade, incluindo discussões como as de Piao et al. (2023), é que:",
+      "assunto": "Barreiras à economia circular",
+      "dificuldade": "intermediário",
+      "tipo": "analítica",
+      "enunciado": "Uma indústria de bens de consumo duráveis pretende redesenhar seus produtos para facilitar a desmontagem e a remanufatura, mas enfrenta resistência de fornecedores acostumados a processos tradicionais e precisa de investimentos iniciais elevados em novas ferramentas e treinamento, sem garantia de retorno financeiro no curto prazo. Essa situação ilustra, predominantemente, qual tipo de barreira à implementação da economia circular, segundo a literatura da área?",
       "alternativas": {
-        "A": "A dimensão social da economia circular tem recebido, historicamente, menos atenção na literatura e na prática em comparação às dimensões ambiental e econômica, havendo uma lacuna a ser mais explorada quanto à inclusão social",
-        "B": "A dimensão social sempre recebeu exatamente a mesma atenção que as dimensões ambiental e econômica em toda a literatura de economia circular, sem qualquer desequilíbrio",
-        "C": "A economia circular, por definição, já resolve automaticamente todos os problemas de desigualdade social, sem necessidade de políticas específicas",
-        "D": "A dimensão ambiental é a única mencionada na literatura de economia circular, sem qualquer referência a aspectos econômicos"
+        "A": "Barreiras econômico-financeiras e culturais/organizacionais, relacionadas a custos iniciais elevados, incerteza de retorno e resistência a mudanças em práticas estabelecidas",
+        "B": "Barreiras exclusivamente climáticas, relacionadas à disponibilidade de recursos hídricos na região de produção",
+        "C": "Barreiras linguísticas, decorrentes da dificuldade de comunicação entre departamentos internos da empresa",
+        "D": "Ausência de qualquer barreira, já que a transição para a economia circular nunca envolve custos ou resistência organizacional"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. Parte relevante da literatura crítica sobre economia circular, incluindo a linha de investigação de Piao et al. (2023), aponta que a dimensão social do conceito (equidade, inclusão, condições de trabalho, impactos sobre populações vulneráveis) tem sido historicamente menos desenvolvida e menos operacionalizada do que as dimensões ambiental (redução de impactos, uso de recursos) e econômica (eficiência, novos modelos de negócio), configurando uma lacuna importante a ser enfrentada tanto teórica quanto praticamente.",
-        "B": "Incorreta. Essa afirmação contraria justamente o diagnóstico central da literatura crítica, que identifica um desequilíbrio histórico entre as dimensões (ambiental/econômica mais desenvolvidas do que a social), e não uma atenção equivalente entre elas.",
-        "C": "Incorreta. A economia circular não resolve automaticamente desigualdades sociais apenas por sua adoção; pelo contrário, a literatura (como Piao et al.) argumenta que a inclusão social precisa ser deliberadamente incorporada ao desenho de políticas e modelos de negócio circulares, caso contrário pode até reforçar desigualdades existentes.",
-        "D": "Incorreta. A dimensão econômica é amplamente discutida na literatura de economia circular (novos modelos de negócio, eficiência de recursos, redução de custos), não sendo correto afirmar que apenas a dimensão ambiental é mencionada."
+        "A": "Correta. O cenário combina duas categorias clássicas de barreiras discutidas na literatura de economia circular: barreiras econômico-financeiras (altos investimentos iniciais, incerteza quanto ao retorno financeiro) e barreiras culturais/organizacionais (resistência de fornecedores e de práticas estabelecidas a mudanças no modelo tradicional de produção).",
+        "B": "Incorreta. O enunciado não menciona qualquer relação com disponibilidade de recursos hídricos ou fatores climáticos; a situação descrita é de natureza econômica e organizacional, não ambiental-climática.",
+        "C": "Incorreta. Não há, no enunciado, qualquer menção a dificuldades de comunicação linguística entre departamentos; essa não é uma categoria de barreira tipicamente discutida na literatura de economia circular.",
+        "D": "Incorreta. O próprio enunciado descreve explicitamente barreiras (resistência de fornecedores, necessidade de investimento elevado, incerteza de retorno), contrariando diretamente a afirmação de que não existiria nenhuma barreira."
       }
     },
     {
       "numero": 8,
-      "enunciado": "É comum haver confusão conceitual entre economia circular e reciclagem. Do ponto de vista da literatura especializada (como a revisão de Homrich et al.), qual afirmação melhor esclarece essa distinção?",
+      "assunto": "Ecoeficiência versus economia circular",
+      "dificuldade": "avançado",
+      "tipo": "analítica",
+      "enunciado": "Comparando as abordagens de \"ecoeficiência\" (fazer mais com menos, otimizando o uso de recursos dentro do modelo produtivo vigente) e de \"economia circular\" (redesenho sistêmico de produtos, processos e modelos de negócio para o fechamento de ciclos de materiais), qual afirmação diferencia corretamente essas duas abordagens?",
       "alternativas": {
-        "A": "A reciclagem é apenas uma entre várias estratégias possíveis dentro do espectro mais amplo da economia circular, que também inclui redução de consumo, reuso, reparo, remanufatura e novos modelos de negócio, entre outras abordagens",
-        "B": "Economia circular e reciclagem são termos perfeitamente sinônimos e intercambiáveis em qualquer contexto",
-        "C": "A economia circular exclui totalmente a reciclagem de seu escopo conceitual",
-        "D": "A reciclagem é uma estratégia mais prioritária do que a redução de consumo dentro da hierarquia da economia circular"
+        "A": "A ecoeficiência tende a ser uma estratégia incremental, que reduz a intensidade de uso de recursos e de geração de resíduos dentro da lógica linear existente, enquanto a economia circular propõe uma reestruturação mais ampla dos fluxos de materiais, distinguindo ciclos biológicos e técnicos para manter produtos e materiais em uso pelo maior tempo possível",
+        "B": "Ecoeficiência e economia circular são termos absolutamente sinônimos, sem qualquer diferença conceitual ou de escopo entre si",
+        "C": "A ecoeficiência exige sempre o fechamento completo dos ciclos de materiais, sendo, portanto, um conceito mais abrangente do que a economia circular",
+        "D": "A economia circular está restrita exclusivamente a ganhos de eficiência energética em processos industriais, sem qualquer relação com o redesenho de produtos ou modelos de negócio"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. Embora a reciclagem seja frequentemente a associação mais imediata e popular ao termo 'economia circular', a literatura especializada (como Homrich et al.) deixa claro que a economia circular é um conceito muito mais amplo, que abrange desde a concepção do produto (ecodesign), passando por redução de consumo, reutilização, reparo, remanufatura e novos modelos de negócio (como economia de performance/funcionalidade), sendo a reciclagem apenas uma das estratégias possíveis, geralmente situada em posição de menor prioridade na hierarquia de circularidade.",
-        "B": "Incorreta. Tratar os dois termos como sinônimos é precisamente o tipo de simplificação conceitual que a literatura especializada busca corrigir, pois reduz um conceito sistêmico amplo a apenas uma de suas estratégias componentes.",
-        "C": "Incorreta. A reciclagem não é excluída do conceito de economia circular; ela continua sendo uma estratégia legítima e relevante, apenas não é a única nem necessariamente a mais prioritária.",
-        "D": "Incorreta. É o oposto do que a hierarquia de estratégias circulares (3Rs ou 9Rs) geralmente propõe: a redução de consumo tende a ser priorizada sobre a reciclagem, por preservar mais valor e exigir menos reprocessamento de materiais."
+        "A": "Correta. A ecoeficiência é geralmente entendida como uma estratégia incremental e compatível com a lógica linear (reduzir a quantidade de recursos e resíduos por unidade produzida, sem necessariamente fechar os ciclos de materiais), enquanto a economia circular propõe uma reestruturação mais sistêmica, inclusive distinguindo ciclos biológicos (materiais que retornam à biosfera) e técnicos (materiais mantidos em uso por reuso, reparo, remanufatura e reciclagem), buscando preservar valor por mais tempo e reduzir a dependência de recursos virgens.",
+        "B": "Incorreta. Embora relacionados e às vezes complementares, os conceitos têm escopos distintos: ecoeficiência foca na otimização de recursos dentro do sistema existente, enquanto economia circular propõe uma reconfiguração mais ampla dos fluxos materiais e dos modelos de negócio.",
+        "C": "Incorreta. É o oposto do que a literatura descreve: a ecoeficiência não exige, por definição, o fechamento completo dos ciclos de materiais; essa é justamente uma das críticas apontadas à ecoeficiência como estratégia isolada, por ser compatível com a continuidade do modelo linear.",
+        "D": "Incorreta. A economia circular vai além de ganhos de eficiência energética, abrangendo também redesenho de produtos, novos modelos de negócio (como economia de performance), logística reversa e fechamento de ciclos de materiais biológicos e técnicos."
       }
     },
     {
       "numero": 9,
-      "enunciado": "Um exemplo frequentemente citado de modelo de negócio alinhado à economia circular, derivado da ideia de 'economia de performance/funcionalidade' (uma das trajetórias descritas por Homrich et al.), é:",
+      "assunto": "Ciclos biológicos e técnicos",
+      "dificuldade": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Um dos modelos mais difundidos para representar a economia circular (o \"diagrama borboleta\" da Ellen MacArthur Foundation) distingue dois tipos de fluxos de materiais. Qual alternativa descreve corretamente essa distinção?",
       "alternativas": {
-        "A": "A venda tradicional de produtos, em que a propriedade é transferida integralmente ao consumidor sem qualquer responsabilidade pós-venda do fabricante",
-        "B": "A servitização, ou seja, modelos de 'produto como serviço' (product-as-a-service), em que o fabricante mantém a propriedade do bem e oferece seu uso/desempenho ao cliente, incentivando-o a projetar produtos mais duráveis e fáceis de manter, reparar e recuperar",
-        "C": "O aumento da obsolescência programada dos produtos, reduzindo sua vida útil para estimular novas vendas",
-        "D": "A proibição legal de qualquer tipo de aluguel ou compartilhamento de bens"
+        "A": "Ciclos biológicos, nos quais nutrientes biológicos retornam com segurança à biosfera (por exemplo, por compostagem ou biodigestão), e ciclos técnicos, nos quais materiais e componentes não biodegradáveis circulam continuamente por meio de estratégias como reuso, reparo, remanufatura e reciclagem, mantendo-se fora da biosfera",
+        "B": "Ciclos biológicos referem-se exclusivamente a processos realizados em laboratórios farmacêuticos, sem qualquer relação com resíduos orgânicos industriais",
+        "C": "Ciclos técnicos descrevem apenas o transporte de materiais entre diferentes continentes, sem relação com estratégias de reuso ou remanufatura",
+        "D": "Não há distinção relevante entre ciclos biológicos e técnicos; ambos os termos são utilizados como sinônimos no modelo da Ellen MacArthur Foundation"
       },
-      "resposta": "B",
+      "resposta": "A",
       "explicacoes": {
-        "A": "Incorreta. A venda tradicional de produtos, com transferência total de propriedade e nenhuma responsabilidade do fabricante após a venda, é justamente o modelo linear tradicional que a economia de performance/funcionalidade busca superar, pois não gera incentivos para o fabricante tornar o produto mais durável ou circular.",
-        "B": "Correta. A economia de performance/funcionalidade, uma das trajetórias conceituais integradas pela economia circular segundo Homrich et al., propõe modelos como a servitização ('produto como serviço'), nos quais o fabricante retém a propriedade do bem e vende seu uso, desempenho ou resultado (por exemplo, iluminação como serviço, em vez da venda de lâmpadas). Isso alinha os incentivos do fabricante com a durabilidade, manutenção, reparabilidade e recuperação do produto ao final do uso, favorecendo a circularidade.",
-        "C": "Incorreta. A obsolescência programada é diretamente contrária aos princípios da economia circular, pois reduz deliberadamente a vida útil dos produtos para estimular novo consumo, indo no sentido oposto da lógica de manutenção de valor e durabilidade.",
-        "D": "Incorreta. Modelos de aluguel e compartilhamento de bens (economia compartilhada) são, na verdade, exemplos compatíveis e frequentemente citados como estratégias de economia circular e de performance/funcionalidade, e não práticas proibidas ou incompatíveis com ela."
+        "A": "Correta. O diagrama borboleta distingue ciclos biológicos, nos quais materiais biodegradáveis (nutrientes biológicos) podem retornar com segurança à biosfera por meio de processos como compostagem e biodigestão, regenerando sistemas naturais, dos ciclos técnicos, nos quais materiais e componentes não biodegradáveis (nutrientes técnicos) são mantidos em circulação pelo maior tempo possível por meio de estratégias como manutenção, reuso, reparo, remanufatura e, por fim, reciclagem, evitando seu retorno à biosfera.",
+        "B": "Incorreta. Ciclos biológicos, no contexto da economia circular, referem-se a qualquer material biodegradável que possa retornar à biosfera, não estando restritos a processos farmacêuticos; incluem, por exemplo, resíduos orgânicos industriais e agrícolas.",
+        "C": "Incorreta. Ciclos técnicos tratam da manutenção de materiais e produtos não biodegradáveis em uso por meio de estratégias de circularidade (reuso, reparo, remanufatura, reciclagem), e não apenas do transporte geográfico de materiais.",
+        "D": "Incorreta. A distinção entre ciclos biológicos e técnicos é central ao modelo e tem implicações práticas distintas para o design de produtos e a gestão de materiais, não sendo termos sinônimos."
       }
     },
     {
       "numero": 10,
-      "enunciado": "Considerando conjuntamente Homrich et al. (2018) e Piao et al. (2023), é correto afirmar sobre a evolução da pesquisa em economia circular que:",
+      "assunto": "Crítica à economia circular — efeito rebote",
+      "dificuldade": "avançado",
+      "tipo": "analítica",
+      "enunciado": "Parte da literatura crítica sobre economia circular (incluindo reflexões presentes em Homrich et al., 2018) aponta riscos e tensões na implementação do conceito, entre eles o chamado \"efeito rebote\" (rebound effect). Qual situação exemplifica corretamente esse efeito?",
       "alternativas": {
-        "A": "Trabalhos mais recentes, como o de Piao et al., tendem a aprofundar dimensões específicas (como a inclusão social) que haviam sido identificadas como menos desenvolvidas em revisões anteriores mais amplas, como a de Homrich et al., evidenciando um amadurecimento e uma maior especialização da agenda de pesquisa sobre economia circular",
-        "B": "Não existe qualquer relação ou continuidade entre os temas tratados pelos dois trabalhos, que seriam completamente independentes entre si",
-        "C": "Piao et al. (2023) refutam integralmente o conceito de economia circular apresentado por Homrich et al. (2018), propondo o abandono completo do termo",
-        "D": "Ambos os trabalhos tratam exclusivamente de aspectos financeiros e tributários da reciclagem industrial, sem qualquer menção a aspectos sociais ou ambientais"
+        "A": "Uma empresa reduz o custo de produção de um bem por meio de maior eficiência no uso de materiais reciclados, mas essa redução de custo estimula um aumento do volume de consumo do produto, compensando parcial ou totalmente o ganho ambiental obtido pela eficiência de materiais",
+        "B": "Uma empresa investe em reciclagem e, como resultado direto e exclusivo, reduz permanentemente o consumo total de recursos naturais na economia, sem qualquer efeito colateral sobre o volume de consumo",
+        "C": "O efeito rebote refere-se exclusivamente a falhas técnicas em equipamentos de reciclagem, sem qualquer relação com padrões de consumo",
+        "D": "O efeito rebote ocorre apenas em ciclos biológicos, nunca em ciclos técnicos de materiais"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correta. Há uma continuidade lógica na evolução da pesquisa: revisões amplas como a de Homrich et al. (2018) mapeiam o campo da economia circular como um conceito guarda-chuva e apontam lacunas de integração entre dimensões; trabalhos posteriores e mais específicos, como o de Piao et al. (2023), aprofundam justamente uma dessas lacunas (a dimensão social/inclusão), refletindo o amadurecimento, a especialização e o desdobramento progressivo da agenda de pesquisa em economia circular ao longo do tempo.",
-        "B": "Incorreta. Os trabalhos não são independentes; pelo contrário, fazem parte de uma trajetória coerente de desenvolvimento do campo de estudos em economia circular, em que lacunas identificadas em revisões amplas (Homrich et al.) são posteriormente investigadas em maior profundidade (Piao et al.).",
-        "C": "Incorreta. Piao et al. não refutam o conceito de economia circular; eles o utilizam como base para investigar uma de suas dimensões específicas (inclusão social), buscando aprimorar e aprofundar, e não abandonar, a discussão conceitual.",
-        "D": "Incorreta. Nenhum dos dois trabalhos trata exclusivamente de aspectos financeiros e tributários; Homrich et al. discutem amplamente trajetórias conceituais ambientais e econômicas da economia circular, e Piao et al. focam especificamente na dimensão social (inclusão), não em tributação."
+        "A": "Correta. O efeito rebote, nesse contexto, refere-se ao fenômeno em que ganhos de eficiência (por exemplo, redução de custos obtida pelo uso de materiais reciclados ou por processos mais eficientes) acabam estimulando aumento no volume de consumo ou de produção, de modo que parte ou a totalidade do benefício ambiental esperado é compensada ou até revertida pelo aumento da demanda — uma das críticas e tensões apontadas à economia circular quando tratada apenas sob a ótica da eficiência.",
+        "B": "Incorreta. Essa descrição ignora justamente o risco central do efeito rebote: investimentos em eficiência/reciclagem não garantem, por si só, redução líquida do consumo de recursos, pois podem gerar efeitos colaterais sobre o comportamento de consumo que compensam o ganho ambiental.",
+        "C": "Incorreta. O efeito rebote é um fenômeno econômico e comportamental relacionado a padrões de consumo e produção, e não um problema técnico de equipamentos.",
+        "D": "Incorreta. O efeito rebote pode ocorrer tanto em fluxos de materiais biológicos quanto técnicos, sempre que ganhos de eficiência estimulam aumento de consumo que compensa o benefício ambiental esperado; não é restrito a um único tipo de ciclo."
       }
     }
   ]
