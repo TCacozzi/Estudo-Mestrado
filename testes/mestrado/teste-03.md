@@ -1,148 +1,149 @@
-# Sistemas de Gestão da Qualidade e Custos da Qualidade: ISO 9000/9001
+# Sistemas de Gestão da Qualidade e Custos da Qualidade
 
 **Tópico:** Sistemas de Gestão da Qualidade e Custos da Qualidade  
-**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.
+**Dificuldade:** básico 3 · intermediário 5 · avançado 2
 
 ## Questões
 
-**1.** A família de normas ISO 9000 é composta por diferentes documentos com propósitos distintos. Qual afirmação descreve corretamente a relação entre a ISO 9000 e a ISO 9001?
+**1.** A família de normas ISO 9000 é composta por diferentes documentos com propósitos distintos. Qual alternativa descreve corretamente a diferença entre a ISO 9000 e a ISO 9001? _(básico · conceitual · Família de normas ISO 9000)_
 
-- **A)** A ISO 9000 estabelece fundamentos, princípios e vocabulário de gestão da qualidade, enquanto a ISO 9001 especifica os requisitos certificáveis de um Sistema de Gestão da Qualidade (SGQ)
-- **B)** A ISO 9000 e a ISO 9001 são documentos idênticos, publicados apenas em anos diferentes, sem distinção de conteúdo
-- **C)** A ISO 9001 trata exclusivamente de gestão ambiental, enquanto a ISO 9000 trata de gestão da qualidade
-- **D)** A ISO 9000 é a norma certificável, enquanto a ISO 9001 é apenas um guia de vocabulário sem requisitos
+- **A)** A ISO 9000 estabelece fundamentos e vocabulário dos sistemas de gestão da qualidade, enquanto a ISO 9001 especifica requisitos certificáveis para um sistema de gestão da qualidade
+- **B)** A ISO 9000 e a ISO 9001 são termos equivalentes e intercambiáveis, referindo-se exatamente ao mesmo conjunto de requisitos certificáveis
+- **C)** A ISO 9000 é exclusiva para o setor automotivo, enquanto a ISO 9001 aplica-se a qualquer setor industrial
+- **D)** A ISO 9000 trata exclusivamente de auditorias de sistemas de gestão, enquanto a ISO 9001 trata exclusivamente de calibração de instrumentos
 
-**2.** A estrutura da ISO 9001 está alinhada à lógica de melhoria contínua. Qual ciclo fundamentado na gestão da qualidade está subjacente à organização dos requisitos da norma?
-
-- **A)** O ciclo PDCA (Planejar, Executar, Verificar, Agir)
-- **B)** O ciclo de vida do produto definido unicamente pelo marketing
-- **C)** O ciclo DMADV do Six Sigma
-- **D)** O ciclo orçamentário anual da organização
-
-**3.** A ISO 9000:2015 estabelece sete princípios de gestão da qualidade que fundamentam toda a família de normas. Qual das alternativas lista corretamente alguns desses princípios?
+**2.** A ISO 9001:2015 é estruturada com base em um conjunto de princípios de gestão da qualidade. Qual das alternativas apresenta corretamente princípios reconhecidos pela norma? _(básico · conceitual · Princípios de gestão da qualidade (ISO 9001))_
 
 - **A)** Foco no cliente, liderança, engajamento das pessoas, abordagem de processo, melhoria, tomada de decisão baseada em evidências e gestão de relacionamento
-- **B)** Maximização do lucro, minimização de custos fixos, foco em concorrentes, verticalização produtiva, sazonalidade e elasticidade-preço
-- **C)** Inspeção total, retrabalho sistemático, terceirização obrigatória, padronização estética e centralização decisória
-- **D)** Economia circular, pegada de carbono, responsabilidade social corporativa, ecodesign e logística reversa
+- **B)** Maximização do lucro de curto prazo, centralização decisória, padronização rígida de cargos e eliminação total de auditorias externas
+- **C)** Foco exclusivo em indicadores financeiros, ausência de documentação e dispensa de responsabilidade da alta direção
+- **D)** Priorização da inspeção final a 100% como único mecanismo de controle da qualidade
 
-**4.** Sobre o processo de certificação ISO 9001, é correto afirmar que:
+**3.** As auditorias de sistemas de gestão da qualidade são classificadas conforme a relação entre o auditor e a organização auditada. Qual alternativa associa corretamente cada tipo de auditoria à sua definição? _(intermediário · conceitual · Tipos de auditoria da qualidade)_
 
-- **A)** A certificação é concedida com base em uma autodeclaração da empresa, sem qualquer verificação externa
-- **B)** A certificação normalmente envolve auditoria de terceira parte, realizada por um organismo certificador independente e acreditado, que verifica a conformidade do SGQ com os requisitos da norma
-- **C)** A certificação ISO 9001 garante, por si só, que os produtos da empresa nunca apresentarão defeitos
-- **D)** A certificação ISO 9001 é válida permanentemente, sem necessidade de auditorias de manutenção ou recertificação
+- **A)** Auditoria de primeira parte: realizada pela própria organização (auditoria interna); auditoria de segunda parte: realizada por um cliente ou em seu nome sobre um fornecedor; auditoria de terceira parte: realizada por um organismo certificador independente
+- **B)** Auditoria de primeira parte: realizada exclusivamente por órgãos governamentais; auditoria de segunda parte: realizada pela alta direção da própria empresa; auditoria de terceira parte: realizada por concorrentes do setor
+- **C)** Auditoria de primeira, segunda e terceira partes são sinônimos e representam etapas sequenciais obrigatórias de um mesmo processo de certificação
+- **D)** Auditoria de primeira parte: realizada pelo organismo certificador; auditoria de segunda parte: realizada pela própria organização; auditoria de terceira parte: realizada pelo cliente
 
-**5.** Na classificação clássica dos custos da qualidade (modelo PAF: Prevenção, Avaliação e Falhas), os custos de PREVENÇÃO referem-se a:
+**4.** Uma empresa apurou, em um determinado ano, um custo total da qualidade de R$ 500.000, distribuído da seguinte forma: treinamento em qualidade (prevenção): R$ 50.000; inspeção de recebimento de materiais (avaliação): R$ 80.000; retrabalho de produtos não conformes (falha interna): R$ 120.000; devoluções e reclamações de clientes (falha externa): R$ 150.000; manutenção preventiva de equipamentos (prevenção): R$ 100.000. Qual é o percentual do custo total da qualidade correspondente aos custos de falhas (internas e externas somadas)? _(intermediário · quantitativa · Custos da qualidade — falhas internas e externas)_
 
-- **A)** Gastos para evitar que defeitos ocorram, como treinamento de pessoal, planejamento da qualidade, revisão de projeto e melhoria de processos
-- **B)** Gastos com retrabalho e sucata gerados dentro da fábrica antes da entrega ao cliente
-- **C)** Gastos com devoluções, garantias e processos judiciais decorrentes de reclamações de clientes
-- **D)** Gastos com inspeção de recebimento de matéria-prima e testes de produtos acabados
+- **A)** 54,0%
+- **B)** 46,0%
+- **C)** 30,0%
+- **D)** 24,0%
 
-**6.** Os custos de AVALIAÇÃO (ou verificação), dentro do modelo PAF de custos da qualidade, estão associados a:
+**5.** Com base nos mesmos dados da questão anterior (custo total da qualidade de R$ 500.000, sendo R$ 50.000 em treinamento e R$ 100.000 em manutenção preventiva de equipamentos, ambos classificados como custos de prevenção), qual é o percentual do custo total correspondente exclusivamente aos custos de prevenção? _(intermediário · quantitativa · Custos da qualidade — prevenção)_
 
-- **A)** Atividades de medição, inspeção e teste realizadas para verificar se produtos e processos atendem aos padrões de qualidade estabelecidos, como inspeção de recebimento, inspeção em processo e auditorias de qualidade
-- **B)** Atividades realizadas exclusivamente após a identificação de uma reclamação formal do cliente
-- **C)** Investimentos em pesquisa e desenvolvimento de novos produtos sustentáveis
-- **D)** Gastos com substituição gratuita de produtos sob garantia em campo
+- **A)** 30,0%
+- **B)** 16,0%
+- **C)** 24,0%
+- **D)** 46,0%
 
-**7.** Uma empresa identifica, durante a inspeção final antes da expedição, um lote de peças fora de especificação, que precisa ser retrabalhado. Esse custo é classificado, no modelo PAF, como:
+**6.** Ainda considerando a estrutura de custos da qualidade da empresa (prevenção = 30%, avaliação = 16%, falhas internas = 24%, falhas externas = 30% do custo total da qualidade), qual conclusão está mais alinhada à literatura clássica sobre economia dos custos da qualidade (como os modelos de Juran e Feigenbaum)? _(avançado · analítica · Economia dos custos da qualidade)_
 
-- **A)** Custo de prevenção, pois evita que o defeito chegue ao cliente
-- **B)** Custo de avaliação, pois decorre diretamente da atividade de inspeção
-- **C)** Custo de falha interna, pois o defeito foi identificado e tratado antes da entrega do produto ao cliente
-- **D)** Custo de falha externa, pois envolve reputação da marca no mercado
+- **A)** Como os custos de prevenção (30%) já são superiores aos de avaliação (16%), a empresa deve reduzir os investimentos em prevenção para equilibrar as categorias de custo
+- **B)** Como os custos de falhas (54% do total, somando falhas internas e externas) representam a maior parcela dos custos da qualidade, a literatura sugere que o incremento de investimentos em prevenção tende a reduzir desproporcionalmente os custos de falha, melhorando o resultado econômico global
+- **C)** Os custos de avaliação (16%) são os mais relevantes e devem ser o foco exclusivo de redução de custos, por representarem desperdício puro e sem qualquer benefício para a organização
+- **D)** Como os custos já estão distribuídos de forma equilibrada entre as quatro categorias, nenhuma ação adicional de melhoria da qualidade é necessária
 
-**8.** Em relação ao comportamento típico dos diferentes tipos de custos da qualidade (modelo tradicional de custos ótimos da qualidade), é correto afirmar que:
+**7.** A revisão da ISO 9001 publicada em 2015 introduziu, de forma explícita, o conceito de "pensamento baseado em risco" (risk-based thinking) ao longo de todo o sistema de gestão da qualidade. Qual é a principal implicação prática dessa mudança? _(intermediário · conceitual · Pensamento baseado em risco (ISO 9001:2015))_
 
-- **A)** Em geral, investimentos adicionais em prevenção e avaliação tendem a reduzir os custos de falhas internas e externas, de forma que o modelo busca identificar um nível de conformidade que minimize o custo total da qualidade
-- **B)** Custos de prevenção e custos de falhas são sempre exatamente iguais entre si em qualquer organização
-- **C)** Aumentar os custos de avaliação sempre reduz a zero os custos de prevenção, pois seriam estratégias mutuamente excludentes
-- **D)** Os custos de falhas externas são, por definição, sempre menores que os custos de prevenção, independentemente do setor
+- **A)** A organização deve identificar e tratar riscos e oportunidades que possam afetar a conformidade de produtos/serviços e a satisfação do cliente, de forma integrada ao planejamento do sistema de gestão, substituindo a cláusula isolada de "ação preventiva" das versões anteriores
+- **B)** A organização deve eliminar totalmente qualquer atividade que apresente risco, mesmo que isso implique descontinuar processos essenciais ao negócio
+- **C)** A gestão de riscos passa a ser responsabilidade exclusiva do departamento jurídico da organização, desvinculada do sistema de gestão da qualidade
+- **D)** O pensamento baseado em risco torna desnecessária qualquer auditoria interna, pois os riscos já seriam automaticamente controlados
 
-**9.** A abordagem por processo, um dos princípios da ISO 9000, implica que:
+**8.** Durante uma auditoria interna, identificou-se que um lote de produtos saiu fora de especificação devido a uma falha de calibração de um equipamento de medição. A equipe da qualidade sucateou imediatamente o lote não conforme e, em seguida, investigou a causa-raiz da falha de calibração, implementando um novo procedimento de verificação periódica dos instrumentos para evitar a recorrência do problema. De acordo com a terminologia da ISO 9001, a implementação desse novo procedimento de verificação periódica corresponde a: _(intermediário · aplicação · Correção versus ação corretiva (ISO 9001))_
 
-- **A)** A organização deve ser entendida e gerida como um conjunto de processos inter-relacionados que transformam entradas em saídas, permitindo entender e gerenciar de forma sistêmica as interações entre eles para alcançar resultados consistentes e previsíveis
-- **B)** Cada departamento da empresa deve operar de forma totalmente isolada, sem qualquer interface ou comunicação com os demais
-- **C)** Apenas o processo de fabricação final deve ser considerado relevante para a gestão da qualidade, ignorando processos de apoio como compras e recursos humanos
-- **D)** A abordagem por processo é incompatível com o ciclo PDCA e não pode ser utilizada em conjunto com ele
+- **A)** Ação corretiva, pois visa eliminar a causa-raiz da não conformidade para prevenir sua recorrência
+- **B)** Correção, pois trata apenas do sintoma imediato do problema identificado
+- **C)** Auditoria de certificação, por envolver um organismo externo independente
+- **D)** Ação preventiva, terminologia formalmente mantida como cláusula específica na ISO 9001:2015
 
-**10.** Uma organização certificada na ISO 9001 identifica, por meio de auditorias internas periódicas, uma série de não conformidades recorrentes, implementando ações corretivas e buscando eliminar suas causas-raiz de forma sistemática. Esse comportamento está mais diretamente alinhado a qual princípio/conceito?
+**9.** Dentro da família de normas relacionadas à gestão da qualidade, qual norma fornece diretrizes para a realização de auditorias de sistemas de gestão? _(básico · conceitual · Documentos da família ISO 9000)_
 
-- **A)** Melhoria contínua, um dos princípios centrais de gestão da qualidade da ISO 9000, que pressupõe que a organização deve buscar constantemente aprimorar seu desempenho e seus processos
-- **B)** Inspeção total, abordagem considerada ultrapassada, que visa detectar 100% dos defeitos apenas no produto final
-- **C)** Terceirização compulsória de todos os processos com histórico de não conformidade
-- **D)** Eliminação definitiva da necessidade de qualquer auditoria futura, já que o problema foi resolvido uma única vez
+- **A)** ISO 19011
+- **B)** ISO 9001
+- **C)** ISO 9004
+- **D)** ISO 14001
+
+**10.** Duas empresas do mesmo setor adotam estratégias distintas de gestão da qualidade. A Empresa X investe fortemente em inspeção e testes finais (alto custo de avaliação), mas possui poucos recursos dedicados a treinamento e revisão de projeto (baixo custo de prevenção). A Empresa Y investe de forma equilibrada em treinamento, revisão de projeto e manutenção preventiva (alto custo de prevenção), reduzindo gradualmente a necessidade de inspeções extensivas. Com base na literatura de custos da qualidade, qual tendência é mais esperada ao longo do tempo? _(avançado · analítica · Comparação entre abordagens de gestão da qualidade)_
+
+- **A)** A Empresa X tende a apresentar, ao longo do tempo, custos de falha relativamente mais altos e persistentes, pois a inspeção detecta não conformidades sem eliminar suas causas-raiz, enquanto a Empresa Y tende a reduzir progressivamente seus custos totais da qualidade à medida que a prevenção reduz a incidência de defeitos
+- **B)** Não há diferença esperada entre as duas estratégias, pois os custos totais da qualidade são sempre idênticos independentemente da distribuição entre prevenção, avaliação e falhas
+- **C)** A Empresa X tende a eliminar completamente os custos de falha apenas com inspeção, tornando desnecessário qualquer investimento futuro em prevenção
+- **D)** A Empresa Y tende a apresentar custos totais da qualidade crescentes ao longo do tempo, pois investimentos em prevenção são sistematicamente mais caros do que os ganhos obtidos com a redução de falhas
 
 ## Gabarito e explicações
 
 **1. Resposta: A**
 
-- ✅ **A)** Correta. A ISO 9000 ('Sistemas de gestão da qualidade — Fundamentos e vocabulário') apresenta os conceitos, princípios de gestão da qualidade e terminologia padronizada usados em toda a família de normas. Já a ISO 9001 ('Sistemas de gestão da qualidade — Requisitos') é a norma que estabelece requisitos específicos que podem ser auditados e certificados por um organismo de certificação, sendo a única da família diretamente certificável nesse sentido tradicional.
-- ❌ **B)** Incorreta. Embora pertençam à mesma família e sejam revisadas de forma coordenada, ISO 9000 e ISO 9001 têm propósitos e conteúdos distintos: uma é conceitual/terminológica, a outra é normativa com requisitos.
-- ❌ **C)** Incorreta. Essa descrição confunde a família ISO 9000 (qualidade) com a família ISO 14000 (gestão ambiental); nenhuma das duas normas citadas trata de gestão ambiental.
-- ❌ **D)** Incorreta. A relação está invertida: é a ISO 9001 que contém os requisitos certificáveis, enquanto a ISO 9000 fornece fundamentos e vocabulário, não sendo ela própria uma norma de requisitos certificável.
+- ✅ **A)** Correta. A ISO 9000 apresenta os fundamentos e o vocabulário dos sistemas de gestão da qualidade (incluindo os princípios de gestão da qualidade), enquanto a ISO 9001 estabelece os requisitos específicos e certificáveis que uma organização deve atender para demonstrar sua capacidade de fornecer produtos e serviços conformes.
+- ❌ **B)** Incorreta. Embora relacionadas, as normas têm propósitos distintos: apenas a ISO 9001 é certificável; a ISO 9000 é normativa de referência (conceitos e terminologia), não objeto de certificação.
+- ❌ **C)** Incorreta. Nenhuma das duas normas é exclusiva do setor automotivo; normas setoriais específicas para esse setor incluem, por exemplo, a IATF 16949, que é distinta da família ISO 9000.
+- ❌ **D)** Incorreta. Auditorias de sistemas de gestão são tratadas pela norma ISO 19011 (diretrizes para auditoria), e não pela ISO 9000; calibração de instrumentos não é o foco de nenhuma das duas normas citadas.
 
 **2. Resposta: A**
 
-- ✅ **A)** Correta. A estrutura da ISO 9001 (em suas versões mais recentes) é explicitamente alinhada ao ciclo PDCA, organizando os requisitos de forma que a organização planeje seu SGQ e seus processos (Plan), os implemente (Do), monitore e meça seu desempenho frente a políticas, objetivos e requisitos (Check), e tome ações para melhorar continuamente o desempenho (Act).
-- ❌ **B)** Incorreta. O ciclo de vida do produto é um conceito de marketing/gestão de produtos, relacionado a fases de introdução, crescimento, maturidade e declínio, sem relação direta com a lógica estrutural da norma ISO 9001.
-- ❌ **C)** Incorreta. O DMADV é uma variante do Six Sigma usada para desenhar novos processos ou produtos, distinta da estrutura processual da ISO 9001, que é baseada no PDCA.
-- ❌ **D)** Incorreta. O ciclo orçamentário é um processo de gestão financeira, não a base conceitual utilizada para estruturar os requisitos de um sistema de gestão da qualidade segundo a ISO 9001.
+- ✅ **A)** Correta. A ISO 9001:2015 baseia-se em sete princípios de gestão da qualidade: foco no cliente, liderança, engajamento das pessoas, abordagem de processo, melhoria, tomada de decisão baseada em evidências e gestão de relacionamento (com partes interessadas).
+- ❌ **B)** Incorreta. Esses elementos contrariam diretamente os princípios da norma, que valoriza o engajamento das pessoas (não a centralização decisória) e não trata de eliminação de auditorias externas, que podem inclusive ser parte do processo de certificação.
+- ❌ **C)** Incorreta. A norma exige, entre outros pontos, liderança e comprometimento da alta direção, além de informação documentada proporcional à complexidade dos processos; não advoga ausência de documentação.
+- ❌ **D)** Incorreta. A inspeção final a 100% é característica de abordagens mais antigas de controle de qualidade; a ISO 9001 enfatiza a abordagem de processo e a prevenção, incluindo o pensamento baseado em risco, não apenas a detecção ao final da cadeia produtiva.
 
 **3. Resposta: A**
 
-- ✅ **A)** Correta. Os sete princípios de gestão da qualidade da ISO 9000:2015 são: foco no cliente, liderança, engajamento das pessoas, abordagem de processo, melhoria, tomada de decisão baseada em evidências, e gestão de relacionamento (com partes interessadas, como fornecedores). Esses princípios orientam toda a filosofia por trás dos requisitos da ISO 9001.
-- ❌ **B)** Incorreta. Esses são conceitos de estratégia competitiva e microeconomia, não os princípios formais de gestão da qualidade estabelecidos pela ISO 9000.
-- ❌ **C)** Incorreta. Esses itens representam, em grande parte, práticas que a gestão da qualidade moderna busca superar ou que não fazem parte dos princípios oficiais da norma (a ISO 9000 não prega inspeção total nem centralização decisória como princípios).
-- ❌ **D)** Incorreta. Esses são conceitos relacionados à sustentabilidade e à economia circular, relevantes para outra área temática (como a literatura de Homrich et al. e Piao et al.), mas não correspondem aos sete princípios de gestão da qualidade da ISO 9000.
+- ✅ **A)** Correta. A classificação padrão (também usada na ISO 19011) define: auditoria de primeira parte como auditoria interna, conduzida pela própria organização ou em seu nome; auditoria de segunda parte como aquela conduzida por partes interessadas externas, como clientes, sobre seus fornecedores; e auditoria de terceira parte como aquela conduzida por organismos independentes de certificação ou órgãos reguladores.
+- ❌ **B)** Incorreta. Essa descrição não corresponde à classificação padrão; auditorias internas (primeira parte) não são realizadas por órgãos governamentais, e concorrentes não realizam auditorias de terceira parte sobre uma organização.
+- ❌ **C)** Incorreta. Embora possam ocorrer em sequência na prática organizacional, os três tipos de auditoria não são sinônimos; diferenciam-se fundamentalmente pela relação entre quem audita e quem é auditado.
+- ❌ **D)** Incorreta. Essa alternativa inverte as definições corretas: a auditoria de primeira parte é a auditoria interna (não a de certificação), e a de terceira parte é a de certificação (não a do cliente).
 
-**4. Resposta: B**
+**4. Resposta: A**
 
-- ❌ **A)** Incorreta. Embora exista a chamada 'autodeclaração de conformidade' como possibilidade teórica, o processo usual e reconhecido de certificação ISO 9001 envolve avaliação externa independente, justamente para conferir credibilidade e reconhecimento de mercado ao certificado.
-- ✅ **B)** Correta. O processo típico de certificação ISO 9001 envolve auditoria de terceira parte: um organismo certificador independente e acreditado avalia documentalmente e na prática (auditoria in loco) se o Sistema de Gestão da Qualidade da organização atende aos requisitos da norma, emitindo o certificado quando a conformidade é constatada, e realizando auditorias periódicas de manutenção.
-- ❌ **C)** Incorreta. A certificação ISO 9001 atesta a conformidade do sistema de gestão da qualidade (processos, documentação, controles), mas não é uma garantia absoluta de ausência total de defeitos nos produtos; ela aumenta a probabilidade de consistência e controle, mas não elimina completamente a possibilidade de falhas.
-- ❌ **D)** Incorreta. A certificação ISO 9001 tem validade definida (tipicamente três anos) e exige auditorias periódicas de manutenção/vigilância e recertificação ao término do ciclo, para assegurar que o SGQ continua em conformidade ao longo do tempo.
+- ✅ **A)** Correta. Custos de falha interna (retrabalho) = R$ 120.000; custos de falha externa (devoluções/reclamações) = R$ 150.000. Soma = R$ 270.000. Percentual = 270.000/500.000 = 0,54, ou seja, 54,0% do custo total da qualidade.
+- ❌ **B)** Incorreta. 46,0% corresponde à soma dos custos de prevenção e avaliação (50.000 + 100.000 + 80.000 = 230.000; 230.000/500.000 = 46%), categoria oposta à solicitada (custos de conformidade, não de falhas).
+- ❌ **C)** Incorreta. 30,0% corresponde apenas aos custos de falha externa isoladamente (150.000/500.000 = 30%), sem somar os custos de falha interna.
+- ❌ **D)** Incorreta. 24,0% corresponde apenas aos custos de falha interna isoladamente (120.000/500.000 = 24%), sem somar os custos de falha externa.
 
 **5. Resposta: A**
 
-- ✅ **A)** Correta. Os custos de prevenção são os investimentos realizados para evitar que não conformidades e defeitos ocorram, incluindo atividades como treinamento de funcionários, planejamento da qualidade, revisão e melhoria de projetos de produto/processo, manutenção preventiva e desenvolvimento de fornecedores. São considerados os custos mais 'eficientes', pois atacam a causa antes que o problema se manifeste.
-- ❌ **B)** Incorreta. Essa descrição corresponde aos custos de falhas internas, que ocorrem quando defeitos são identificados antes da entrega ao cliente, gerando retrabalho, sucata e refugo, e não aos custos de prevenção.
-- ❌ **C)** Incorreta. Essa descrição corresponde aos custos de falhas externas, que ocorrem após a entrega do produto ao cliente, e não aos custos de prevenção.
-- ❌ **D)** Incorreta. Essa descrição corresponde aos custos de avaliação (ou inspeção/verificação), que medem e verificam a conformidade por meio de inspeções e testes, mas não evitam que o defeito surja — apenas o detectam. Prevenção, por definição, atua antes da ocorrência do defeito.
+- ✅ **A)** Correta. Custos de prevenção = treinamento (R$ 50.000) + manutenção preventiva (R$ 100.000) = R$ 150.000. Percentual = 150.000/500.000 = 0,30, ou seja, 30,0% do custo total da qualidade.
+- ❌ **B)** Incorreta. 16,0% corresponde ao percentual dos custos de avaliação isoladamente (inspeção de recebimento, R$ 80.000/500.000 = 16%), categoria distinta de prevenção.
+- ❌ **C)** Incorreta. 24,0% corresponde ao percentual dos custos de falha interna (retrabalho, R$ 120.000/500.000 = 24%), não aos custos de prevenção.
+- ❌ **D)** Incorreta. 46,0% resulta de somar indevidamente prevenção e avaliação juntas (150.000 + 80.000 = 230.000; 230.000/500.000 = 46%), confundindo os 'custos de conformidade' (prevenção + avaliação) com os custos de prevenção isolados.
 
-**6. Resposta: A**
+**6. Resposta: B**
 
-- ✅ **A)** Correta. Os custos de avaliação referem-se às atividades de medição, inspeção, testes e auditorias realizadas para verificar a conformidade de materiais, processos e produtos com os padrões estabelecidos (por exemplo, inspeção de matéria-prima recebida, inspeção durante o processo produtivo, testes de produto acabado, calibração de instrumentos). Diferem da prevenção porque não evitam o defeito, apenas o detectam antes que chegue ao cliente.
-- ❌ **B)** Incorreta. Atividades realizadas exclusivamente após reclamação do cliente estão mais associadas aos custos de falhas externas, e não aos custos de avaliação, que ocorrem internamente, antes da entrega ao cliente.
-- ❌ **C)** Incorreta. Investimentos em P&D de produtos sustentáveis, quando voltados a evitar problemas futuros de qualidade, poderiam se aproximar mais de custos de prevenção (ou nem se enquadrarem estritamente no modelo PAF), mas não correspondem à definição de custos de avaliação, que envolve medição e verificação.
-- ❌ **D)** Incorreta. Substituição gratuita de produtos sob garantia é um exemplo clássico de custo de falha externa, não de avaliação.
+- ❌ **A)** Incorreta. A comparação direta entre prevenção (30%) e avaliação (16%) não indica, por si só, excesso de investimento em prevenção; o ponto central da literatura é que o montante de falhas (54%) é desproporcionalmente alto em relação à prevenção, sugerindo o oposto da conclusão apresentada.
+- ✅ **B)** Correta. A literatura clássica sobre custos da qualidade (Juran, Feigenbaum) sustenta que, tipicamente, cada unidade monetária investida em prevenção gera reduções mais que proporcionais nos custos de falha, já que a prevenção atua na causa-raiz dos problemas. Com falhas representando 54% do custo total (bem acima dos 30% de prevenção), há um forte indício de que o investimento adicional em prevenção tende a ser economicamente vantajoso.
+- ❌ **C)** Incorreta. Embora os custos de avaliação possam eventualmente ser otimizados, afirmar que representam 'desperdício puro e sem qualquer benefício' é equivocado: a avaliação (inspeção, testes) cumpre papel de detecção que evita que não conformidades cheguem ao cliente, tendo função relevante enquanto a prevenção não elimina totalmente os defeitos.
+- ❌ **D)** Incorreta. Uma distribuição em que mais da metade do custo total da qualidade (54%) decorre de falhas não pode ser considerada 'equilibrada' nem satisfatória; ao contrário, sinaliza oportunidade clara de melhoria por meio de maior investimento em prevenção.
 
-**7. Resposta: C**
+**7. Resposta: A**
 
-- ❌ **A)** Incorreta. O custo de prevenção seria um investimento feito antes da ocorrência do defeito, para evitá-lo (por exemplo, treinamento ou melhoria de processo); nesse caso, o defeito já ocorreu, e o retrabalho é uma consequência dele, não uma medida preventiva.
-- ❌ **B)** Incorreta. A inspeção que detectou o problema é, em si, um custo de avaliação; porém, o retrabalho decorrente da peça defeituosa identificada é classificado separadamente como custo de falha (nesse caso, interna), pois representa o custo de corrigir uma não conformidade já ocorrida.
-- ✅ **C)** Correta. Como o defeito foi identificado antes da entrega ao cliente (durante a inspeção final, ainda dentro da fábrica) e gerou necessidade de retrabalho, trata-se de um custo de falha interna — recursos gastos para corrigir produtos não conformes identificados internamente, como retrabalho, sucata, reinspeção e reprocessamento.
-- ❌ **D)** Incorreta. Custos de falha externa ocorrem após a entrega do produto ao cliente (por exemplo, garantia, devolução, processo judicial, dano à reputação por reclamação pública); como o problema foi detectado antes da expedição, não se caracteriza como falha externa.
+- ✅ **A)** Correta. A ISO 9001:2015 incorporou o pensamento baseado em risco como parte integrante do planejamento e da operação do sistema de gestão da qualidade, exigindo que a organização determine riscos e oportunidades relevantes e planeje ações para tratá-los. Essa abordagem substituiu a cláusula específica de 'ação preventiva' presente em versões anteriores da norma (como a de 2008), incorporando a lógica preventiva de forma transversal.
+- ❌ **B)** Incorreta. O pensamento baseado em risco não significa eliminação de toda atividade arriscada, mas sim identificação, avaliação e tratamento proporcional dos riscos, que podem ser mitigados, monitorados ou aceitos, conforme o contexto organizacional.
+- ❌ **C)** Incorreta. A norma não atribui a gestão de riscos exclusivamente a um departamento jurídico; o pensamento baseado em risco deve permear o sistema de gestão da qualidade como um todo, com envolvimento da liderança e das áreas operacionais pertinentes.
+- ❌ **D)** Incorreta. O pensamento baseado em risco não substitui o processo de auditoria interna, que continua sendo um requisito da norma (cláusula 9.2) para verificar a conformidade e a eficácia do sistema de gestão.
 
 **8. Resposta: A**
 
-- ✅ **A)** Correta. O modelo tradicional (clássico) de custos da qualidade propõe que há um trade-off: investir mais em prevenção e avaliação (custos de conformidade) tende a reduzir os custos de falhas internas e externas (custos de não conformidade) ao longo do tempo. O custo total da qualidade é a soma de todas essas categorias, e a teoria busca um ponto de equilíbrio (nível ótimo de conformidade) que minimize esse custo total, embora modelos mais modernos questionem a existência de um ponto ótimo fixo, defendendo a busca contínua por zero defeitos a custo decrescente.
-- ❌ **B)** Incorreta. Não há uma regra de igualdade entre essas categorias de custo; elas variam conforme a maturidade do sistema de gestão da qualidade de cada organização, podendo ter proporções muito distintas entre prevenção, avaliação e falhas.
-- ❌ **C)** Incorreta. Prevenção e avaliação não são estratégias mutuamente excludentes; pelo contrário, frequentemente se complementam dentro de uma estratégia robusta de gestão da qualidade, e aumentar avaliação não necessariamente reduz prevenção a zero.
-- ❌ **D)** Incorreta. Não há uma regra universal de que falhas externas sejam sempre menores que custos de prevenção; na prática, falhas externas (como recalls, processos judiciais e perda de reputação) podem ser extremamente elevadas, inclusive superando largamente os investimentos em prevenção, especialmente quando o sistema de qualidade é deficiente.
+- ✅ **A)** Correta. Segundo a ISO 9001, 'correção' é a ação para eliminar uma não conformidade detectada (no caso, sucatear o lote), enquanto 'ação corretiva' é a ação para eliminar a causa de uma não conformidade e evitar sua repetição (no caso, investigar a falha de calibração e implementar um novo procedimento de verificação periódica).
+- ❌ **B)** Incorreta. O sucateamento do lote, descrito no enunciado, é que corresponde à correção (tratamento do sintoma imediato); a implementação do novo procedimento é a ação corretiva, por atuar sobre a causa-raiz.
+- ❌ **C)** Incorreta. O cenário descreve uma auditoria interna (primeira parte), não uma auditoria de certificação conduzida por organismo externo independente (terceira parte).
+- ❌ **D)** Incorreta. A cláusula específica de 'ação preventiva', presente na ISO 9001:2008, foi removida na versão de 2015, sendo substituída pelo conceito mais amplo de pensamento baseado em risco; a situação descrita no enunciado, por tratar de uma não conformidade já ocorrida, caracteriza ação corretiva, não ação preventiva.
 
 **9. Resposta: A**
 
-- ✅ **A)** Correta. A abordagem de processo, um dos princípios de gestão da qualidade da ISO 9000, propõe que resultados mais consistentes e previsíveis são alcançados quando as atividades são entendidas e geridas como processos inter-relacionados que funcionam como um sistema coerente, convertendo entradas em saídas de valor, com atenção às interfaces e interações entre esses processos (e não apenas a departamentos isolados).
-- ❌ **B)** Incorreta. É exatamente o oposto do princípio: a abordagem por processo busca romper o isolamento funcional (os chamados 'silos' organizacionais), promovendo integração e comunicação entre áreas para que o sistema como um todo funcione de forma coerente.
-- ❌ **C)** Incorreta. A abordagem por processo considera toda a cadeia de processos relevantes da organização, incluindo processos de apoio (como compras, recursos humanos, manutenção), e não apenas o processo de fabricação final, justamente porque as interações entre todos esses processos afetam o resultado final.
-- ❌ **D)** Incorreta. A abordagem por processo é plenamente compatível e, de fato, frequentemente combinada com o ciclo PDCA na estrutura da ISO 9001, em que cada processo pode ser gerenciado segundo a lógica de planejar, executar, verificar e agir.
+- ✅ **A)** Correta. A ISO 19011 fornece diretrizes para auditoria de sistemas de gestão, incluindo princípios de auditoria, gestão de programas de auditoria e condução de auditorias, sendo aplicável tanto a sistemas de gestão da qualidade quanto a outros sistemas de gestão (como ambiental).
+- ❌ **B)** Incorreta. A ISO 9001 especifica os requisitos certificáveis de um sistema de gestão da qualidade, mas não é o documento que detalha diretrizes de como conduzir auditorias.
+- ❌ **C)** Incorreta. A ISO 9004 fornece diretrizes para que uma organização alcance o sucesso sustentado por meio de uma abordagem de gestão da qualidade mais ampla que a ISO 9001, mas não é a norma específica sobre auditorias.
+- ❌ **D)** Incorreta. A ISO 14001 é a norma de sistemas de gestão ambiental, e não a referência específica para diretrizes de auditoria (ainda que a ISO 19011 também possa ser aplicada a auditorias de sistemas ambientais).
 
 **10. Resposta: A**
 
-- ✅ **A)** Correta. A busca contínua por identificar não conformidades, investigar suas causas-raiz e implementar ações corretivas para eliminar problemas recorrentes é a essência do princípio da melhoria contínua, um dos pilares da ISO 9000/9001 e também um elemento central do TQM, sustentado pela lógica cíclica do PDCA aplicada repetidamente ao longo do tempo.
-- ❌ **B)** Incorreta. A inspeção total no produto final é uma abordagem historicamente anterior (era da Inspeção, segundo Garvin), considerada menos eficiente, pois é reativa e não ataca as causas-raiz dos problemas; o cenário descrito, ao contrário, foca em auditoria de processo e ação corretiva sobre causas, não apenas inspeção do produto acabado.
-- ❌ **C)** Incorreta. Nada no princípio de melhoria contínua exige terceirização compulsória de processos problemáticos; a ação corretiva normalmente busca corrigir e aprimorar o processo internamente, podendo (mas não necessariamente) envolver fornecedores externos apenas quando a causa-raiz estiver relacionada a eles.
-- ❌ **D)** Incorreta. Pelo contrário: um SGQ eficaz e alinhado à melhoria contínua pressupõe auditorias internas periódicas e recorrentes como mecanismo permanente de verificação e aprendizado, e não a eliminação de auditorias futuras após uma única correção.
+- ✅ **A)** Correta. A literatura de custos da qualidade (Juran, Feigenbaum, Crosby) sustenta que a inspeção (avaliação) é uma estratégia de detecção, que não elimina as causas dos defeitos, tendendo a manter custos de falha relativamente altos e recorrentes. Já o investimento em prevenção ataca as causas-raiz, reduzindo a geração de não conformidades e, consequentemente, os custos de falha e, com o tempo, o custo total da qualidade, mesmo que a inspeção extensiva deixe de ser necessária.
+- ❌ **B)** Incorreta. A distribuição entre categorias de custos da qualidade tem efeitos econômicos diferentes ao longo do tempo; não é correto afirmar que o resultado final independe da estratégia adotada, pois a literatura mostra efeitos distintos entre abordagens predominantemente corretivas/detectivas e preventivas.
+- ❌ **C)** Incorreta. A inspeção detecta não conformidades já ocorridas, mas não as elimina na origem; portanto, não é capaz de eliminar completamente os custos de falha, já que novos defeitos continuarão sendo gerados pelo processo sem intervenção nas causas-raiz.
+- ❌ **D)** Incorreta. Embora o investimento inicial em prevenção possa ter custo, a literatura sustenta que, no médio e longo prazo, a redução proporcionalmente maior dos custos de falha tende a mais do que compensar o investimento em prevenção, reduzindo o custo total da qualidade, e não o contrário.

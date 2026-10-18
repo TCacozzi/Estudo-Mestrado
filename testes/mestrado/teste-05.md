@@ -1,148 +1,149 @@
-# Microeconomia Aplicada: Oferta, Demanda e Equilíbrio de Mercado
+# Economia Circular, Inclusão Social e Sustentabilidade Industrial
 
-**Tópico:** Microeconomia Aplicada: Oferta, Demanda e Equilíbrio de Mercado  
-**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+**Tópico:** Economia Circular, Inclusão Social e Sustentabilidade Industrial  
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.
+**Dificuldade:** básico 2 · intermediário 5 · avançado 3
 
 ## Questões
 
-**1.** Segundo a teoria microeconômica apresentada por Pindyck e Rubinfeld, a "lei da demanda" estabelece que, mantidos constantes os demais fatores (ceteris paribus):
+**1.** O conceito de "tripé da sustentabilidade" (triple bottom line) propõe que o desempenho de uma organização ou de uma política pública seja avaliado por três dimensões interligadas. Parte da literatura crítica sobre economia circular (incluindo Piao et al., 2023) aponta que o debate sobre economia circular tradicionalmente enfatizou duas dessas dimensões, relegando a terceira a segundo plano. Quais são as três dimensões do tripé, e qual costuma ser a mais negligenciada nesse debate? _(básico · conceitual · Tripé da sustentabilidade)_
 
-- **A)** Existe uma relação inversa entre o preço de um bem e a quantidade demandada desse bem: quanto maior o preço, menor a quantidade demandada, e vice-versa
-- **B)** Existe uma relação direta entre o preço de um bem e a quantidade demandada: quanto maior o preço, maior a quantidade demandada
-- **C)** A quantidade demandada é sempre fixa, independentemente do preço praticado no mercado
-- **D)** O preço de um bem não tem qualquer relação com a quantidade que os consumidores desejam adquirir
+- **A)** Dimensões econômica, ambiental e social; a dimensão social é frequentemente apontada como a mais negligenciada no debate tradicional sobre economia circular
+- **B)** Dimensões tecnológica, jurídica e política; a dimensão jurídica é a mais negligenciada
+- **C)** Dimensões local, nacional e internacional; a dimensão internacional é a mais negligenciada
+- **D)** Dimensões de curto, médio e longo prazo; a dimensão de longo prazo é a mais negligenciada
 
-**2.** A "lei da oferta", de forma análoga à lei da demanda, mas em sentido oposto, estabelece que, ceteris paribus:
+**2.** Em muitos países em desenvolvimento, parte significativa da coleta e triagem de materiais recicláveis é realizada por trabalhadores informais, conhecidos no Brasil como catadores de materiais recicláveis. No debate sobre economia circular e inclusão social, esses atores são reconhecidos como: _(básico · conceitual · Catadores e inclusão social na reciclagem)_
 
-- **A)** Existe uma relação direta (positiva) entre o preço de um bem e a quantidade ofertada pelos produtores: preços mais altos tendem a incentivar maior quantidade ofertada
-- **B)** Existe uma relação inversa entre o preço de um bem e a quantidade ofertada, de forma idêntica à curva de demanda
-- **C)** A quantidade ofertada independe completamente do preço de mercado, sendo determinada exclusivamente pelo governo
-- **D)** A oferta de qualquer bem é sempre perfeitamente inelástica, não respondendo a variações de preço
+- **A)** Agentes centrais das cadeias de reciclagem, cuja atuação levanta questões relevantes sobre formalização, condições de trabalho e distribuição justa dos benefícios da transição para a economia circular
+- **B)** Atores irrelevantes para a cadeia de reciclagem, uma vez que toda a triagem de materiais é realizada exclusivamente por plantas industriais automatizadas
+- **C)** Profissionais regulamentados exclusivamente por normas técnicas internacionais de engenharia, sem qualquer vínculo com políticas sociais
+- **D)** Uma categoria presente apenas em países desenvolvidos, inexistente em países de renda média ou baixa
 
-**3.** O equilíbrio de mercado, no modelo básico de oferta e demanda, ocorre no ponto em que:
+**3.** Piao et al. (2023), ao discutir a integração entre economia circular e inclusão social, alertam para o risco de que a transição para modelos mais circulares, se mal planejada, pode gerar exclusão de grupos vulneráveis já inseridos em cadeias informais de reaproveitamento de materiais. O conceito que descreve uma transição que busca distribuir de forma equitativa os custos e benefícios dessa mudança, protegendo os trabalhadores afetados, é conhecido como: _(intermediário · conceitual · Transição justa na economia circular)_
 
-- **A)** A quantidade demandada pelos consumidores é igual à quantidade ofertada pelos produtores, determinando simultaneamente o preço de equilíbrio e a quantidade de equilíbrio
-- **B)** O preço é definido unicamente pelo governo, independentemente das curvas de oferta e demanda
-- **C)** A quantidade demandada é sempre maior do que a quantidade ofertada, gerando escassez permanente
-- **D)** A quantidade ofertada é sempre maior do que a quantidade demandada, gerando excesso permanente de produção
+- **A)** Transição justa (just transition)
+- **B)** Obsolescência programada
+- **C)** Downcycling
+- **D)** Efeito rebote (rebound effect)
 
-**4.** A elasticidade-preço da demanda mede a sensibilidade da quantidade demandada a variações no preço de um bem. Um bem é considerado "elástico" quando:
+**4.** Um município decide implantar uma nova central de triagem automatizada de materiais recicláveis, com equipamentos de separação óptica de alta tecnologia, substituindo o trabalho manual previamente realizado por catadores organizados em uma cooperativa local, sem oferecer programas de requalificação profissional, realocação ou compensação financeira para esses trabalhadores. Essa situação ilustra, de forma mais direta, qual tensão discutida na literatura sobre economia circular e inclusão social? _(intermediário · aplicação · Tensões entre automação e inclusão social)_
 
-- **A)** Uma pequena variação percentual no preço provoca uma variação percentual proporcionalmente maior na quantidade demandada (elasticidade em módulo maior que 1)
-- **B)** A quantidade demandada não se altera em nenhuma hipótese, independentemente da variação de preço (elasticidade igual a zero)
-- **C)** A variação percentual na quantidade demandada é sempre exatamente igual à variação percentual no preço (elasticidade igual a 1 em todos os casos)
-- **D)** O preço do bem não tem qualquer relação com sua elasticidade, que depende apenas da cor da embalagem do produto
+- **A)** A tensão entre ganhos de eficiência técnica e ambiental da automação e o risco de exclusão socioeconômica de grupos vulneráveis já inseridos em cadeias informais ou cooperativadas de reaproveitamento de materiais
+- **B)** A tensão entre ciclos biológicos e ciclos técnicos de materiais, conforme descrito no diagrama borboleta da Ellen MacArthur Foundation
+- **C)** A tensão entre os índices de capacidade estatística Cp e Cpk de um processo produtivo
+- **D)** A tensão entre os princípios de gestão da qualidade da ISO 9001 e os requisitos de auditoria da ISO 19011
 
-**5.** A elasticidade-renda da demanda mede como a quantidade demandada de um bem responde a variações na renda do consumidor. Um bem é classificado como "inferior" quando:
+**5.** Comparando duas estratégias de gestão de resíduos recicláveis — (i) a formalização e o fortalecimento de cooperativas de catadores, com reconhecimento legal e remuneração pelos serviços ambientais prestados, e (ii) a substituição integral do trabalho desses catadores por sistemas automatizados sem qualquer política de transição —, qual afirmação melhor reflete a perspectiva da literatura sobre economia circular inclusiva? _(intermediário · analítica · Cooperativas de catadores como estratégia de inclusão)_
 
-- **A)** A quantidade demandada desse bem aumenta quando a renda do consumidor diminui e diminui quando a renda aumenta, ou seja, apresenta elasticidade-renda negativa
-- **B)** A quantidade demandada desse bem aumenta sempre que a renda do consumidor aumenta, caracterizando elasticidade-renda positiva
-- **C)** O bem é necessariamente de baixa qualidade física ou tecnicamente defeituoso
-- **D)** A elasticidade-renda não pode, em hipótese alguma, ser calculada para bens de consumo básico
+- **A)** A formalização e o fortalecimento de cooperativas tendem a ser mais compatíveis com uma economia circular inclusiva, pois combinam ganhos ambientais (aumento da reciclagem) com geração de renda e reconhecimento social para populações vulneráveis
+- **B)** A substituição integral por automação, sem qualquer política de transição, é sempre superior do ponto de vista da sustentabilidade, pois a dimensão social é irrelevante para a avaliação de políticas de resíduos sólidos
+- **C)** Ambas as estratégias produzem exatamente os mesmos resultados sociais, sendo a escolha entre elas uma questão puramente técnica de custo operacional
+- **D)** Cooperativas de catadores são incompatíveis, por definição, com qualquer ganho de eficiência ambiental, sendo preferível extingui-las independentemente do contexto
 
-**6.** O excedente do consumidor é um conceito central na análise de bem-estar em microeconomia. Ele é definido como:
+**6.** Um município gerou 10.000 toneladas de resíduos sólidos urbanos em um ano, das quais 2.500 toneladas foram efetivamente recicladas (materiais recuperados e reinseridos em cadeias produtivas). Qual é a taxa de reciclagem (recovery rate) desse município nesse ano? _(intermediário · quantitativa · Indicador de taxa de reciclagem)_
 
-- **A)** A diferença entre o valor total que os consumidores estariam dispostos a pagar por uma quantidade de um bem e o valor total que efetivamente pagam ao preço de mercado, representado graficamente pela área abaixo da curva de demanda e acima do preço de mercado
-- **B)** O lucro contábil total obtido pelas empresas vendedoras de um determinado bem
-- **C)** O valor total arrecadado pelo governo por meio de impostos sobre o consumo desse bem
-- **D)** A diferença entre o preço de equilíbrio em dois países distintos para o mesmo produto
+- **A)** 25,0%
+- **B)** 2,5%
+- **C)** 40,0%
+- **D)** 75,0%
 
-**7.** De forma análoga e complementar ao excedente do consumidor, o excedente do produtor é definido como:
+**7.** Em um programa municipal de inclusão social vinculado à reciclagem, estima-se que, para cada aumento de 10 pontos percentuais na taxa de reciclagem do município, seja possível incluir formalmente 50 novos catadores em cooperativas, devido ao aumento da demanda por triagem manual de materiais. Partindo de uma taxa de reciclagem inicial de 25% (conforme a questão anterior), quantos catadores adicionais poderiam ser potencialmente incluídos caso a taxa de reciclagem do município subisse para 45%? _(intermediário · quantitativa · Reciclagem e inclusão de catadores — indicador combinado)_
 
-- **A)** A diferença entre o valor total que os produtores efetivamente recebem pela venda de um bem (ao preço de mercado) e o custo mínimo que estariam dispostos a aceitar para fornecê-lo, representado graficamente pela área acima da curva de oferta e abaixo do preço de mercado
-- **B)** A quantidade total de bens produzidos por uma empresa em determinado período, independentemente do preço praticado
-- **C)** O valor total investido em propaganda e marketing pelas empresas de um setor
-- **D)** A diferença entre o preço máximo que o consumidor pagaria e o preço mínimo exigido pelo governo
+- **A)** 100 catadores
+- **B)** 50 catadores
+- **C)** 150 catadores
+- **D)** 20 catadores
 
-**8.** É importante distinguir, na análise de oferta e demanda, entre "movimento ao longo da curva" e "deslocamento da curva". Qual afirmação descreve corretamente essa distinção para a curva de demanda?
+**8.** Parte da literatura crítica sobre economia circular e inclusão social (como discutido por Piao et al., 2023) argumenta que muitos modelos e métricas de economia circular foram originalmente desenvolvidos a partir de contextos de países desenvolvidos (Global Norte), com infraestrutura formal de gestão de resíduos consolidada. Qual é a principal implicação crítica apontada para a aplicação direta desses modelos em países em desenvolvimento? _(avançado · analítica · Viés Global Norte na literatura de economia circular)_
 
-- **A)** Uma mudança no preço do próprio bem provoca um movimento ao longo da curva de demanda (mudança na quantidade demandada), enquanto mudanças em outros fatores, como renda, preços de bens relacionados ou preferências dos consumidores, provocam um deslocamento de toda a curva de demanda (mudança na demanda)
-- **B)** Qualquer mudança, seja no preço do bem, seja na renda do consumidor, provoca sempre um deslocamento da curva de demanda, nunca um movimento ao longo dela
-- **C)** O deslocamento da curva de demanda ocorre exclusivamente quando o preço do próprio bem se altera, nunca por outros fatores
-- **D)** Movimento ao longo da curva e deslocamento da curva são termos equivalentes, sem qualquer diferença conceitual entre eles
+- **A)** Esses modelos podem subestimar ou ignorar o papel do setor informal (como catadores e cooperativas) nas cadeias de reciclagem de países em desenvolvimento, correndo o risco de propor soluções tecnicamente eficientes, mas socialmente excludentes, se aplicados sem adaptação ao contexto local
+- **B)** Esses modelos são perfeitamente aplicáveis sem qualquer adaptação, pois as condições econômicas e sociais são idênticas em todos os países, independentemente do nível de desenvolvimento
+- **C)** A crítica afirma que países em desenvolvimento não possuem qualquer cadeia de reciclagem, formal ou informal, tornando o debate sobre economia circular irrelevante nesses contextos
+- **D)** A crítica refere-se exclusivamente a diferenças climáticas entre hemisférios, sem qualquer relação com infraestrutura ou organização social da gestão de resíduos
 
-**9.** Em um mercado perfeitamente competitivo, no ponto de equilíbrio entre oferta e demanda, a teoria microeconômica tradicional associa esse ponto a um resultado de eficiência alocativa. Isso ocorre porque:
+**9.** A integração entre sustentabilidade industrial e economia circular é frequentemente ilustrada pelo conceito de simbiose industrial, no qual resíduos ou subprodutos de uma indústria se tornam insumos para outra, dentro de um parque industrial ou região geográfica. Esse conceito está mais diretamente associado a qual corrente teórica precursora da economia circular? _(avançado · conceitual · Simbiose industrial e sustentabilidade)_
 
-- **A)** O equilíbrio competitivo maximiza o excedente total (soma do excedente do consumidor com o excedente do produtor), de modo que qualquer desvio desse ponto (por exemplo, por meio de controles de preço) tende a reduzir o bem-estar agregado do mercado, gerando perda de peso morto
-- **B)** O equilíbrio de mercado sempre beneficia exclusivamente os produtores, em prejuízo total dos consumidores
-- **C)** A eficiência alocativa só pode ser alcançada por meio de monopólios regulados pelo Estado, nunca em mercados competitivos
-- **D)** O conceito de eficiência alocativa não possui qualquer relação com os excedentes do consumidor e do produtor
+- **A)** Ecologia Industrial, que propõe analisar sistemas produtivos à semelhança de ecossistemas naturais, com fluxos de materiais e energia entre diferentes organizações
+- **B)** Administração científica clássica (Taylorismo), focada na padronização de tempos e movimentos no chão de fábrica
+- **C)** Controle Estatístico de Processo (CEP), baseado na análise estatística da variação de processos produtivos
+- **D)** Normas da série ISO 9000, voltadas exclusivamente à certificação de sistemas de gestão da qualidade
 
-**10.** A elasticidade cruzada da demanda mede como a quantidade demandada de um bem responde a variações no preço de outro bem. Considerando dois bens substitutos (como manteiga e margarina), espera-se que a elasticidade cruzada da demanda entre eles seja:
+**10.** Com base na crítica de autores como Piao et al. (2023), qual afirmação melhor sintetiza o argumento de que a economia circular, para ser efetivamente sustentável, não pode se limitar a ganhos ambientais e econômicos? _(avançado · analítica · Economia circular socialmente inclusiva)_
 
-- **A)** Positiva, pois um aumento no preço de um dos bens (por exemplo, manteiga) tende a aumentar a quantidade demandada do outro bem (margarina), já que os consumidores substituem o bem que ficou relativamente mais caro
-- **B)** Negativa, pois bens substitutos sempre apresentam relação inversa entre o preço de um e a quantidade demandada do outro
-- **C)** Sempre igual a zero, pois bens substitutos nunca apresentam qualquer relação de demanda entre si
-- **D)** Indefinida matematicamente para qualquer par de bens substitutos, impossibilitando seu cálculo
+- **A)** Uma economia circular plenamente sustentável deve incorporar explicitamente objetivos de equidade e inclusão social — como condições dignas de trabalho, formalização e distribuição justa de benefícios — sob risco de reproduzir ou aprofundar desigualdades existentes, mesmo alcançando bons indicadores ambientais e econômicos
+- **B)** A dimensão social pode ser completamente ignorada na avaliação da economia circular, bastando o monitoramento de indicadores de redução de resíduos e de custos operacionais
+- **C)** Ganhos ambientais e econômicos elevados são, por si só, prova suficiente de que uma iniciativa de economia circular é socialmente justa, independentemente de seus efeitos sobre trabalhadores vulneráveis
+- **D)** A inclusão social é um objetivo incompatível com a economia circular, de modo que políticas de resíduos sólidos devem escolher entre sustentabilidade ambiental ou inclusão social, nunca ambas simultaneamente
 
 ## Gabarito e explicações
 
 **1. Resposta: A**
 
-- ✅ **A)** Correta. A lei da demanda estabelece que, mantendo-se constantes os demais fatores que influenciam o consumo (renda, preços de bens relacionados, preferências etc.), existe uma relação inversa entre o preço de um bem e a quantidade demandada: à medida que o preço sobe, a quantidade demandada tende a cair, e à medida que o preço cai, a quantidade demandada tende a aumentar, originando a inclinação negativa típica da curva de demanda.
-- ❌ **B)** Incorreta. Essa descrição representa uma relação direta (positiva), que é característica típica da curva de OFERTA, não da curva de demanda, que, pela lei da demanda, apresenta relação inversa com o preço.
-- ❌ **C)** Incorreta. A quantidade demandada não é fixa; ela varia sistematicamente conforme o preço se altera (movimento ao longo da curva de demanda), além de poder se alterar por mudanças em outros fatores (deslocamento da curva).
-- ❌ **D)** Incorreta. A lei da demanda afirma justamente o contrário: existe uma relação sistemática (inversa) entre preço e quantidade demandada, sendo essa uma das relações mais fundamentais da microeconomia.
+- ✅ **A)** Correta. O tripé da sustentabilidade (triple bottom line) é composto pelas dimensões econômica, ambiental e social. Parte da literatura crítica, incluindo Piao et al. (2023), aponta que o discurso e as métricas dominantes de economia circular historicamente priorizaram os ganhos econômicos (redução de custos, novos modelos de negócio) e ambientais (redução de resíduos e de extração de recursos), deixando a dimensão social — incluindo equidade, inclusão e condições de trabalho — relativamente negligenciada.
+- ❌ **B)** Incorreta. Essas não são as três dimensões clássicas do tripé da sustentabilidade; tecnologia, direito e política podem ser fatores relevantes, mas não compõem a estrutura conceitual do triple bottom line.
+- ❌ **C)** Incorreta. O tripé da sustentabilidade não se refere a escalas geográficas (local, nacional, internacional), mas sim a dimensões de desempenho (econômica, ambiental e social).
+- ❌ **D)** Incorreta. O tripé da sustentabilidade não se refere a horizontes temporais de planejamento, mas sim às três dimensões de impacto (econômica, ambiental e social).
 
 **2. Resposta: A**
 
-- ✅ **A)** Correta. A lei da oferta estabelece que, mantidos constantes os demais fatores (custos de produção, tecnologia, preços de insumos etc.), existe uma relação direta (positiva) entre o preço de um bem e a quantidade que os produtores estão dispostos a ofertar: preços mais altos tornam a produção mais atrativa (maior margem/incentivo), levando a uma maior quantidade ofertada, o que confere à curva de oferta sua inclinação positiva típica.
-- ❌ **B)** Incorreta. Essa é a relação característica da curva de demanda (inversa), não da curva de oferta, que apresenta relação direta (positiva) com o preço segundo a lei da oferta.
-- ❌ **C)** Incorreta. Embora o governo possa influenciar a oferta por meio de políticas (impostos, subsídios, regulação), a quantidade ofertada não é determinada exclusivamente por ele; ela resulta primariamente das decisões dos produtores em resposta a preços e custos de mercado.
-- ❌ **D)** Incorreta. Afirmar que a oferta é sempre perfeitamente inelástica generaliza indevidamente um caso específico (elasticidade-preço da oferta igual a zero); na prática, a elasticidade da oferta varia conforme o bem, o prazo considerado e as condições de produção, não sendo uma regra universal.
+- ✅ **A)** Correta. Catadores de materiais recicláveis desempenham papel central nas cadeias de reciclagem em diversos países em desenvolvimento, sendo frequentemente responsáveis por grande parte da coleta e triagem de resíduos. A literatura sobre economia circular e inclusão social (como Piao et al., 2023) discute explicitamente os desafios relacionados à formalização desses trabalhadores, às condições de trabalho e à distribuição justa dos benefícios econômicos e ambientais gerados pela transição circular.
+- ❌ **B)** Incorreta. Em muitos contextos, especialmente em países em desenvolvimento, a automação da triagem ainda é limitada, e a atuação de catadores informais ou organizados em cooperativas é fundamental para o funcionamento das cadeias de reciclagem.
+- ❌ **C)** Incorreta. A atuação de catadores está historicamente ligada a dinâmicas informais de subsistência e, mais recentemente, a políticas públicas de inclusão social e de resíduos sólidos, e não a normas técnicas internacionais de engenharia.
+- ❌ **D)** Incorreta. A presença de catadores de materiais recicláveis é documentada predominantemente em países em desenvolvimento (como Brasil, Índia e diversos países da América Latina, África e Ásia), não em países desenvolvidos, onde a coleta tende a ser mais formalizada e mecanizada.
 
 **3. Resposta: A**
 
-- ✅ **A)** Correta. O equilíbrio de mercado corresponde ao ponto de interseção entre as curvas de oferta e demanda, no qual a quantidade que os consumidores desejam comprar a determinado preço é exatamente igual à quantidade que os produtores desejam vender a esse mesmo preço, determinando simultaneamente o preço de equilíbrio e a quantidade de equilíbrio transacionada no mercado.
-- ❌ **B)** Incorreta. Em um mercado competitivo, o preço de equilíbrio emerge da interação entre oferta e demanda, não sendo definido unilateralmente pelo governo (embora o governo possa intervir por meio de tetos, pisos de preço ou impostos, alterando o resultado de mercado, o que é tratado como um desvio do equilíbrio competitivo, não a regra geral).
-- ❌ **C)** Incorreta. Uma situação em que a quantidade demandada excede permanentemente a quantidade ofertada caracteriza um desequilíbrio de escassez (geralmente temporário, associado a preços abaixo do equilíbrio), e não a definição de equilíbrio de mercado, que pressupõe igualdade entre oferta e demanda.
-- ❌ **D)** Incorreta. Da mesma forma, uma situação de excesso permanente de oferta sobre demanda caracteriza um desequilíbrio (excedente de mercado, geralmente associado a preços acima do equilíbrio), e não o próprio equilíbrio, que pressupõe igualdade entre as quantidades ofertada e demandada.
+- ✅ **A)** Correta. O conceito de transição justa (just transition), originalmente desenvolvido no contexto da transição energética, tem sido incorporado ao debate sobre economia circular para destacar a necessidade de que mudanças estruturais nos sistemas produtivos e de gestão de resíduos considerem explicitamente os impactos sobre trabalhadores vulneráveis (como catadores informais), buscando distribuir de forma mais equitativa os custos e benefícios da transição.
+- ❌ **B)** Incorreta. Obsolescência programada refere-se à prática de projetar produtos com vida útil artificialmente reduzida para estimular novas compras, conceito associado à economia linear, sem relação direta com a equidade na transição para modelos circulares.
+- ❌ **C)** Incorreta. Downcycling refere-se à reciclagem de um material em um produto de qualidade ou valor inferior ao original, um conceito técnico sobre perda de valor de materiais, não sobre equidade social na transição econômica.
+- ❌ **D)** Incorreta. O efeito rebote refere-se ao fenômeno em que ganhos de eficiência são compensados por aumento no consumo, sendo um conceito distinto, relacionado a padrões de consumo e não diretamente à proteção de trabalhadores vulneráveis.
 
 **4. Resposta: A**
 
-- ✅ **A)** Correta. Diz-se que a demanda de um bem é elástica quando o valor absoluto da elasticidade-preço da demanda é maior que 1, ou seja, uma variação percentual no preço gera uma variação percentual ainda maior na quantidade demandada. Isso é comum em bens com muitos substitutos próximos ou considerados não essenciais, nos quais os consumidores reagem fortemente a mudanças de preço.
-- ❌ **B)** Incorreta. Essa descrição corresponde ao caso de demanda perfeitamente inelástica (elasticidade igual a zero), em que a quantidade demandada não responde a variações de preço, o que é o oposto do conceito de elasticidade (sensibilidade) descrito no enunciado.
-- ❌ **C)** Incorreta. Essa descrição corresponde ao caso específico de elasticidade unitária (elasticidade igual a 1 em módulo), em que a variação percentual da quantidade é exatamente igual, em módulo, à variação percentual do preço; não é a definição geral de elasticidade, nem corresponde ao caso 'elástico' (que exige elasticidade maior que 1 em módulo).
-- ❌ **D)** Incorreta. A elasticidade-preço da demanda depende de fatores econômicos reais, como disponibilidade de substitutos, essencialidade do bem, parcela do orçamento do consumidor gasta com o bem e horizonte de tempo considerado, não de características irrelevantes como a cor da embalagem.
+- ✅ **A)** Correta. O cenário descreve exatamente a tensão central apontada por autores como Piao et al. (2023): a automação de processos de reciclagem pode gerar ganhos de eficiência técnica e ambiental, mas, se implementada sem políticas de transição justa (requalificação, realocação, compensação), tende a excluir trabalhadores vulneráveis previamente inseridos nessas cadeias, aprofundando desigualdades sociais em nome de uma 'circularidade' tecnicamente mais eficiente.
+- ❌ **B)** Incorreta. A distinção entre ciclos biológicos e técnicos refere-se a tipos de fluxo de materiais no modelo conceitual da economia circular, sem relação direta com a questão de substituição de trabalhadores por automação descrita no enunciado.
+- ❌ **C)** Incorreta. Os índices Cp e Cpk são ferramentas de controle estatístico de processo, utilizadas para avaliar a capacidade de processos produtivos atenderem especificações técnicas, sem relação com a tensão social descrita no cenário.
+- ❌ **D)** Incorreta. As normas ISO 9001 e ISO 19011 tratam de sistemas de gestão da qualidade e diretrizes de auditoria, respectivamente, não sendo o foco temático da situação descrita, que trata de inclusão social na transição para a economia circular.
 
 **5. Resposta: A**
 
-- ✅ **A)** Correta. Um bem é classificado como 'inferior' quando apresenta elasticidade-renda da demanda negativa, ou seja, a quantidade demandada desse bem aumenta quando a renda do consumidor diminui, e diminui quando a renda aumenta (por exemplo, o consumidor substitui um bem inferior por uma alternativa de maior qualidade/preço quando sua renda cresce). O termo 'inferior' é técnico e econômico, não necessariamente relacionado à qualidade intrínseca do produto.
-- ❌ **B)** Incorreta. Essa descrição corresponde à definição de bem 'normal' (elasticidade-renda positiva), e não de bem 'inferior', que é justamente o caso em que a relação entre renda e quantidade demandada é negativa.
-- ❌ **C)** Incorreta. 'Bem inferior' é um conceito técnico de microeconomia relacionado à forma como a demanda responde a variações de renda, não um julgamento sobre a qualidade física, tecnológica ou de fabricação do produto; um bem pode ser tecnicamente bem fabricado e, ainda assim, ser classificado como inferior do ponto de vista econômico.
-- ❌ **D)** Incorreta. A elasticidade-renda pode, sim, ser calculada para qualquer tipo de bem, incluindo bens de consumo básico, que inclusive podem apresentar elasticidade-renda baixa (próxima de zero) ou, em certos casos, características de bem inferior, dependendo do contexto e do perfil de consumo.
+- ✅ **A)** Correta. A literatura sobre economia circular inclusiva (como discutido por Piao et al., 2023) tende a apontar a formalização e o fortalecimento de cooperativas de catadores — com reconhecimento legal, remuneração e condições adequadas de trabalho — como uma estratégia capaz de conciliar os objetivos ambientais da economia circular (aumento das taxas de reciclagem) com objetivos sociais (geração de renda, inclusão e reconhecimento de populações vulneráveis), sendo mais alinhada ao conceito de transição justa.
+- ❌ **B)** Incorreta. A dimensão social é explicitamente discutida como relevante por essa literatura; descartá-la como 'irrelevante' contraria diretamente a perspectiva de uma economia circular inclusiva e socialmente responsável.
+- ❌ **C)** Incorreta. As duas estratégias tendem a produzir resultados sociais distintos: a primeira favorece inclusão e geração de renda para grupos vulneráveis, enquanto a segunda, sem política de transição, tende a gerar exclusão socioeconômica; a escolha não é meramente uma questão de custo operacional.
+- ❌ **D)** Incorreta. Não há incompatibilidade inerente entre cooperativas de catadores e ganhos de eficiência ambiental; pelo contrário, cooperativas bem estruturadas podem alcançar elevadas taxas de recuperação de materiais, associando eficiência ambiental a benefícios sociais.
 
 **6. Resposta: A**
 
-- ✅ **A)** Correta. O excedente do consumidor representa o ganho de bem-estar dos consumidores ao adquirirem um bem por um preço (de mercado) inferior ao valor máximo que estariam dispostos a pagar por ele, somado ao longo de todas as unidades consumidas. Graficamente, corresponde à área do gráfico de oferta e demanda situada abaixo da curva de demanda e acima da linha do preço de equilíbrio (ou do preço efetivamente pago).
-- ❌ **B)** Incorreta. O lucro contábil das empresas é um conceito relacionado ao excedente do produtor e aos custos de produção, mas não se confunde com o excedente do consumidor, que mede o ganho de bem-estar dos compradores, não dos vendedores.
-- ❌ **C)** Incorreta. A arrecadação de impostos é um conceito fiscal distinto, que pode, em certos modelos, ser representado como uma área adicional no gráfico de oferta e demanda (relacionada à incidência tributária), mas não é, por definição, o excedente do consumidor.
-- ❌ **D)** Incorreta. Comparações de preços de equilíbrio entre diferentes países referem-se a análises de comércio internacional ou paridade de preços, não à definição microeconômica de excedente do consumidor dentro de um único mercado.
+- ✅ **A)** Correta. A taxa de reciclagem é calculada pela razão entre a quantidade de resíduos efetivamente reciclados e a quantidade total de resíduos gerados: 2.500/10.000 = 0,25, ou seja, 25,0%.
+- ❌ **B)** Incorreta. 2,5% resulta de um erro de posicionamento de casas decimais no cálculo da razão (2.500/10.000 tratado incorretamente como 0,025 em vez de 0,25).
+- ❌ **C)** Incorreta. 40,0% resultaria de uma inversão da razão (10.000/2.500 = 4), o que não representa a taxa de reciclagem, mas sim quantas vezes o total gerado é maior que o reciclado.
+- ❌ **D)** Incorreta. 75,0% corresponde ao percentual de resíduos não reciclados ((10.000 − 2.500)/10.000 = 0,75), ou seja, o complemento da taxa de reciclagem, não a taxa de reciclagem propriamente dita.
 
 **7. Resposta: A**
 
-- ✅ **A)** Correta. O excedente do produtor representa o ganho de bem-estar dos produtores/vendedores ao receberem, pela venda de um bem, um preço de mercado superior ao custo mínimo (ou preço mínimo) que estariam dispostos a aceitar para fornecê-lo, somado ao longo de todas as unidades vendidas. Graficamente, corresponde à área situada acima da curva de oferta e abaixo da linha do preço de equilíbrio (ou do preço efetivamente recebido).
-- ❌ **B)** Incorreta. A quantidade total produzida é uma medida física de produção (volume), e não um conceito de bem-estar econômico associado a preços e custos de oportunidade, como é o excedente do produtor.
-- ❌ **C)** Incorreta. Gastos com propaganda e marketing são custos operacionais das empresas, e não a definição de excedente do produtor, que trata da diferença entre receita obtida e custo mínimo de fornecimento.
-- ❌ **D)** Incorreta. Essa descrição mistura, de forma incorreta, o conceito de disposição a pagar do consumidor com uma suposta intervenção governamental de preço mínimo, o que não corresponde à definição padrão de excedente do produtor em um mercado competitivo.
+- ✅ **A)** Correta. O aumento na taxa de reciclagem foi de 45% − 25% = 20 pontos percentuais, o que corresponde a duas vezes o incremento de referência de 10 pontos percentuais. Como cada incremento de 10 pontos percentuais permite incluir 50 catadores, o total é 2 × 50 = 100 catadores adicionais.
+- ❌ **B)** Incorreta. 50 catadores corresponderia a considerar apenas um único incremento de 10 pontos percentuais, desconsiderando que o aumento total foi de 20 pontos percentuais (dois incrementos).
+- ❌ **C)** Incorreta. 150 catadores corresponderia a considerar três incrementos de 10 pontos percentuais (equivalente a um aumento de 30 pontos percentuais), o que não corresponde à variação real de 20 pontos percentuais descrita no enunciado.
+- ❌ **D)** Incorreta. 20 catadores confunde o número de pontos percentuais de aumento (20 p.p.) com o número de catadores incluídos, sem aplicar a proporção de 50 catadores a cada 10 pontos percentuais estabelecida no enunciado.
 
 **8. Resposta: A**
 
-- ✅ **A)** Correta. Essa é uma distinção fundamental na microeconomia: quando o preço do próprio bem varia, observa-se um movimento ao longo da curva de demanda existente (mudança na quantidade demandada, mantendo-se a mesma função de demanda). Já quando fatores diferentes do preço do bem se alteram — como renda do consumidor, preços de bens substitutos ou complementares, preferências, expectativas ou número de compradores — a curva de demanda inteira se desloca para a direita (aumento da demanda) ou para a esquerda (redução da demanda), representando uma mudança na própria função de demanda.
-- ❌ **B)** Incorreta. Essa afirmação ignora a distinção central do modelo: variações no preço do próprio bem geram movimento ao longo da curva (não deslocamento), enquanto variações em outros fatores geram deslocamento da curva.
-- ❌ **C)** Incorreta. É exatamente o oposto: o deslocamento da curva de demanda ocorre justamente devido a fatores diferentes do preço do próprio bem (como renda, preços relacionados, preferências); mudanças no preço do próprio bem geram movimento ao longo da curva existente, não deslocamento dela.
-- ❌ **D)** Incorreta. Os dois conceitos são distintos e não podem ser usados como sinônimos: movimento ao longo da curva refere-se a mudanças de preço do próprio bem (mesma curva), enquanto deslocamento da curva refere-se a mudanças em outros determinantes da demanda (nova curva).
+- ✅ **A)** Correta. A crítica central é que modelos de economia circular desenvolvidos a partir de realidades do Global Norte frequentemente pressupõem infraestrutura formal consolidada de coleta e reciclagem, podendo não capturar adequadamente a relevância do setor informal (catadores, cooperativas) em países em desenvolvimento. A aplicação acrítica desses modelos pode gerar soluções tecnicamente eficientes (como automação) que, socialmente, excluem populações vulneráveis que já desempenhavam esse papel, reforçando desigualdades em vez de promover inclusão.
+- ❌ **B)** Incorreta. A literatura justamente contesta essa ideia de aplicabilidade universal sem adaptação, destacando diferenças estruturais significativas entre contextos institucionais, econômicos e sociais de diferentes países.
+- ❌ **C)** Incorreta. Essa afirmação é factualmente incorreta: países em desenvolvimento frequentemente possuem cadeias de reciclagem robustas, ainda que predominantemente informais, estruturadas em torno do trabalho de catadores, e não a ausência de qualquer cadeia de reciclagem.
+- ❌ **D)** Incorreta. A crítica discutida na literatura refere-se a diferenças de infraestrutura, formalização e organização social da gestão de resíduos, e não a fatores climáticos entre hemisférios.
 
 **9. Resposta: A**
 
-- ✅ **A)** Correta. Um dos resultados centrais da teoria microeconômica de mercados competitivos é que o equilíbrio entre oferta e demanda maximiza o excedente total do mercado (soma dos excedentes do consumidor e do produtor). Intervenções que afastam o mercado desse ponto de equilíbrio (como tetos ou pisos de preço) tendem a reduzir o excedente total, gerando uma perda de eficiência conhecida como peso morto (deadweight loss), evidenciando por que o equilíbrio competitivo é associado à eficiência alocativa.
-- ❌ **B)** Incorreta. O equilíbrio de mercado, no modelo competitivo, beneficia tanto consumidores quanto produtores simultaneamente, por meio dos excedentes do consumidor e do produtor; não se trata de um benefício exclusivo e excludente a apenas um dos lados do mercado.
-- ❌ **C)** Incorreta. É o oposto do que a teoria afirma: mercados competitivos (não monopolizados) são justamente o cenário de referência associado à eficiência alocativa; monopólios, em geral, tendem a reduzir o excedente total em comparação ao equilíbrio competitivo, gerando ineficiência (perda de peso morto) ao restringir quantidade e elevar preços.
-- ❌ **D)** Incorreta. O conceito de eficiência alocativa está diretamente relacionado aos excedentes do consumidor e do produtor, já que a eficiência é avaliada justamente pela maximização da soma desses dois excedentes (excedente total) no ponto de equilíbrio.
+- ✅ **A)** Correta. A simbiose industrial é um dos exemplos mais emblemáticos da Ecologia Industrial, corrente teórica que propõe analisar sistemas produtivos de forma análoga a ecossistemas naturais, nos quais resíduos e subprodutos de um processo (ou organização) tornam-se insumos de outro, reduzindo a extração de recursos virgens e a geração de resíduos em uma região ou parque industrial — sendo, segundo Homrich et al. (2018), uma das correntes reunidas sob o guarda-chuva da economia circular.
+- ❌ **B)** Incorreta. A administração científica (Taylorismo) trata da padronização de tarefas e tempos de trabalho, sem qualquer relação conceitual com o fechamento de ciclos de materiais entre organizações.
+- ❌ **C)** Incorreta. O CEP é uma ferramenta estatística de controle de variabilidade de processos produtivos, sem relação direta com o conceito de troca de resíduos e subprodutos entre indústrias.
+- ❌ **D)** Incorreta. As normas ISO 9000 tratam de sistemas de gestão da qualidade, não sendo a referência teórica associada ao conceito de simbiose industrial, que deriva da Ecologia Industrial.
 
 **10. Resposta: A**
 
-- ✅ **A)** Correta. Para bens substitutos, a elasticidade cruzada da demanda é positiva: quando o preço de um bem (por exemplo, manteiga) aumenta, os consumidores tendem a substituí-lo por um bem similar (margarina), aumentando a quantidade demandada desse segundo bem. Esse sinal positivo é justamente o critério utilizado para classificar dois bens como substitutos na teoria microeconômica.
-- ❌ **B)** Incorreta. Uma elasticidade cruzada negativa é, na verdade, a característica de bens complementares (como carros e combustível), em que o aumento do preço de um bem reduz a quantidade demandada do outro, e não de bens substitutos, que apresentam elasticidade cruzada positiva.
-- ❌ **C)** Incorreta. Bens substitutos, por definição, apresentam uma relação de demanda identificável entre si (elasticidade cruzada positiva, diferente de zero); uma elasticidade cruzada igual a zero indicaria que os bens são independentes entre si, sem relação de substituição ou complementaridade.
-- ❌ **D)** Incorreta. A elasticidade cruzada da demanda é perfeitamente calculável matematicamente para qualquer par de bens, a partir da variação percentual na quantidade demandada de um bem dividida pela variação percentual no preço do outro bem; não há qualquer impossibilidade de cálculo para bens substitutos.
+- ✅ **A)** Correta. A crítica central de autores como Piao et al. (2023) é que indicadores puramente ambientais e econômicos são insuficientes para garantir que a transição para a economia circular seja verdadeiramente sustentável em sentido amplo; sem a incorporação explícita de objetivos de equidade e inclusão social, iniciativas de economia circular podem alcançar bons resultados ambientais e econômicos enquanto reproduzem ou agravam desigualdades sociais, especialmente para populações vulneráveis como catadores informais.
+- ❌ **B)** Incorreta. Essa é exatamente a posição criticada pela literatura: ignorar a dimensão social, focando apenas em indicadores ambientais e de custo, é apontado como uma limitação relevante dos modelos tradicionais de economia circular.
+- ❌ **C)** Incorreta. Bons indicadores ambientais e econômicos não garantem, por si só, justiça social; é possível (e historicamente documentado) que iniciativas tecnicamente eficientes gerem exclusão de trabalhadores vulneráveis, como discutido na crítica sobre automação sem transição justa.
+- ❌ **D)** Incorreta. A literatura não trata sustentabilidade ambiental e inclusão social como objetivos mutuamente excludentes; pelo contrário, defende que ambas podem e devem ser perseguidas conjuntamente, como ilustrado por estratégias de formalização de cooperativas de catadores que combinam ganhos ambientais e sociais.

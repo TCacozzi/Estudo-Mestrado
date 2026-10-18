@@ -1,148 +1,149 @@
-# Sustentabilidade Industrial e Economia Circular Aplicada
+# Administração da Produção: Gestão de Estoques, Planejamento e Melhoria
 
-**Tópico:** Sustentabilidade Industrial e Economia Circular Aplicada (integração entre operações, sustentabilidade e modelos de negócio circulares; barreiras e drivers para a economia circular na indústria)  
-**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+**Tópico:** Administração da Produção: Gestão de Estoques, Planejamento e Melhoria  
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.
+**Dificuldade:** básico 2 · intermediário 5 · avançado 3
 
 ## Questões
 
-**1.** Homrich et al. (2018), ao analisarem a trajetória conceitual da economia circular, destacam que o conceito busca superar o modelo linear de produção e consumo ('extrair-produzir-descartar'). A economia circular propõe, em sua essência:
+**1.** O modelo do Lote Econômico de Compra (EOQ) pressupõe, entre outras hipóteses simplificadoras, que: _(básico · conceitual · Hipóteses do modelo do Lote Econômico de Compra (EOQ))_
 
-- **A)** Apenas o aumento da taxa de reciclagem de materiais ao final da vida útil dos produtos.
-- **B)** Um sistema regenerativo em que fluxos de materiais e energia são mantidos em ciclos (de uso, reuso, remanufatura, reciclagem) o maior tempo possível, reduzindo extração de recursos virgens e geração de resíduos.
-- **C)** A proibição legal da produção de bens não biodegradáveis.
-- **D)** A terceirização da gestão de resíduos para países em desenvolvimento.
+- **A)** A demanda é incerta e varia sazonalmente ao longo do ano.
+- **B)** A demanda é constante e conhecida, e o custo unitário do item independe do tamanho do lote pedido.
+- **C)** O tempo de ressuprimento (lead time) é sempre igual a zero.
+- **D)** Os custos de manutenção de estoque diminuem à medida que o tamanho do lote aumenta.
 
-**2.** A principal diferença entre a economia circular e a simples 'reciclagem' de materiais, segundo a literatura de economia circular (Homrich et al.), é que a economia circular:
+**2.** O sistema kanban, associado à filosofia just-in-time (JIT), tem como principal função: _(básico · conceitual · Sistema kanban e just-in-time)_
 
-- **A)** Ocorre apenas no final da cadeia produtiva, após o descarte do produto.
-- **B)** Busca priorizar estratégias de maior valor retido, como manutenção, reuso e remanufatura, antes de recorrer à reciclagem, além de repensar o próprio projeto de produtos e modelos de negócio.
-- **C)** É sinônimo de reciclagem e os dois termos podem ser usados indistintamente.
-- **D)** Elimina totalmente a necessidade de qualquer tratamento de resíduos.
+- **A)** Determinar previsões de demanda de longo prazo com base em séries históricas.
+- **B)** Sinalizar visualmente a necessidade de reposição ou produção de itens, controlando o fluxo de materiais de modo a puxar a produção conforme o consumo real.
+- **C)** Calcular automaticamente o lote econômico de compra para cada item do estoque.
+- **D)** Substituir integralmente o planejamento das necessidades de materiais (MRP) em qualquer ambiente de produção em massa.
 
-**3.** Modelos de negócio circulares frequentemente mencionados na literatura (como 'produto como serviço' ou servitização) baseiam-se na ideia de que:
+**3.** Uma empresa consome 7.200 unidades de um componente por ano. O custo de emissão de cada pedido é de R$ 100,00, e o custo de manutenção (armazenagem) é de R$ 4,00 por unidade/ano. Calcule o Lote Econômico de Compra (EOQ) desse item. _(intermediário · quantitativa · Cálculo do Lote Econômico de Compra (EOQ))_
 
-- **A)** A empresa deve vender o máximo de unidades físicas possível, sem se preocupar com o pós-venda.
-- **B)** A empresa retém a propriedade do produto/ativo físico e vende o acesso ou a função/resultado que ele proporciona, criando incentivo para prolongar sua vida útil e facilitar reuso/remanufatura.
-- **C)** Os produtos devem ser projetados para obsolescência programada, estimulando a reposição frequente.
-- **D)** O modelo elimina qualquer interação contínua entre fabricante e cliente após a venda.
+- **A)** 600 unidades
+- **B)** 424 unidades
+- **C)** 2.400 unidades
+- **D)** 360.000 unidades
 
-**4.** Entre as principais barreiras à adoção da economia circular na indústria, frequentemente discutidas na literatura, NÃO se inclui:
+**4.** Um item tem demanda média diária de 50 unidades e lead time (tempo de ressuprimento) de 6 dias. Desconsiderando estoque de segurança, qual é o ponto de pedido (ROP) desse item? _(intermediário · quantitativa · Ponto de pedido (ROP) sem estoque de segurança)_
 
-- **A)** Barreiras culturais, como resistência de gestores e consumidores a modelos de negócio não convencionais.
-- **B)** Barreiras regulatórias, como legislações ainda desenhadas para o modelo linear de produção e consumo.
-- **C)** Barreiras tecnológicas e de mercado, como falta de infraestrutura de logística reversa e de mercados consolidados para materiais reciclados/remanufaturados.
-- **D)** A existência de incentivos fiscais e subsídios governamentais amplamente disponíveis para práticas circulares em todos os países, o que facilitaria integralmente a transição.
+- **A)** 300 unidades
+- **B)** 50 unidades
+- **C)** 6 unidades
+- **D)** 350 unidades
 
-**5.** São exemplos de 'drivers' (fatores impulsionadores) para a adoção da economia circular na indústria, segundo a literatura revisada por Homrich et al.:
+**5.** O desvio-padrão da demanda diária de um item é de 8 unidades, e o lead time de ressuprimento é constante, igual a 9 dias. Para garantir um nível de serviço de 95% (z = 1,65), qual deve ser o estoque de segurança desse item, utilizando a fórmula ES = z × σd × √LT? _(intermediário · quantitativa · Cálculo do estoque de segurança)_
 
-- **A)** Pressão regulatória ambiental crescente, escassez de recursos naturais, pressão de stakeholders e potencial de redução de custos/criação de valor.
-- **B)** Apenas a obrigatoriedade legal, sem qualquer motivação econômica ou de mercado.
-- **C)** A disponibilidade infinita de matérias-primas virgens a baixo custo.
-- **D)** A ausência completa de regulamentação ambiental em qualquer país.
+- **A)** ≈ 40 unidades
+- **B)** ≈ 13 unidades
+- **C)** ≈ 119 unidades
+- **D)** 72 unidades
 
-**6.** Piao et al. (2023), ao investigar como a economia circular incorpora a inclusão social, destacam especialmente a importância de:
+**6.** Um item apresenta demanda média diária de 120 unidades e lead time constante de 4 dias. A empresa mantém um estoque de segurança de 30 unidades para esse item, já definido com base no nível de serviço desejado. Qual deve ser o ponto de pedido (ROP) desse item? _(intermediário · quantitativa · Ponto de pedido com estoque de segurança)_
 
-- **A)** Ignorar completamente os trabalhadores informais (como catadores de materiais recicláveis) nos modelos de economia circular, por serem considerados irrelevantes.
-- **B)** Integrar e formalizar atores sociais vulneráveis (como catadores e cooperativas de reciclagem) às cadeias de valor circulares, reconhecendo seu papel na gestão de resíduos e buscando melhorar suas condições de trabalho e renda.
-- **C)** Restringir a economia circular exclusivamente a grandes corporações multinacionais, sem qualquer vínculo com comunidades locais.
-- **D)** Eliminar qualquer discussão sobre equidade e justiça social da agenda de sustentabilidade industrial.
+- **A)** 510 unidades
+- **B)** 480 unidades
+- **C)** 150 unidades
+- **D)** 600 unidades
 
-**7.** A hierarquia de gestão de resíduos (frequentemente representada como uma pirâmide invertida) prioriza, da estratégia mais desejável para a menos desejável, a seguinte ordem geral:
+**7.** Uma empresa apresentou, no último ano, custo das mercadorias vendidas (CMV) de R$ 2.400.000,00 e estoque médio de R$ 300.000,00. Qual foi o giro de estoque (inventory turnover) nesse período? _(intermediário · quantitativa · Giro de estoque)_
 
-- **A)** Disposição final (aterro) > incineração > reciclagem > reuso > redução/prevenção.
-- **B)** Redução/prevenção > reuso > reciclagem > recuperação de energia > disposição final (aterro).
-- **C)** Reciclagem > redução > reuso > disposição final > recuperação de energia.
-- **D)** Todas as estratégias têm prioridade igual, não havendo hierarquia entre elas.
+- **A)** 8 vezes ao ano
+- **B)** 0,125 vezes ao ano
+- **C)** 80 vezes ao ano
+- **D)** 45,6 dias
 
-**8.** O conceito de 'simbiose industrial', associado à ecologia industrial e frequentemente citado como um dos pilares históricos da economia circular (conforme mapeado por Homrich et al.), refere-se a:
+**8.** Com base nos dados da questão sobre o Lote Econômico de Compra (D = 7.200 unidades/ano; custo de pedido S = R$ 100,00; custo de manutenção H = R$ 4,00/unidade/ano; EOQ = 600 unidades), suponha que a empresa opte por adquirir lotes de 900 unidades em vez do lote econômico. Qual é o acréscimo no custo total anual de estoque (pedido + manutenção) decorrente dessa decisão, em relação ao custo mínimo obtido com o EOQ? _(avançado · quantitativa · Custo total de estoque: EOQ versus lote arbitrário)_
 
-- **A)** A concorrência direta entre empresas do mesmo setor por matérias-primas escassas.
-- **B)** A troca de subprodutos, resíduos, energia ou água entre empresas distintas (muitas vezes geograficamente próximas), de modo que o resíduo de uma se torne insumo de outra.
-- **C)** A fusão societária entre duas empresas do mesmo polo industrial.
-- **D)** A padronização global de normas técnicas de produtos industriais.
+- **A)** R$ 200,00
+- **B)** R$ 2.600,00
+- **C)** R$ 0,00
+- **D)** R$ 800,00
 
-**9.** O conceito de 'triple bottom line' (tripé da sustentabilidade), frequentemente associado à integração entre sustentabilidade e estratégia empresarial, propõe que o desempenho de uma organização seja avaliado considerando simultaneamente:
+**9.** Em um sistema kanban, a demanda diária de um componente é de 1.000 unidades, o tempo de ciclo total do cartão (produção + espera + transporte) é de 0,4 dia, utiliza-se um fator de segurança de 20%, e cada contêiner padronizado comporta 50 unidades. Utilizando a fórmula N = [demanda diária × tempo de ciclo × (1 + fator de segurança)] / capacidade do contêiner, quantos cartões kanban são necessários, arredondando para cima? _(avançado · quantitativa · Cálculo do número de cartões kanban)_
 
-- **A)** Apenas o desempenho financeiro (lucro) da organização.
-- **B)** Desempenho ambiental, desempenho social e desempenho econômico/financeiro, de forma integrada.
-- **C)** Apenas indicadores de qualidade técnica dos produtos.
-- **D)** Exclusivamente a conformidade legal com normas ambientais.
+- **A)** 10 cartões
+- **B)** 9 cartões
+- **C)** 24 cartões
+- **D)** 8 cartões
 
-**10.** Indicadores de circularidade, como o 'Material Circularity Indicator' (MCI), têm como propósito:
+**10.** Uma empresa aplicou princípios de produção enxuta (lean) e conseguiu reduzir o lead time médio de fabricação de um produto de 20 dias para 5 dias, mantendo constante a taxa média de produção (throughput) de 100 unidades/dia. De acordo com a Lei de Little (Estoque em processo = Taxa de produção × Lead time), qual foi a redução no estoque em processo (WIP) médio decorrente dessa melhoria? _(avançado · analítica · Lei de Little e redução do lead time (produção enxuta))_
 
-- **A)** Medir exclusivamente a lucratividade de uma empresa em determinado ano fiscal.
-- **B)** Quantificar o grau em que os fluxos de materiais de um produto ou organização são mantidos em ciclo (via reuso, reciclagem, materiais reciclados de entrada) em vez de seguirem um fluxo linear de extração-descarte.
-- **C)** Avaliar apenas a satisfação dos clientes com determinado produto.
-- **D)** Substituir totalmente as métricas ambientais tradicionais, como a pegada de carbono.
+- **A)** Redução de 1.500 unidades (de 2.000 para 500 unidades em processo).
+- **B)** Redução de 15 unidades, equivalente à diferença de lead time em dias.
+- **C)** Redução de 500 unidades, correspondente apenas ao novo nível de WIP.
+- **D)** Nenhuma redução, pois o estoque em processo depende exclusivamente do throughput, que permaneceu constante.
 
 ## Gabarito e explicações
 
 **1. Resposta: B**
 
-- ❌ **A)** Reciclagem é apenas uma das estratégias (geralmente a de menor valor agregado) dentro da hierarquia de ações da economia circular; o conceito é mais amplo, envolvendo também redução, reuso, remanufatura e repasse de valor.
-- ✅ **B)** Correto. Conforme discutido por Homrich et al., a economia circular é um conceito guarda-chuva ('umbrella concept') que integra diversas abordagens anteriores (ecologia industrial, berço ao berço, capitalismo natural, economia de performance) em torno da ideia de manter produtos, componentes e materiais no mais alto nível de utilidade e valor pelo maior tempo possível, fechando ciclos de materiais e energia.
-- ❌ **C)** A economia circular é um modelo de reestruturação de sistemas produtivos e de negócios, não uma proibição legal específica de categorias de produtos.
-- ❌ **D)** Transferir resíduos para outros países é uma prática associada a problemas de gestão de resíduos (e até denunciada como 'colonialismo de resíduos'), contrária ao princípio de circularidade local/regional dos fluxos de materiais.
+- ❌ **A)** O modelo EOQ clássico pressupõe demanda constante e conhecida com certeza, e não demanda incerta ou sazonal, que exigiria modelos probabilísticos mais complexos.
+- ✅ **B)** Correto. O EOQ clássico assume demanda constante e conhecida, custo unitário de compra fixo (sem descontos por volume), e busca minimizar a soma dos custos de pedido e de manutenção de estoque.
+- ❌ **C)** O modelo EOQ não exige lead time igual a zero; o lead time é tratado separadamente na definição do ponto de pedido (ROP), podendo ser positivo e constante.
+- ❌ **D)** No modelo EOQ, o custo de manutenção é proporcional ao estoque médio mantido, aumentando (e não diminuindo) com o tamanho do lote.
 
 **2. Resposta: B**
 
-- ❌ **A)** A economia circular atua ao longo de todo o ciclo de vida do produto, incluindo o projeto (design), a fase de uso (manutenção, compartilhamento) e não apenas o pós-descarte, como ocorre com a reciclagem tradicional.
-- ✅ **B)** Correto. Na hierarquia da economia circular, estratégias que mantêm maior valor econômico e funcional do produto (como manter em uso, reparar, reutilizar, remanufaturar) são preferíveis à reciclagem, que degrada parte do valor agregado ao transformar o produto de volta em matéria-prima; a economia circular também exige repensar o design e os modelos de negócio desde a origem.
-- ❌ **C)** Reciclagem é apenas uma das várias estratégias contempladas pela economia circular, geralmente considerada de 'último recurso' na hierarquia de valor, não um sinônimo do conceito mais amplo.
-- ❌ **D)** Mesmo em sistemas circulares avançados, alguma geração de resíduos residual é praticamente inevitável; a economia circular busca minimizar, não necessariamente eliminar por completo, a necessidade de tratamento de resíduos.
+- ❌ **A)** Previsão de demanda de longo prazo é função de métodos de previsão (séries temporais, modelos causais etc.), e não do sistema kanban, que opera no nível operacional de curtíssimo prazo.
+- ✅ **B)** Correto. O kanban é um mecanismo visual (cartões, sinais) que autoriza a produção ou movimentação de itens somente quando há consumo real a jusante, caracterizando um sistema de produção puxada (pull), central à filosofia JIT.
+- ❌ **C)** O kanban não calcula lotes econômicos; ele controla o fluxo físico de materiais e sinaliza reposição, geralmente em lotes pequenos e fixos definidos previamente.
+- ❌ **D)** O kanban e o MRP são abordagens que podem coexistir conforme o tipo de item e a variabilidade da demanda; o kanban não substitui integralmente o MRP em todos os contextos.
 
-**3. Resposta: B**
+**3. Resposta: A**
 
-- ❌ **A)** Vender o máximo de unidades sem considerar o ciclo de vida reflete a lógica linear tradicional, exatamente o que os modelos circulares de servitização buscam superar.
-- ✅ **B)** Correto. Em modelos como 'produto como serviço' (ex.: leasing de equipamentos, pagamento por uso), o fabricante mantém a propriedade do ativo e é economicamente incentivado a projetá-lo para durabilidade, manutenção, reuso e remanufatura, pois o valor do ativo retorna a ele ao final do contrato — alinhando incentivos econômicos à circularidade.
-- ❌ **C)** A obsolescência programada é o oposto da lógica de modelos circulares, que buscam prolongar a vida útil dos produtos e manter seu valor por mais tempo.
-- ❌ **D)** Pelo contrário, modelos de produto como serviço geralmente aumentam a interação contínua entre fabricante e cliente (contratos de manutenção, monitoramento de uso), pois o fabricante continua responsável pelo ativo.
+- ✅ **A)** Correto. EOQ = √(2DS/H) = √(2 × 7.200 × 100/4) = √(1.440.000/4) = √360.000 = 600 unidades.
+- ❌ **B)** Esse valor resulta de um erro ao esquecer o fator 2 dentro da raiz: √(7.200 × 100/4) = √180.000 ≈ 424 unidades.
+- ❌ **C)** Esse valor resulta de multiplicar o custo de manutenção (H) em vez de dividir por ele: √(2 × 7.200 × 100 × 4) = √5.760.000 ≈ 2.400 unidades.
+- ❌ **D)** Esse valor corresponde ao resultado da expressão 2DS/H = 360.000 sem a extração da raiz quadrada, etapa final indispensável do cálculo do EOQ.
 
-**4. Resposta: D**
+**4. Resposta: A**
 
-- ❌ **A)** A resistência cultural (de gestores, cadeias de suprimento e consumidores) é amplamente reconhecida na literatura como uma barreira real à adoção de modelos circulares, que exigem mudança de mentalidade.
-- ❌ **B)** A inadequação de marcos regulatórios (criados sob lógica linear) é uma barreira frequentemente citada, pois normas ambientais e tributárias nem sempre favorecem fluxos circulares de materiais.
-- ❌ **C)** A falta de infraestrutura logística reversa e de mercados secundários maduros para materiais recuperados é uma barreira tecnológica/de mercado amplamente discutida na literatura de economia circular.
-- ✅ **D)** Correto como resposta (é a FALSA/exceção): a literatura aponta justamente o oposto — a ESCASSEZ (não a ampla disponibilidade) de incentivos fiscais e subsídios consistentes é identificada como barreira; a afirmação de que tais incentivos estão 'amplamente disponíveis em todos os países' não corresponde ao diagnóstico típico da literatura, que vê isso como uma lacuna a ser preenchida.
+- ✅ **A)** Correto. ROP = demanda média diária × lead time = 50 × 6 = 300 unidades.
+- ❌ **B)** Esse valor corresponde apenas à demanda diária, sem considerar o prazo de ressuprimento (lead time).
+- ❌ **C)** Esse valor corresponde apenas ao lead time em dias, sem multiplicá-lo pela demanda diária.
+- ❌ **D)** Esse valor resulta de um erro ao somar a demanda diária ao produto, em vez de apenas multiplicar demanda diária por lead time (50×6+50=350).
 
 **5. Resposta: A**
 
-- ✅ **A)** Correto. A literatura aponta múltiplos drivers convergentes: pressões regulatórias (ex.: metas de resíduos, taxação de carbono), escassez e volatilidade de preços de recursos naturais, demandas de consumidores e investidores (stakeholders) por sustentabilidade, e oportunidades genuínas de redução de custo e criação de novo valor econômico.
-- ❌ **B)** Reduzir os drivers apenas à obrigatoriedade legal ignora os fortes incentivos econômicos e de mercado (redução de custos, novos modelos de receita, reputação) amplamente documentados como motivadores da economia circular.
-- ❌ **C)** A disponibilidade abundante e barata de recursos virgens tende a DESINCENTIVAR a economia circular (reduz o atrativo econômico de materiais reciclados); a escassez de recursos, e não sua abundância, é o driver citado na literatura.
-- ❌ **D)** A ausência de regulamentação ambiental tende a reduzir a pressão para adoção de práticas circulares; a literatura aponta o AUMENTO da pressão regulatória como fator impulsionador, não sua ausência.
+- ✅ **A)** Correto. ES = z × σd × √LT = 1,65 × 8 × √9 = 1,65 × 8 × 3 = 39,6 ≈ 40 unidades.
+- ❌ **B)** Esse valor (1,65 × 8 = 13,2) corresponde ao cálculo sem considerar o fator √LT, ignorando a variabilidade acumulada ao longo do tempo de ressuprimento.
+- ❌ **C)** Esse valor (1,65 × 8 × 9 = 118,8) resulta de multiplicar pelo lead time diretamente, em vez de pela sua raiz quadrada, superestimando fortemente o estoque de segurança necessário.
+- ❌ **D)** Esse valor (8 × 9 = 72) resulta de ignorar completamente o fator z associado ao nível de serviço desejado.
 
-**6. Resposta: B**
+**6. Resposta: A**
 
-- ❌ **A)** O estudo de Piao et al. vai exatamente na direção oposta: destaca a necessidade de reconhecer e integrar, e não ignorar, os atores informais que historicamente sustentam parte da cadeia de reciclagem em países como o Brasil.
-- ✅ **B)** Correto. Um dos pontos centrais discutidos por Piao et al. é que a transição para a economia circular, para ser verdadeiramente sustentável, precisa incorporar a dimensão social — incluindo a formalização, capacitação e melhoria das condições de trabalho e renda de catadores e cooperativas, que já desempenham papel fundamental na reciclagem, mas frequentemente em condições precárias e informais.
-- ❌ **C)** O artigo discute justamente a necessidade de conectar economia circular a atores locais e comunitários (incluindo o setor informal), e não restringi-la a grandes corporações isoladas de seu contexto social.
-- ❌ **D)** A inclusão social é apresentada como uma dimensão a ser ativamente incorporada na agenda da economia circular, e não excluída dela; o artigo busca justamente preencher essa lacuna na literatura, tradicionalmente mais focada em aspectos ambientais e econômicos.
+- ✅ **A)** Correto. ROP = (demanda média diária × lead time) + estoque de segurança = (120 × 4) + 30 = 480 + 30 = 510 unidades.
+- ❌ **B)** Esse valor corresponde apenas ao componente de demanda durante o lead time (120 × 4 = 480), sem somar o estoque de segurança.
+- ❌ **C)** Esse valor resulta de somar diretamente a demanda diária ao estoque de segurança (120 + 30 = 150), sem multiplicar a demanda pelo lead time.
+- ❌ **D)** Esse valor resulta de multiplicar também o estoque de segurança pelo lead time (120×4 + 30×4 = 600), um procedimento incorreto, já que o estoque de segurança é um valor absoluto e não deve ser multiplicado pelo lead time.
 
-**7. Resposta: B**
+**7. Resposta: A**
 
-- ❌ **A)** Essa ordem está exatamente invertida em relação à hierarquia de resíduos amplamente aceita, que coloca a disposição final como última opção, não a primeira.
-- ✅ **B)** Correto. A hierarquia de resíduos (presente em diretivas ambientais e na literatura de economia circular) prioriza, nesta ordem: prevenção/redução na fonte, reuso, reciclagem, recuperação de energia (valorização energética) e, apenas como último recurso, disposição final em aterro — refletindo a busca por reter o máximo de valor e minimizar impacto ambiental.
-- ❌ **C)** Essa sequência mistura a ordem correta de forma incoerente, colocando reciclagem antes de redução e disposição final antes de recuperação de energia, invertendo a lógica de priorização.
-- ❌ **D)** A existência de uma hierarquia explícita e ordenada é justamente o ponto central do conceito; as estratégias não são tratadas como equivalentes, mas priorizadas conforme o valor retido e o impacto ambiental.
+- ✅ **A)** Correto. Giro de estoque = CMV / estoque médio = 2.400.000/300.000 = 8 vezes ao ano.
+- ❌ **B)** Esse valor resulta de inverter a razão (estoque médio/CMV = 300.000/2.400.000 = 0,125), o que não corresponde à definição de giro de estoque.
+- ❌ **C)** Esse valor resulta de um erro de posicionamento de casa decimal no cálculo da razão.
+- ❌ **D)** Esse valor (365/8 ≈ 45,6 dias) corresponde ao período médio de estocagem (prazo médio de permanência do item em estoque), um indicador derivado do giro, mas distinto dele, e expresso em dias, não em número de giros por ano.
 
-**8. Resposta: B**
+**8. Resposta: A**
 
-- ❌ **A)** Simbiose industrial é um conceito de cooperação e troca de recursos entre empresas, não de concorrência por recursos escassos.
-- ✅ **B)** Correto. O exemplo clássico é o parque industrial de Kalundborg, na Dinamarca, em que subprodutos e resíduos de uma planta (como calor residual, gesso, lodo) são utilizados como insumos por plantas vizinhas, reduzindo extração de recursos virgens e geração de resíduos — ilustrando na prática o fechamento de ciclos de materiais entre organizações distintas.
-- ❌ **C)** Simbiose industrial não implica fusão societária ou unificação de empresas; as organizações permanecem independentes, apenas trocando fluxos físicos de materiais/energia.
-- ❌ **D)** Padronização técnica de normas de produtos é um tema de qualidade e regulação técnica, sem relação direta com o conceito de simbiose industrial.
+- ✅ **A)** Correto. Custo total em Q=600: (7.200/600)×100 + (600/2)×4 = 1.200+1.200 = R$ 2.400,00. Custo total em Q=900: (7.200/900)×100 + (900/2)×4 = 800+1.800 = R$ 2.600,00. Acréscimo = 2.600-2.400 = R$ 200,00.
+- ❌ **B)** Esse valor é o custo total anual em Q=900 (R$ 2.600,00), não o acréscimo em relação ao custo mínimo obtido com o EOQ.
+- ❌ **C)** Afastar-se do lote econômico sempre eleva o custo total de estoque (pedido + manutenção), já que o EOQ é, por definição, o ponto de custo mínimo; portanto, o acréscimo não pode ser nulo.
+- ❌ **D)** Esse valor resulta de um cálculo que ignora a divisão por 2 no termo de custo de manutenção em ambos os lotes, um erro sistemático de fórmula que, embora gere uma diferença numérica coincidente, não corresponde ao modelo correto de custo total do EOQ.
 
-**9. Resposta: B**
+**9. Resposta: A**
 
-- ❌ **A)** Avaliar apenas o desempenho financeiro é exatamente a limitação que o conceito de triple bottom line busca superar, ao incorporar também dimensões ambiental e social.
-- ✅ **B)** Correto. Cunhado por John Elkington, o triple bottom line (também chamado de 'pessoas, planeta e lucro') propõe que organizações sejam avaliadas por três dimensões interligadas de desempenho — econômica, social e ambiental —, servindo de base conceitual para a integração entre sustentabilidade e modelos de negócio, incluindo os circulares.
-- ❌ **C)** Qualidade técnica de produtos é um aspecto específico de desempenho operacional, não a estrutura conceitual ampla de sustentabilidade organizacional que o triple bottom line representa.
-- ❌ **D)** Mera conformidade legal ambiental é um patamar mínimo regulatório, bem mais restrito que a proposta do triple bottom line, que busca ir além da conformidade e integrar três dimensões de valor.
+- ✅ **A)** Correto. N = [1.000 × 0,4 × 1,20]/50 = [400 × 1,20]/50 = 480/50 = 9,6, que deve ser arredondado para cima (10 cartões), garantindo cobertura suficiente do sistema puxado e evitando ruptura de estoque.
+- ❌ **B)** Esse valor resulta de arredondar 9,6 para baixo, o que é incorreto em sistemas kanban: deve-se sempre arredondar para cima para assegurar que o número de cartões cubra integralmente a necessidade calculada.
+- ❌ **C)** Esse valor (1.000 × 1,20/50 = 24) resulta de ignorar o tempo de ciclo de 0,4 dia, usando a demanda diária integral em vez da demanda durante o ciclo.
+- ❌ **D)** Esse valor (1.000 × 0,4/50 = 8) resulta de ignorar completamente o fator de segurança de 20%.
 
-**10. Resposta: B**
+**10. Resposta: A**
 
-- ❌ **A)** Indicadores de circularidade medem fluxos físicos de materiais (origem, destino, reaproveitamento), não diretamente o resultado financeiro/lucratividade da empresa.
-- ✅ **B)** Correto. O MCI e indicadores correlatos buscam quantificar, numa escala (geralmente de 0 a 1), o quanto um produto ou organização reduz a dependência de materiais virgens e a geração de resíduos não recuperados, considerando entradas de material reciclado/reutilizado, saídas recicladas/reutilizadas e a utilidade/duração do produto em uso.
-- ❌ **C)** Satisfação do cliente é medida por outras ferramentas (pesquisas de satisfação, NPS), sem relação direta com a métrica física de circularidade de materiais.
-- ❌ **D)** Indicadores de circularidade são complementares, não substitutos, de outras métricas ambientais como a pegada de carbono; frequentemente são usados em conjunto para uma avaliação de sustentabilidade mais completa.
+- ✅ **A)** Correto. WIP inicial = 100 × 20 = 2.000 unidades. WIP final = 100 × 5 = 500 unidades. Redução = 2.000 - 500 = 1.500 unidades, demonstrando como a redução do lead time, mantendo o throughput, reduz diretamente o estoque em processo.
+- ❌ **B)** Esse valor confunde a diferença de lead time em dias (20-5=15) com a redução do estoque em processo, que é medido em unidades e depende também do throughput.
+- ❌ **C)** Esse valor corresponde apenas ao novo nível de WIP (500 unidades), e não à redução obtida em relação à situação inicial.
+- ❌ **D)** Pela Lei de Little, o estoque em processo depende tanto do throughput quanto do lead time (WIP = throughput × lead time); mesmo com throughput constante, a redução do lead time reduz proporcionalmente o WIP médio.

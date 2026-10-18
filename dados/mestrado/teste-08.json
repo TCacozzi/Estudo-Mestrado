@@ -1,178 +1,208 @@
 {
   "id": "mestrado-08",
-  "titulo": "Administração da Produção: Planejamento, Controle e Melhoria de Operações",
-  "topico": "Administração da Produção: Planejamento, Controle e Melhoria de Operações (planejamento de capacidade, gestão de estoques, MRP, just-in-time/lean, melhoria contínua, segundo Slack, Brandon-Jones & Johnston)",
-  "instrucoes": "Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).",
+  "titulo": "Administração da Produção: Estratégia, Capacidade e Projeto de Processos",
+  "topico": "Administração da Produção: Estratégia, Capacidade e Projeto de Processos",
+  "instrucoes": "Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.",
   "texto": null,
   "questoes": [
     {
       "numero": 1,
-      "enunciado": "No planejamento e controle de capacidade, a estratégia de 'acompanhamento da demanda' (chase demand) consiste em:",
+      "assunto": "Objetivos de desempenho da produção (Slack)",
+      "dificuldade": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Segundo o modelo dos cinco objetivos de desempenho da produção proposto por Slack, Brandon-Jones e Johnston, o objetivo que se refere à capacidade de a operação mudar rapidamente o que faz, quando faz e como faz, em resposta às exigências dos clientes ou do mercado, é denominado:",
       "alternativas": {
-        "A": "Manter a capacidade produtiva constante ao longo do tempo, absorvendo variações de demanda por meio de estoques.",
-        "B": "Ajustar a capacidade produtiva (via horas extras, contratação/demissão temporária, subcontratação) para acompanhar de perto as flutuações da demanda em cada período.",
-        "C": "Ignorar completamente as flutuações de demanda e produzir sempre no nível máximo possível da planta.",
-        "D": "Transferir toda a responsabilidade pela gestão da demanda ao departamento de marketing, sem ajuste de capacidade."
+        "A": "Confiabilidade.",
+        "B": "Flexibilidade.",
+        "C": "Rapidez.",
+        "D": "Qualidade."
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "Essa descrição corresponde à estratégia de 'nivelamento' (level capacity), em que a produção é mantida constante e os estoques (ou listas de espera) absorvem as variações de demanda — o oposto da estratégia de acompanhamento.",
-        "B": "Correto. Na estratégia de acompanhamento da demanda, a operação ajusta sua capacidade período a período para corresponder à demanda prevista, usando mecanismos como horas extras, turnos adicionais, contratações temporárias e subcontratação, evitando acúmulo de estoques.",
-        "C": "Produzir sempre no nível máximo, independentemente da demanda, geraria estoques excessivos ou capacidade ociosa; não corresponde a nenhuma das estratégias clássicas descritas (nivelamento ou acompanhamento) de forma racional.",
-        "D": "A gestão da demanda (incluindo ações de marketing, como preços promocionais) é uma terceira estratégia complementar, mas distinta do acompanhamento da capacidade, que envolve especificamente o ajuste do lado da oferta/capacidade."
+        "A": "Confiabilidade refere-se a fazer as coisas em tempo para os clientes receberem seus produtos ou serviços quando prometido, e não à capacidade de mudança da operação.",
+        "B": "Correto. Flexibilidade é o objetivo de desempenho relacionado à capacidade de a operação alterar o que faz, abrangendo flexibilidade de produto/serviço, de composto (mix), de volume e de entrega.",
+        "C": "Rapidez refere-se ao tempo decorrido entre a solicitação do cliente e o recebimento do produto ou serviço, não à capacidade de mudança da operação.",
+        "D": "Qualidade refere-se a fazer as coisas certo, de acordo com as especificações, sem relação direta com a capacidade de mudança da operação."
       }
     },
     {
       "numero": 2,
-      "enunciado": "O modelo do Lote Econômico de Compra (LEC ou EOQ), usado na gestão de estoques, busca determinar a quantidade de pedido que:",
+      "assunto": "Tipos de processo de produção",
+      "dificuldade": "básico",
+      "tipo": "conceitual",
+      "enunciado": "O tipo de processo de produção caracterizado por baixo volume e alta variedade, no qual cada produto ou serviço é único, utiliza recursos dedicados temporariamente e apresenta grande incerteza quanto à forma de execução (como a construção de um navio ou a realização de um grande evento), é denominado processo de:",
       "alternativas": {
-        "A": "Minimiza exclusivamente o custo de manutenção (armazenagem) de estoque, independentemente do custo de pedido.",
-        "B": "Minimiza exclusivamente o custo de realizar pedidos, independentemente do custo de manutenção de estoque.",
-        "C": "Minimiza o custo total combinado de manutenção de estoque e de realização de pedidos (emissão de ordens).",
-        "D": "Maximiza o volume de estoque de segurança mantido pela empresa."
+        "A": "Jobbing (tarefas).",
+        "B": "Lotes ou bateladas (batch).",
+        "C": "Projeto.",
+        "D": "Produção em massa."
       },
       "resposta": "C",
       "explicacoes": {
-        "A": "O modelo não isola apenas o custo de manutenção; ele busca o equilíbrio entre dois custos que se movem em direções opostas conforme o tamanho do lote.",
-        "B": "Da mesma forma, o modelo não isola apenas o custo de pedido; pedidos menores e mais frequentes reduzem estoque médio mas aumentam o custo total de emissão de pedidos.",
-        "C": "Correto. O EOQ encontra o ponto de equilíbrio em que a soma do custo de manutenção de estoque (que cresce com o tamanho do lote) e do custo de pedir (que decresce com lotes maiores, pois há menos pedidos) é minimizada — graficamente, o ponto onde essas duas curvas se cruzam.",
-        "D": "Estoque de segurança é um conceito relacionado, mas distinto, usado para proteger contra incertezas de demanda ou de prazo de entrega; não é o objetivo do cálculo do lote econômico."
+        "A": "O processo de jobbing envolve produtos únicos ou em pequenas quantidades, mas, diferentemente do processo por projeto, os recursos permanecem relativamente fixos na planta, e os itens se movem entre eles (como em uma gráfica rápida), sem a mesma escala e unicidade de um projeto.",
+        "B": "O processo em lotes envolve a produção de grupos (bateladas) de itens similares de forma repetida, com variedade e volume intermediários, não se aplicando a empreendimentos únicos de grande escala.",
+        "C": "Correto. O processo por projeto lida com produtos discretos, geralmente de grande escala e customização completa, com início e fim bem definidos, recursos organizados especificamente para aquele empreendimento e alto grau de incerteza quanto à execução.",
+        "D": "A produção em massa caracteriza-se por alto volume e variedade relativamente baixa, com produtos padronizados, o oposto do cenário descrito."
       }
     },
     {
       "numero": 3,
-      "enunciado": "O 'ponto de reposição' (reorder point) em um sistema de controle de estoques é definido como:",
+      "assunto": "Taxa de utilização da capacidade",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "Uma fábrica possui capacidade de projeto de 10.000 unidades/mês, mas, devido a perdas planejadas (manutenção preventiva, trocas de ferramentas etc.), sua capacidade efetiva é de 8.000 unidades/mês. No último mês, a produção real foi de 6.800 unidades. Qual foi a taxa de utilização da capacidade, com base na capacidade de projeto?",
       "alternativas": {
-        "A": "O nível de estoque no qual um novo pedido de reposição deve ser emitido, considerando a demanda durante o tempo de reposição (lead time) e, usualmente, um estoque de segurança.",
-        "B": "A quantidade máxima de estoque que o armazém pode fisicamente comportar.",
-        "C": "O momento em que o estoque chega a zero e a produção é interrompida.",
-        "D": "O preço de compra mínimo negociado com o fornecedor."
+        "A": "68%",
+        "B": "85%",
+        "C": "80%",
+        "D": "117%"
       },
       "resposta": "A",
       "explicacoes": {
-        "A": "Correto. O ponto de reposição é calculado a partir da demanda esperada durante o tempo de reposição somada a um estoque de segurança (para proteger contra variações de demanda e atrasos de entrega), sinalizando quando emitir um novo pedido antes que o estoque se esgote.",
-        "B": "Isso descreve a capacidade de armazenagem física, um conceito logístico diferente do ponto de reposição, que é um gatilho de decisão de pedido.",
-        "C": "O ponto de reposição é definido propositalmente ACIMA de zero, justamente para evitar que o estoque se esgote antes da chegada do novo pedido; achar que ele equivale a estoque zero ignora o papel do lead time e do estoque de segurança.",
-        "D": "Preço de compra é uma variável de negociação comercial, sem relação direta com o conceito de ponto de reposição, que trata do momento de disparo do pedido."
+        "A": "Correto. Taxa de utilização = produção real / capacidade de projeto = 6.800/10.000 = 0,68 = 68%.",
+        "B": "Esse valor (6.800/8.000 = 85%) corresponde à taxa de eficiência (produção real sobre capacidade efetiva), e não à taxa de utilização sobre a capacidade de projeto.",
+        "C": "Esse valor (8.000/10.000 = 80%) é a razão entre a capacidade efetiva e a capacidade de projeto, um indicador distinto da utilização real da fábrica.",
+        "D": "Esse valor resulta de uma razão invertida (capacidade efetiva/produção real), que não corresponde à definição de taxa de utilização."
       }
     },
     {
       "numero": 4,
-      "enunciado": "No MRP (Planejamento das Necessidades de Materiais), a distinção entre demanda independente e demanda dependente é central. A demanda dependente refere-se a:",
+      "assunto": "Taxa de eficiência",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "Com base nos dados da questão anterior (capacidade de projeto de 10.000 unidades/mês, capacidade efetiva de 8.000 unidades/mês e produção real de 6.800 unidades no mês), qual foi a taxa de eficiência da fábrica, definida como a razão entre a produção real e a capacidade efetiva?",
       "alternativas": {
-        "A": "Itens cuja demanda é determinada diretamente pelo mercado/consumidor final, como produtos acabados.",
-        "B": "Itens cuja demanda decorre da demanda de outros itens, como componentes e matérias-primas cuja necessidade é calculada a partir da lista de materiais (BOM) do produto final.",
-        "C": "Itens cuja demanda é constante e não varia ao longo do tempo.",
-        "D": "Itens importados, cuja demanda depende exclusivamente de flutuações cambiais."
+        "A": "68%",
+        "B": "85%",
+        "C": "80%",
+        "D": "94%"
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "Essa é a definição de demanda INDEPENDENTE, tipicamente estimada por previsão de mercado (ex.: produtos acabados), e não de demanda dependente.",
-        "B": "Correto. A demanda dependente é derivada matematicamente da demanda de itens de nível superior na estrutura do produto (lista de materiais/BOM); por exemplo, a necessidade de parafusos depende diretamente de quantas unidades do produto final serão montadas — é esse cálculo em cascata que o MRP automatiza.",
-        "C": "A natureza da demanda (constante ou variável) não é o critério que define dependência; mesmo itens de demanda dependente podem variar ao longo do tempo conforme o plano mestre de produção.",
-        "D": "Flutuação cambial é um fator de custo de itens importados, sem relação com o conceito de dependência de demanda no MRP."
+        "A": "Esse valor (6.800/10.000) corresponde à taxa de utilização (com base na capacidade de projeto), e não à taxa de eficiência.",
+        "B": "Correto. Taxa de eficiência = produção real / capacidade efetiva = 6.800/8.000 = 0,85 = 85%.",
+        "C": "Esse valor (8.000/10.000 = 80%) é a razão entre capacidade efetiva e capacidade de projeto, não envolvendo a produção real do período.",
+        "D": "Esse valor não corresponde a nenhuma das razões pertinentes entre os dados fornecidos no enunciado."
       }
     },
     {
       "numero": 5,
-      "enunciado": "A filosofia Just-in-Time (JIT), discutida por Slack, Brandon-Jones e Johnston, tem como princípio central:",
+      "assunto": "OEE (Overall Equipment Effectiveness)",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "Uma linha de produção opera 480 minutos por turno. Desse tempo, 60 minutos são perdidos com paradas não planejadas. No tempo restante, a linha produz a uma velocidade equivalente a 90% da velocidade nominal. Do total de peças produzidas, 4% são refugadas por não atenderem às especificações de qualidade. Calcule o OEE (Overall Equipment Effectiveness) dessa linha.",
       "alternativas": {
-        "A": "Produzir e manter grandes estoques de segurança para evitar qualquer risco de parada de produção.",
-        "B": "Produzir e entregar os itens exatamente na quantidade, no momento e no local necessários, eliminando desperdícios (muda) ao longo de todo o processo.",
-        "C": "Maximizar o tamanho dos lotes de produção para reduzir o número de setups.",
-        "D": "Priorizar exclusivamente a flexibilidade de produto em detrimento de todos os outros objetivos de desempenho."
+        "A": "75,6%",
+        "B": "87,5%",
+        "C": "78,8%",
+        "D": "90,0%"
       },
-      "resposta": "B",
+      "resposta": "A",
       "explicacoes": {
-        "A": "O JIT é justamente o oposto dessa lógica: busca minimizar estoques, que são vistos como uma forma de desperdício que esconde problemas (como um 'lago' que esconde pedras/problemas no fundo).",
-        "B": "Correto. O JIT busca eliminar os sete desperdícios clássicos (superprodução, espera, transporte, processamento desnecessário, estoque, movimento e defeitos), produzindo apenas o necessário, quando necessário, na quantidade necessária — associado a sistemas puxados (pull) como o kanban.",
-        "C": "Lotes grandes contrariam a lógica JIT, que busca reduzir o tamanho dos lotes e os tempos de setup (troca rápida de ferramentas) para viabilizar fluxo contínuo com baixo estoque.",
-        "D": "O JIT busca equilíbrio entre vários objetivos de desempenho (qualidade, custo, confiabilidade, rapidez) de forma simultânea através da eliminação de desperdícios, não uma priorização exclusiva da flexibilidade."
+        "A": "Correto. Disponibilidade = (480-60)/480 = 420/480 = 0,875. Performance = 0,90. Qualidade = 1-0,04 = 0,96. OEE = 0,875 × 0,90 × 0,96 = 0,756 = 75,6%.",
+        "B": "Esse valor corresponde apenas à taxa de disponibilidade (0,875), sem considerar as perdas de performance e de qualidade.",
+        "C": "Esse valor (0,875 × 0,90 ≈ 78,8%) considera apenas disponibilidade e performance, desconsiderando a perda por qualidade (refugo de 4%).",
+        "D": "Esse valor corresponde apenas à taxa de performance (90%), desconsiderando as perdas de disponibilidade e de qualidade."
       }
     },
     {
       "numero": 6,
-      "enunciado": "O sistema kanban, associado ao JIT, é um mecanismo de controle que opera segundo a lógica de:",
+      "assunto": "Cálculo do takt time",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "Uma empresa precisa atender a uma demanda de 960 unidades por dia. A fábrica opera em 2 turnos de 8 horas, com 30 minutos de intervalo por turno. Qual é o takt time dessa produção, em segundos por unidade?",
       "alternativas": {
-        "A": "Sistema empurrado (push), no qual a produção é disparada por previsões de demanda calculadas antecipadamente para cada estágio.",
-        "B": "Sistema puxado (pull), no qual um estágio posterior do processo sinaliza ao estágio anterior a necessidade de reposição de itens, autorizando a produção apenas quando há consumo real.",
-        "C": "Um sistema de planejamento de capacidade de longo prazo, sem relação com o controle do chão de fábrica.",
-        "D": "Um sistema exclusivamente informatizado que substitui qualquer sinalização visual na fábrica."
+        "A": "56,25 segundos",
+        "B": "60,00 segundos",
+        "C": "28,13 segundos",
+        "D": "54,00 segundos"
       },
-      "resposta": "B",
+      "resposta": "A",
       "explicacoes": {
-        "A": "O MRP (empurrado) é o sistema baseado em previsões e planejamento antecipado por estágio; o kanban opera de forma inversa, respondendo ao consumo real.",
-        "B": "Correto. O kanban é um sistema de sinalização (tradicionalmente cartões) que autoriza a produção/movimentação de itens somente quando o estágio seguinte efetivamente consome o item, 'puxando' a produção ao longo da cadeia e limitando o estoque em processo.",
-        "C": "O kanban é uma ferramenta de controle operacional de curto prazo/chão de fábrica, não um sistema de planejamento de capacidade estratégico de longo prazo.",
-        "D": "O kanban tradicional é um sistema visual simples (cartões físicos, quadros), embora hoje existam versões eletrônicas (e-kanban); a essência do conceito não exige informatização."
+        "A": "Correto. Tempo disponível líquido por turno = 480-30 = 450 min; em 2 turnos: 900 min/dia = 54.000 segundos/dia. Takt time = tempo disponível / demanda = 54.000/960 = 56,25 segundos/unidade.",
+        "B": "Esse valor resulta de ignorar os intervalos de 30 minutos por turno, usando o tempo bruto de 2×480=960 min=57.600 s, ainda assim o cálculo correto seria 57.600/960=60,0 s, erro por desconsiderar as paradas planejadas para intervalo.",
+        "C": "Esse valor resulta de considerar apenas um único turno líquido (450 min = 27.000 s) dividido pela demanda diária completa, como se a fábrica operasse em turno único.",
+        "D": "Esse valor resulta de um erro de arredondamento/conversão no cálculo do tempo disponível total em segundos."
       }
     },
     {
       "numero": 7,
-      "enunciado": "O ciclo PDCA (Plan-Do-Check-Act), amplamente utilizado em programas de melhoria contínua (Kaizen), estrutura-se nas seguintes etapas, nesta ordem:",
+      "assunto": "Identificação de tipos de processo",
+      "dificuldade": "intermediário",
+      "tipo": "aplicação",
+      "enunciado": "Uma gráfica rápida (copiadora) imprime desde um único cartão de visita personalizado até pequenos lotes de folhetos, atendendo pedidos variados e específicos de cada cliente, com roteiros de produção que mudam a cada pedido. Esse cenário exemplifica um processo de:",
       "alternativas": {
-        "A": "Planejar, Executar, Verificar, Agir (agir para padronizar ou corrigir e reiniciar o ciclo).",
-        "B": "Agir, Planejar, Controlar, Executar.",
-        "C": "Controlar, Planejar, Definir, Analisar.",
-        "D": "Executar, Planejar, Agir, Verificar."
+        "A": "Processo contínuo.",
+        "B": "Processo em massa.",
+        "C": "Processo de jobbing (tarefas).",
+        "D": "Processo por projeto."
       },
-      "resposta": "A",
+      "resposta": "C",
       "explicacoes": {
-        "A": "Correto. O PDCA é um ciclo iterativo: Plan (planejar a mudança/hipótese de melhoria), Do (executar em pequena escala), Check (verificar os resultados obtidos) e Act (agir, padronizando a melhoria bem-sucedida ou ajustando o plano), reiniciando o ciclo continuamente — base metodológica do Kaizen.",
-        "B": "A ordem está incorreta; 'Agir' é a última etapa do ciclo, não a primeira, e 'Controlar' não substitui a etapa de 'Verificar' na sequência clássica.",
-        "C": "Essa sequência mistura etapas de outra metodologia (como o DMAIC do Six Sigma: Definir, Medir, Analisar, Melhorar, Controlar) com termos do PDCA, não correspondendo à sequência correta de nenhum dos dois métodos.",
-        "D": "A ordem apresentada inverte as etapas corretas; executar antes de planejar e agir antes de verificar contraria a lógica lógica e sequencial do ciclo PDCA."
+        "A": "Processos contínuos envolvem produção ininterrupta de produtos altamente padronizados (como refino de petróleo), o oposto da alta variedade e baixo volume descritos.",
+        "B": "Produção em massa envolve alto volume e baixa variedade de produtos padronizados, o que não corresponde a pedidos únicos e variados.",
+        "C": "Correto. O processo de jobbing caracteriza-se por alta variedade e baixo volume, com cada item ou pequeno lote seguindo um roteiro próprio pelos recursos da operação, exatamente como ocorre em uma gráfica rápida.",
+        "D": "O processo por projeto envolve empreendimentos únicos de grande escala e recursos organizados especificamente para cada empreendimento, o que não se aplica a pedidos rotineiros de uma gráfica, ainda que variados."
       }
     },
     {
       "numero": 8,
-      "enunciado": "Em controle estatístico de processo (CEP), os gráficos de controle são usados para distinguir entre:",
+      "assunto": "Planejamento de capacidade frente ao crescimento da demanda",
+      "dificuldade": "avançado",
+      "tipo": "quantitativa",
+      "enunciado": "Uma empresa opera atualmente com taxa de utilização de capacidade de 75%, produzindo 15.000 unidades/mês. A demanda prevista para o próximo ano deve crescer 40%. Supondo que a empresa deseje operar com uma taxa de utilização-alvo de 90% em relação à capacidade de projeto, qual deverá ser a capacidade de projeto necessária, em unidades/mês, para atender à nova demanda?",
       "alternativas": {
-        "A": "Clientes satisfeitos e insatisfeitos com o produto final.",
-        "B": "Variação de causas comuns (aleatórias, inerentes ao processo) e variação de causas especiais (assinaláveis, que indicam que o processo saiu de controle estatístico).",
-        "C": "Fornecedores confiáveis e não confiáveis, com base em auditorias de qualidade.",
-        "D": "Produtos aprovados e reprovados em uma inspeção 100% (total) final."
+        "A": "20.000 unidades/mês",
+        "B": "21.000 unidades/mês",
+        "C": "23.333 unidades/mês",
+        "D": "28.000 unidades/mês"
       },
-      "resposta": "B",
+      "resposta": "C",
       "explicacoes": {
-        "A": "Gráficos de controle monitoram variáveis ou atributos do processo produtivo ao longo do tempo, não diretamente a satisfação de clientes.",
-        "B": "Correto. Os limites de controle (geralmente ±3 desvios-padrão) em um gráfico de controle ajudam a identificar se a variação observada é apenas aleatória/natural do processo (causa comum) ou se decorre de um evento identificável que desestabiliza o processo (causa especial), orientando ações corretivas.",
-        "C": "Avaliação de fornecedores é tratada por sistemas de qualificação e auditoria de fornecedores, distintos do propósito estatístico dos gráficos de controle de processo.",
-        "D": "O CEP é uma ferramenta de monitoramento contínuo do processo (amostragem ao longo do tempo), uma alternativa mais eficiente à inspeção 100% no final da linha, e não um mecanismo de inspeção total."
+        "A": "Esse valor é a capacidade de projeto atual (15.000/0,75 = 20.000), que não incorpora o crescimento de 40% da demanda futura.",
+        "B": "Esse valor é apenas a demanda futura (15.000 × 1,40 = 21.000), sem aplicar a taxa de utilização-alvo de 90% exigida para dimensionar a capacidade de projeto.",
+        "C": "Correto. Demanda futura = 15.000 × 1,40 = 21.000 unidades/mês. Capacidade de projeto necessária = demanda futura / utilização-alvo = 21.000/0,90 ≈ 23.333 unidades/mês.",
+        "D": "Esse valor resulta de dividir a demanda futura (21.000) pela taxa de utilização atual (75%), em vez da taxa de utilização-alvo (90%) definida no enunciado."
       }
     },
     {
       "numero": 9,
-      "enunciado": "O planejamento agregado de produção tem como objetivo principal:",
+      "assunto": "Critérios ganhadores e qualificadores de pedidos",
+      "dificuldade": "avançado",
+      "tipo": "analítica",
+      "enunciado": "Uma empresa de manufatura sob encomenda de equipamentos industriais customizados identificou, por meio de pesquisa com clientes, que o prazo de entrega confiável e a capacidade de adaptar especificações técnicas a cada projeto são os fatores que efetivamente conquistam novos contratos frente aos concorrentes, enquanto a certificação ISO 9001 é apenas um requisito mínimo exigido para participar das licitações. Segundo a classificação de Slack, Brandon-Jones e Johnston, a certificação ISO 9001 atua, nesse contexto, como:",
       "alternativas": {
-        "A": "Detalhar a programação diária de cada máquina e operador na fábrica.",
-        "B": "Determinar, em um horizonte de médio prazo, os níveis globais de produção, estoque e mão de obra, equilibrando capacidade agregada com a demanda prevista para uma família de produtos.",
-        "C": "Definir o layout físico definitivo da planta industrial.",
-        "D": "Substituir totalmente a necessidade de previsão de demanda."
+        "A": "Critério ganhador de pedidos (order winner), pois é decisivo na escolha do fornecedor.",
+        "B": "Critério qualificador (order qualifier), pois é condição necessária, mas não suficiente, para que a empresa seja considerada pelos clientes.",
+        "C": "Critério irrelevante, que pode ser eliminado sem qualquer impacto sobre a competitividade da empresa.",
+        "D": "Objetivo de desempenho de custo, equivalente a uma redução direta do preço do produto."
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "O detalhamento diário/por máquina é tratado pela programação de curto prazo (sequenciamento e programação detalhada), um nível de planejamento mais operacional e específico que o planejamento agregado.",
-        "B": "Correto. O planejamento agregado opera em nível de médio prazo (tipicamente alguns meses a um ano), tratando volumes agregados (por família de produtos) de produção, estoque e força de trabalho, buscando o melhor equilíbrio de custo entre diferentes estratégias (nivelamento, acompanhamento, mista) diante da demanda prevista.",
-        "C": "A definição do arranjo físico (layout) é uma decisão de projeto de instalações, distinta e geralmente de prazo mais longo que o planejamento agregado de produção.",
-        "D": "O planejamento agregado depende crucialmente de boas previsões de demanda como insumo de entrada; ele não elimina a necessidade de previsão, mas a utiliza como base."
+        "A": "Critérios ganhadores de pedidos são aqueles que efetivamente diferenciam a empresa e conquistam contratos; no caso descrito, esse papel é exercido pelo prazo de entrega e pela flexibilidade técnica, não pela certificação.",
+        "B": "Correto. Critérios qualificadores estabelecem um patamar mínimo de desempenho exigido para que a empresa sequer seja considerada pelos clientes, sem, contudo, ser o fator decisivo na escolha final — exatamente o papel da certificação ISO 9001 nesse cenário.",
+        "C": "Embora não seja o fator decisivo na escolha do fornecedor, a certificação não é irrelevante: sua ausência eliminaria a empresa da disputa, por ser um requisito mínimo de participação.",
+        "D": "A certificação ISO 9001 refere-se à gestão da qualidade, não sendo equivalente a um objetivo de desempenho de custo ou a uma redução de preço."
       }
     },
     {
       "numero": 10,
-      "enunciado": "Em gestão de projetos, o 'caminho crítico' em uma rede PERT/CPM corresponde a:",
+      "assunto": "Interpretação comparativa do OEE",
+      "dificuldade": "avançado",
+      "tipo": "analítica",
+      "enunciado": "Uma empresa calculou o OEE de duas linhas de produção: a Linha X apresenta disponibilidade de 95%, performance de 95% e qualidade de 95%; a Linha Y apresenta disponibilidade de 70%, performance de 98% e qualidade de 99%. Compare o OEE das duas linhas e assinale a afirmação correta.",
       "alternativas": {
-        "A": "A sequência de atividades com a menor duração total do projeto, podendo ser atrasada livremente sem impacto no prazo final.",
-        "B": "A sequência de atividades interdependentes que determina a duração mínima total do projeto; qualquer atraso em uma atividade dessa sequência atrasa o projeto como um todo (folga igual a zero).",
-        "C": "A atividade isolada de maior custo dentro do orçamento do projeto.",
-        "D": "Uma sequência de atividades opcional, que pode ser eliminada sem alterar o escopo do projeto."
+        "A": "A Linha Y apresenta OEE superior, pois suas taxas de performance e qualidade são mais altas que as da Linha X.",
+        "B": "A Linha X apresenta OEE superior (≈85,7%) ao da Linha Y (≈67,9%), pois o baixo índice de disponibilidade da Linha Y compromete fortemente o resultado multiplicativo do indicador, mesmo com performance e qualidade elevadas.",
+        "C": "As duas linhas apresentam OEE equivalente, pois a média aritmética simples dos três componentes é semelhante nos dois casos.",
+        "D": "É impossível comparar o OEE das duas linhas sem conhecer o volume absoluto de produção de cada uma."
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "O caminho crítico é, ao contrário, a sequência de MAIOR duração entre o início e o fim do projeto (determinando o prazo mínimo possível), e suas atividades têm folga zero, não podendo ser atrasadas sem atrasar o projeto.",
-        "B": "Correto. O caminho crítico é a cadeia de atividades sem folga (tempo de holgura zero) que define a duração mínima do projeto; atrasos em qualquer atividade crítica se propagam diretamente para a data final, por isso recebem atenção prioritária na gestão de projetos.",
-        "C": "O caminho crítico é definido por relações de precedência e duração das atividades (tempo), não pelo custo de uma atividade isolada.",
-        "D": "As atividades do caminho crítico são, por definição, essenciais ao escopo e sequenciamento do projeto; não podem ser eliminadas sem redefinir o próprio projeto e seu prazo."
+        "A": "Embora a Linha Y tenha performance e qualidade individualmente superiores, sua baixa disponibilidade (70%) penaliza fortemente o produto das três taxas, resultando em OEE inferior ao da Linha X.",
+        "B": "Correto. OEE(X) = 0,95 × 0,95 × 0,95 ≈ 85,74%. OEE(Y) = 0,70 × 0,98 × 0,99 ≈ 67,91%. Por ser um indicador multiplicativo, uma única dimensão muito baixa (disponibilidade da Linha Y) reduz desproporcionalmente o resultado global, mesmo com as demais dimensões excelentes.",
+        "C": "O OEE é calculado pela multiplicação das três taxas, e não pela média aritmética; usar a média simples mascara o forte impacto negativo de uma dimensão muito baixa, levando a uma conclusão equivocada.",
+        "D": "O OEE é um indicador percentual relativo (razão entre tempo/produção efetivos e teóricos), que permite comparação direta entre linhas independentemente do volume absoluto de produção."
       }
     }
   ]

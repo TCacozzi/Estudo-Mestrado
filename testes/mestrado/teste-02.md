@@ -1,148 +1,149 @@
-# Ferramentas e Métodos da Qualidade: 7 Ferramentas, PDCA, Six Sigma, CEP e FMEA
+# Ferramentas da Qualidade e Controle Estatístico de Processo (CEP)
 
-**Tópico:** Ferramentas e Métodos da Qualidade  
-**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+**Tópico:** Ferramentas da Qualidade e Controle Estatístico de Processo (CEP)  
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.
+**Dificuldade:** básico 2 · intermediário 5 · avançado 3
 
 ## Questões
 
-**1.** As "sete ferramentas básicas da qualidade", popularizadas por Ishikawa para análise e solução de problemas, incluem:
+**1.** O Controle Estatístico de Processo (CEP) distingue dois tipos de causas de variação em um processo produtivo. Qual par de conceitos descreve corretamente essa distinção? _(básico · conceitual · Causas comuns e especiais de variação)_
 
-- **A)** Fluxograma, diagrama de causa e efeito, folha de verificação, diagrama de Pareto, histograma, diagrama de dispersão e carta (gráfico) de controle
-- **B)** FMEA, QFD, Benchmarking, Brainstorming, 5S, Kanban e Poka-yoke
-- **C)** DMAIC, DMADV, SIPOC, Kaizen, Jidoka, Andon e Gemba
-- **D)** ISO 9001, ISO 14001, ISO 45001, OHSAS 18001, ISO 31000, ISO 26000 e ISO 50001
+- **A)** Causas comuns (aleatórias, inerentes ao processo, sempre presentes) e causas especiais (atribuíveis, identificáveis e, em geral, elimináveis)
+- **B)** Causas internas e causas externas, ambas elimináveis apenas por meio de inspeção final a 100%
+- **C)** Causas sistemáticas e causas aleatórias, sendo a primeira sempre desejável ao processo
+- **D)** Causas de primeira ordem e causas de segunda ordem, classificadas diretamente pelo valor do índice Cpk
 
-**2.** O diagrama de Pareto é construído a partir do princípio de que, em geral, uma pequena parcela das causas é responsável pela maior parte dos efeitos (problema). Esse princípio é frequentemente resumido pela proporção aproximada:
+**2.** No diagrama de causa e efeito (diagrama de Ishikawa ou espinha de peixe), as causas potenciais de um problema de qualidade são tradicionalmente organizadas em categorias conhecidas como os 6M. Qual alternativa apresenta corretamente essas categorias? _(básico · conceitual · Diagrama de Ishikawa (6M))_
 
-- **A)** 50/50, indicando que metade das causas gera metade dos efeitos de forma sempre equilibrada
-- **B)** 80/20, em que aproximadamente 20% das causas respondem por cerca de 80% dos efeitos
-- **C)** 100/0, pois apenas uma única causa deve ser considerada em qualquer análise de Pareto
-- **D)** 20/80, em que 80% das causas são irrelevantes e devem ser imediatamente eliminadas do processo
+- **A)** Método, Mão de obra, Máquina, Material, Medição e Meio ambiente
+- **B)** Mercado, Marca, Margem, Marketing, Meta e Monitoramento
+- **C)** Missão, Modelo, Motivação, Mensagem, Meta e Método
+- **D)** Medição, Meta, Melhoria, Manutenção, Mercado e Material
 
-**3.** No diagrama de causa e efeito (espinha de peixe) aplicado a processos de manufatura, é comum organizar as causas potenciais em categorias conhecidas como os "6M". Essas categorias normalmente incluem:
+**3.** Uma empresa registrou, ao longo de um mês, os seguintes defeitos em seu processo produtivo: Defeito A: 120 ocorrências; Defeito B: 45 ocorrências; Defeito C: 20 ocorrências; Defeito D: 15 ocorrências (total de 200 ocorrências). De acordo com o princípio de Pareto, qual é o percentual cumulativo de ocorrências explicado pelos dois defeitos mais frequentes (A e B)? _(intermediário · quantitativa · Diagrama de Pareto)_
 
-- **A)** Método, Mão de obra, Máquina, Material, Medida e Meio ambiente
-- **B)** Marketing, Mercado, Margem, Moeda, Monopólio e Macroeconomia
-- **C)** Missão, Metas, Métricas, Motivação, Mentoria e Melhoria
-- **D)** Medir, Mapear, Modelar, Monitorar, Manter e Maximizar
+- **A)** 82,5%
+- **B)** 60,0%
+- **C)** 92,5%
+- **D)** 22,5%
 
-**4.** O ciclo PDCA é amplamente utilizado como método estruturado de melhoria contínua. As quatro etapas do PDCA, nessa ordem, são:
+**4.** Um processo de enchimento de embalagens tem média histórica μ = 500 g e desvio-padrão populacional σ = 5 g. Amostras de tamanho n = 25 são coletadas periodicamente para construção de uma carta de controle X-barra com limites de 3 sigma. Qual é o limite superior de controle (LSC) dessa carta? _(intermediário · quantitativa · Limites de controle da carta X-barra)_
 
-- **A)** Planejar (Plan), Executar (Do), Verificar (Check) e Agir (Act)
-- **B)** Definir, Medir, Analisar e Melhorar
-- **C)** Padronizar, Documentar, Certificar e Auditar
-- **D)** Priorizar, Diagnosticar, Corrigir e Arquivar
+- **A)** 503 g
+- **B)** 515 g
+- **C)** 500,6 g
+- **D)** 497 g
 
-**5.** Deming, em fases posteriores de seu trabalho, passou a preferir a sigla PDSA em vez de PDCA. Qual é a principal diferença conceitual entre essas duas versões?
+**5.** Um processo de usinagem de um eixo possui especificação de diâmetro com limite superior (LSE) de 50,30 mm e limite inferior (LIE) de 49,70 mm. O desvio-padrão do processo é σ = 0,08 mm. Considerando que um processo é tido como adequadamente capaz quando Cp ≥ 1,33, qual é o valor do índice Cp e a conclusão correta? _(intermediário · quantitativa · Índice de capacidade Cp)_
 
-- **A)** PDSA substitui "Check" (Verificar) por "Study" (Estudar), enfatizando a análise profunda e o aprendizado a partir dos dados obtidos, e não apenas a conferência de conformidade
-- **B)** PDSA elimina completamente a etapa de planejamento, pois considera que a ação deve ser imediata
-- **C)** PDSA é um método exclusivo para auditorias de certificação ISO 9001, sem relação com melhoria de processos
-- **D)** PDSA e PDCA são métodos totalmente distintos, sendo o PDSA aplicado apenas em processos financeiros
+- **A)** Cp = 1,25; o processo não atinge o padrão de capacidade adequada (Cp < 1,33)
+- **B)** Cp = 0,80; o processo está fora de controle estatístico
+- **C)** Cp = 2,50; o processo é amplamente capaz
+- **D)** Cp = 7,50; o processo é excessivamente capaz, indicando superdimensionamento da tolerância
 
-**6.** O Six Sigma utiliza a metodologia estruturada DMAIC para melhoria de processos existentes. A sequência correta das etapas do DMAIC é:
+**6.** Em um processo de usinagem, o diâmetro de uma peça tem especificação entre LIE = 19,90 mm e LSE = 20,10 mm. A média real do processo está deslocada para μ = 19,95 mm, com desvio-padrão σ = 0,02 mm. Qual é o valor do índice Cpk desse processo? _(avançado · quantitativa · Índice de capacidade Cpk)_
 
-- **A)** Definir, Medir, Analisar, Melhorar (Improve) e Controlar
-- **B)** Diagnosticar, Mapear, Auditar, Implementar e Comunicar
-- **C)** Desenhar, Modelar, Aprovar, Instalar e Certificar
-- **D)** Detectar, Mitigar, Ajustar, Inspecionar e Concluir
+- **A)** 0,83
+- **B)** 2,50
+- **C)** 1,67
+- **D)** 1,25
 
-**7.** No Controle Estatístico de Processo (CEP), as cartas de controle são usadas para distinguir dois tipos de variação em um processo. Essa distinção fundamental, atribuída a Shewhart, é entre:
+**7.** Em uma análise de Modos de Falha e Efeitos (FMEA), um modo de falha recebeu as seguintes notas em escalas de 1 a 10: Severidade = 7, Ocorrência = 6, Detecção = 4. Qual é o Número de Prioridade de Risco (NPR) desse modo de falha? _(intermediário · quantitativa · FMEA — Número de Prioridade de Risco (NPR))_
 
-- **A)** Variação de causas comuns (aleatórias, inerentes ao sistema) e variação de causas especiais (atribuíveis, assinaláveis, que indicam alteração no processo)
-- **B)** Variação positiva e variação negativa, que se cancelam sempre em média zero
-- **C)** Variação interna (dentro da empresa) e variação externa (causada apenas por fornecedores)
-- **D)** Variação de primeira ordem e variação de segunda ordem, conceitos exclusivos da contabilidade de custos
+- **A)** 168
+- **B)** 17
+- **C)** 42
+- **D)** 28
 
-**8.** O FMEA (Failure Mode and Effects Analysis - Análise de Modos de Falha e Efeitos) é uma ferramenta de análise de risco usada para priorizar ações preventivas. O Número de Prioridade de Risco (NPR) é calculado como:
+**8.** Em uma análise FMEA de um processo de soldagem, dois modos de falha foram avaliados em escalas de 1 a 10: Modo de Falha I — Severidade = 9, Ocorrência = 3, Detecção = 3; Modo de Falha II — Severidade = 4, Ocorrência = 7, Detecção = 5. Calculando o NPR de cada modo, qual conclusão é mais adequada do ponto de vista da gestão de riscos? _(avançado · analítica · FMEA — priorização de riscos)_
 
-- **A)** A soma de Severidade, Ocorrência e Detecção
-- **B)** O produto (multiplicação) entre Severidade, Ocorrência e Detecção
-- **C)** A média aritmética entre custo de prevenção e custo de falha
-- **D)** A razão entre o número de defeitos encontrados e o número total de unidades produzidas
+- **A)** O NPR do Modo II (140) é maior que o do Modo I (81); portanto, o Modo II deve sempre ter prioridade absoluta, independentemente de qualquer outro critério
+- **B)** Apesar de o NPR do Modo II (140) ser maior que o do Modo I (81), a altíssima severidade do Modo I (9) indica um risco potencialmente crítico que não deve ser negligenciado apenas com base no NPR, recomendando-se atenção especial a esse modo de falha
+- **C)** O NPR do Modo I (81) é maior que o do Modo II (140), devendo o Modo I ser tratado com prioridade máxima
+- **D)** Como ambos os NPRs são inferiores a 150, nenhum dos dois modos de falha requer qualquer ação corretiva
 
-**9.** O histograma, uma das sete ferramentas básicas da qualidade, é utilizado principalmente para:
+**9.** Uma equipe de melhoria contínua, seguindo a metodologia Six Sigma, já definiu formalmente o problema e mensurou o desempenho atual do processo de atendimento ao cliente (tempo médio de espera). Em seguida, a equipe aplicou o diagrama de Ishikawa e testes de hipótese estatísticos para identificar as causas-raiz da variabilidade no tempo de espera. Essa atividade corresponde a qual fase do ciclo DMAIC? _(intermediário · aplicação · Metodologia DMAIC (Six Sigma))_
 
-- **A)** Mapear a sequência cronológica de etapas de um processo produtivo
-- **B)** Representar graficamente a distribuição de frequências de um conjunto de dados, permitindo visualizar sua forma, dispersão e tendência central
-- **C)** Identificar relações de causa e efeito entre um problema e suas possíveis origens
-- **D)** Registrar, em tempo real, se um processo está dentro ou fora dos limites de controle estatístico
+- **A)** Define (Definir)
+- **B)** Measure (Medir)
+- **C)** Analyze (Analisar)
+- **D)** Improve (Melhorar)
 
-**10.** Um analista da qualidade deseja investigar se existe relação entre a temperatura de um forno e a taxa de defeitos em peças cerâmicas. Dentre as sete ferramentas básicas da qualidade, a mais adequada para essa análise inicial é:
+**10.** Em uma carta de controle X-barra, nenhum ponto ultrapassou os limites de controle (LSC/LIC), mas um analista observa uma sequência de nove pontos consecutivos situados do mesmo lado da linha central. De acordo com as regras complementares de interpretação de cartas de controle (regras de Western Electric/Nelson), essa configuração deve ser interpretada como: _(avançado · analítica · Interpretação de cartas de controle)_
 
-- **A)** A folha de verificação, pois seu único objetivo é contar defeitos sem relacioná-los a outras variáveis
-- **B)** O diagrama de dispersão, que permite visualizar graficamente a possível relação (correlação) entre duas variáveis quantitativas
-- **C)** O fluxograma, pois mapeia apenas a sequência de etapas do processo produtivo, sem tratar de variáveis numéricas
-- **D)** A carta de controle, que serve exclusivamente para calcular custos da qualidade
+- **A)** Evidência inequívoca de processo sob controle estatístico, já que nenhum ponto ultrapassou os limites de 3 sigma
+- **B)** Indício de uma possível causa especial de variação (deslocamento sistemático do processo), mesmo sem violação dos limites de 3 sigma, justificando investigação
+- **C)** Um erro de medição que deve ser ignorado, pois cartas de controle só sinalizam causas especiais quando há pontos fora dos limites
+- **D)** Sinal de que os limites de controle foram calculados incorretamente e devem ser recalculados imediatamente
 
 ## Gabarito e explicações
 
 **1. Resposta: A**
 
-- ✅ **A)** Correta. As sete ferramentas básicas da qualidade são: fluxograma (mapeamento do processo), diagrama de causa e efeito (espinha de peixe), folha de verificação (coleta estruturada de dados), diagrama de Pareto (priorização por frequência/impacto), histograma (distribuição de frequências), diagrama de dispersão (relação entre variáveis) e carta de controle (monitoramento da variação do processo ao longo do tempo).
-- ❌ **B)** Incorreta. Esses itens são técnicas e métodos de qualidade e gestão, porém mais avançados ou de natureza distinta (FMEA é análise de risco, QFD é desdobramento da função qualidade, 5S é organização do ambiente de trabalho etc.), e não compõem o conjunto clássico das sete ferramentas básicas.
-- ❌ **C)** Incorreta. Esses são elementos do Six Sigma, Lean Manufacturing e Sistema Toyota de Produção, não as sete ferramentas básicas da qualidade sistematizadas por Ishikawa.
-- ❌ **D)** Incorreta. Essas são normas de sistemas de gestão (qualidade, meio ambiente, saúde e segurança, risco, responsabilidade social, energia), e não ferramentas de análise estatística ou de solução de problemas.
+- ✅ **A)** Correta. Shewhart e Deming distinguem causas comuns (variação aleatória, natural e inerente ao sistema, presente mesmo quando o processo está sob controle) de causas especiais (variação atribuível a fatores identificáveis e não aleatórios, como falha de equipamento ou erro operacional, que podem e devem ser eliminadas).
+- ❌ **B)** Incorreta. Essa classificação não corresponde à terminologia do CEP; além disso, a inspeção final a 100% é uma abordagem de detecção, e não de prevenção ou eliminação das causas de variação.
+- ❌ **C)** Incorreta. Nenhuma causa de variação é 'sempre desejável'; causas comuns indicam estabilidade estatística do processo, mas ainda assim representam variação a ser reduzida ao longo do tempo, não um objetivo em si.
+- ❌ **D)** Incorreta. O índice Cpk mede a capacidade do processo em relação às especificações, mas não classifica tipos de causas de variação; essa nomenclatura ('primeira e segunda ordem') não é usada no CEP clássico.
 
-**2. Resposta: B**
+**2. Resposta: A**
 
-- ❌ **A)** Incorreta. A ideia central do princípio de Pareto é justamente a desproporção entre causas e efeitos, e não um equilíbrio simétrico de 50/50.
-- ✅ **B)** Correta. O princípio de Pareto (também chamado regra 80/20, derivado dos estudos de Vilfredo Pareto e popularizado na qualidade por Juran como 'os poucos vitais e os muitos triviais') sugere que uma proporção pequena das causas (tipicamente em torno de 20%) é responsável pela maior parte dos efeitos ou problemas (tipicamente em torno de 80%), orientando a priorização de esforços de melhoria.
-- ❌ **C)** Incorreta. O diagrama de Pareto normalmente evidencia múltiplas causas ordenadas por frequência ou impacto, e não uma única causa isolada; o objetivo é priorizar, não eliminar a análise das demais causas.
-- ❌ **D)** Incorreta. Essa proporção está invertida e mal interpretada: não se trata de que 80% das causas sejam irrelevantes, mas sim que uma minoria das causas (cerca de 20%) concentra a maior parte do impacto, o que não significa que as demais devam ser descartadas sem análise.
+- ✅ **A)** Correta. As seis categorias clássicas (6M) usadas para organizar as causas potenciais no diagrama de Ishikawa são: Método, Mão de obra, Máquina, Material, Medição e Meio ambiente, cobrindo as principais fontes de variação em processos produtivos.
+- ❌ **B)** Incorreta. Esses termos remetem a conceitos de marketing e gestão estratégica, não às categorias padronizadas do diagrama de causa e efeito.
+- ❌ **C)** Incorreta. Esses termos não compõem nenhuma classificação padronizada de ferramentas da qualidade; parecem conceitos de planejamento estratégico, não de análise de causa-raiz.
+- ❌ **D)** Incorreta. Embora 'Medição' e 'Material' estejam corretos, os demais termos não fazem parte da classificação padrão dos 6M, que não inclui 'Meta', 'Melhoria' ou 'Mercado'.
 
 **3. Resposta: A**
 
-- ✅ **A)** Correta. As categorias clássicas dos 6M usadas no diagrama de Ishikawa em contextos de manufatura são Método (procedimentos), Mão de obra (pessoas), Máquina (equipamentos), Material (insumos), Medida (sistemas de medição) e Meio ambiente (condições ambientais/contexto), servindo como guia para brainstorming estruturado de causas potenciais de um problema.
-- ❌ **B)** Incorreta. Esses termos pertencem ao vocabulário de marketing e economia, não às categorias de causas utilizadas na análise de causa e efeito da qualidade.
-- ❌ **C)** Incorreta. Embora pareçam termos de gestão, essas categorias não correspondem à estrutura padronizada dos 6M utilizada no diagrama de Ishikawa.
-- ❌ **D)** Incorreta. Esses verbos descrevem ações genéricas de gestão de processos, mas não constituem as categorias de causas (substantivos) tradicionalmente usadas no diagrama de causa e efeito.
+- ✅ **A)** Correta. Somando as ocorrências dos dois defeitos mais frequentes: 120 + 45 = 165. O percentual cumulativo é 165/200 = 0,825, ou seja, 82,5% do total de defeitos é explicado pelos dois tipos mais frequentes, ilustrando o princípio de Pareto (poucos tipos de causa respondem pela maior parte dos efeitos).
+- ❌ **B)** Incorreta. 60,0% corresponde a considerar apenas o Defeito A isoladamente (120/200 = 0,60), sem somar o segundo defeito mais frequente (B), conforme pedido no enunciado.
+- ❌ **C)** Incorreta. 92,5% seria obtido somando-se três defeitos (A + B + C = 185; 185/200 = 0,925), e não apenas os dois mais frequentes solicitados na questão.
+- ❌ **D)** Incorreta. 22,5% corresponde à participação isolada do Defeito B (45/200 = 0,225), não ao percentual cumulativo de A e B somados.
 
 **4. Resposta: A**
 
-- ✅ **A)** Correta. O PDCA é composto por quatro etapas cíclicas: Planejar (definir o problema, metas e plano de ação), Executar (implementar o plano, preferencialmente em pequena escala), Verificar/Checar (avaliar os resultados obtidos frente ao planejado) e Agir (padronizar o que funcionou ou corrigir e reiniciar o ciclo), formando um processo contínuo de aprendizado e melhoria.
-- ❌ **B)** Incorreta. Definir, Medir, Analisar e Melhorar são as quatro primeiras etapas do DMAIC (Six Sigma), que ainda possui uma quinta etapa, Controlar; não correspondem às etapas do PDCA.
-- ❌ **C)** Incorreta. Esses termos descrevem atividades relacionadas a sistemas de gestão da qualidade e certificação (como ISO 9001), mas não são as etapas formais do ciclo PDCA.
-- ❌ **D)** Incorreta. Essa sequência não corresponde à estrutura clássica e amplamente consolidada do PDCA (Plan-Do-Check-Act).
+- ✅ **A)** Correta. O desvio-padrão da média amostral é σ_X̄ = σ/√n = 5/√25 = 5/5 = 1 g. O limite superior de controle é LSC = μ + 3·σ_X̄ = 500 + 3(1) = 503 g.
+- ❌ **B)** Incorreta. Esse valor usa o desvio-padrão individual σ = 5 diretamente (500 + 3×5 = 515), sem dividir por √n, erro comum ao confundir a variabilidade de valores individuais com a variabilidade da média amostral.
+- ❌ **C)** Incorreta. Esse valor resulta de dividir σ por n em vez de √n (5/25 = 0,2), levando a LSC = 500 + 3(0,2) = 500,6 g, o que subestima a amplitude real dos limites de controle.
+- ❌ **D)** Incorreta. 497 g corresponde ao limite inferior de controle (LIC = μ − 3·σ_X̄ = 500 − 3 = 497 g), não ao limite superior solicitado na questão.
 
 **5. Resposta: A**
 
-- ✅ **A)** Correta. Deming passou a defender o termo "Study" (Estudar) no lugar de "Check" (Verificar) para enfatizar que essa etapa não deveria ser uma simples checagem de conformidade, mas um estudo aprofundado dos dados e resultados obtidos, extraindo aprendizados (inclusive inesperados) que alimentassem o ciclo seguinte de melhoria, reforçando a natureza científica e de aprendizagem contínua do método.
-- ❌ **B)** Incorreta. O PDSA mantém as quatro etapas (Plan, Do, Study, Act); nenhuma etapa é eliminada, e o planejamento continua sendo essencial ao método.
-- ❌ **C)** Incorreta. O PDSA é um método geral de melhoria contínua e aprendizagem organizacional, aplicável a qualquer processo, e não uma ferramenta restrita a auditorias de certificação.
-- ❌ **D)** Incorreta. PDSA e PDCA compartilham a mesma lógica cíclica de melhoria contínua, diferindo essencialmente na ênfase dada à terceira etapa (estudo versus verificação), e ambos são aplicáveis a qualquer tipo de processo, não apenas financeiro.
+- ✅ **A)** Correta. Cp = (LSE − LIE) / (6σ) = (50,30 − 49,70) / (6 × 0,08) = 0,60 / 0,48 = 1,25. Como 1,25 < 1,33, o processo é considerado apenas marginalmente capaz, não atingindo o padrão usual de capacidade adequada.
+- ❌ **B)** Incorreta. 0,80 resulta de inverter a razão (0,48/0,60), e além disso Cp não é um indicador de 'processo fora de controle' — essa avaliação é feita por cartas de controle, não pelo índice de capacidade.
+- ❌ **C)** Incorreta. 2,50 seria obtido usando 3σ no denominador em vez de 6σ (0,60/0,24 = 2,5), erro comum de confundir a amplitude de especificação com apenas metade da variabilidade do processo.
+- ❌ **D)** Incorreta. 7,50 resulta de dividir a tolerância diretamente por σ, sem multiplicar o desvio-padrão por 6 (0,60/0,08 = 7,5), ignorando a definição correta do índice Cp.
 
 **6. Resposta: A**
 
-- ✅ **A)** Correta. O DMAIC (Define, Measure, Analyze, Improve, Control) é a metodologia central do Six Sigma para melhoria de processos já existentes: Definir o problema e os requisitos do cliente, Medir o desempenho atual do processo, Analisar as causas-raiz da variação/defeitos, Melhorar o processo implementando soluções, e Controlar os ganhos obtidos ao longo do tempo, frequentemente por meio de cartas de controle estatístico.
-- ❌ **B)** Incorreta. Esses termos não correspondem à sigla consolidada do DMAIC nem à sequência metodológica reconhecida internacionalmente no Six Sigma.
-- ❌ **C)** Incorreta. Essa sequência se assemelha mais a etapas genéricas de um projeto de engenharia ou implantação de sistema do que à estrutura específica do DMAIC (o DMADV, usado para desenhar novos processos/produtos no Six Sigma, seria a variante mais próxima, mas com outra nomenclatura: Define, Measure, Analyze, Design, Verify).
-- ❌ **D)** Incorreta. Essas etapas não correspondem à terminologia nem à lógica formal do DMAIC.
+- ✅ **A)** Correta. Cpk = mín[(LSE − μ)/(3σ) ; (μ − LIE)/(3σ)]. Calculando: (20,10 − 19,95)/(3×0,02) = 0,15/0,06 = 2,50; e (19,95 − 19,90)/(3×0,02) = 0,05/0,06 ≈ 0,83. O Cpk é o menor dos dois valores, portanto Cpk ≈ 0,83, refletindo a proximidade da média em relação ao limite inferior de especificação.
+- ❌ **B)** Incorreta. 2,50 é o resultado do lado com maior folga (em relação ao LSE), mas o Cpk deve considerar o pior caso (o lado mais próximo da especificação), e não o valor mais favorável.
+- ❌ **C)** Incorreta. 1,67 corresponde ao índice Cp (que não considera o deslocamento da média): Cp = (20,10 − 19,90)/(6×0,02) = 0,20/0,12 ≈ 1,67. Esse valor confunde capacidade potencial (Cp) com capacidade real considerando a centralização (Cpk).
+- ❌ **D)** Incorreta. 1,25 resulta de usar 2σ em vez de 3σ no denominador (0,05/0,04 = 1,25), o que não corresponde à fórmula correta do índice Cpk.
 
 **7. Resposta: A**
 
-- ✅ **A)** Correta. Shewhart distinguiu variação de causas comuns (chance causes), que é aleatória, previsível estatisticamente e inerente ao próprio sistema/processo, de variação de causas especiais (assignable causes), que são anomalias identificáveis (uma máquina desregulada, um lote de material defeituoso etc.) e sinalizam que o processo está fora de controle estatístico, exigindo investigação e ação corretiva específica. As cartas de controle, com seus limites (tipicamente ±3 desvios-padrão), ajudam a identificar quando causas especiais estão presentes.
-- ❌ **B)** Incorreta. A distinção central do CEP não é sobre o sinal (positivo/negativo) da variação, mas sobre sua natureza (aleatória/comum versus atribuível/especial); variações positivas e negativas de causas comuns ocorrem naturalmente e não necessariamente se cancelam de forma determinística em cada período.
-- ❌ **C)** Incorreta. A distinção entre causas comuns e especiais não se refere à origem organizacional (interna/externa), mas à natureza estatística da variação; tanto causas internas quanto externas podem ser comuns ou especiais.
-- ❌ **D)** Incorreta. Essa terminologia (primeira/segunda ordem) não é a utilizada no CEP; é uma formulação que não corresponde ao vocabulário consolidado de controle estatístico de processo.
+- ✅ **A)** Correta. O NPR é calculado pelo produto dos três fatores: NPR = Severidade × Ocorrência × Detecção = 7 × 6 × 4 = 168.
+- ❌ **B)** Incorreta. 17 resulta da soma dos três fatores (7 + 6 + 4 = 17) em vez do produto, erro conceitual comum, já que o NPR é definido multiplicativamente, não aditivamente.
+- ❌ **C)** Incorreta. 42 considera apenas o produto entre Severidade e Ocorrência (7 × 6), ignorando o fator Detecção.
+- ❌ **D)** Incorreta. 28 considera apenas o produto entre Ocorrência e Detecção (6 × 4), ignorando o fator Severidade.
 
 **8. Resposta: B**
 
-- ❌ **A)** Incorreta. O NPR não é calculado por soma; a fórmula padrão do FMEA é multiplicativa, o que faz com que uma nota muito alta em qualquer um dos três critérios eleve significativamente a prioridade do modo de falha, o que a soma não capturaria da mesma forma.
-- ✅ **B)** Correta. O Número de Prioridade de Risco (NPR, ou RPN em inglês) é obtido pelo produto NPR = Severidade × Ocorrência × Detecção, onde cada critério é geralmente pontuado em uma escala (por exemplo, de 1 a 10). Quanto maior o NPR, maior a prioridade para ação preventiva ou corretiva sobre aquele modo de falha específico.
-- ❌ **C)** Incorreta. Isso descreveria um cálculo relacionado a custos da qualidade (prevenção versus falhas), que é um conceito distinto, associado à gestão de custos da qualidade, não ao cálculo do NPR no FMEA.
-- ❌ **D)** Incorreta. Essa razão descreveria uma taxa de defeituosos (por exemplo, usada em CEP ou indicadores de qualidade), não o Número de Prioridade de Risco do FMEA, que depende de avaliações qualitativas de severidade, ocorrência e detecção.
+- ❌ **A)** Incorreta. Embora o NPR do Modo II seja de fato maior (4×7×5 = 140 contra 9×3×3 = 81 do Modo I), usar o NPR como critério absoluto e único de priorização é uma limitação reconhecida do método: ele pode mascarar riscos de altíssima severidade combinados com baixa ocorrência/alta detecção.
+- ✅ **B)** Correta. NPR(I) = 9×3×3 = 81 e NPR(II) = 4×7×5 = 140. Embora o NPR do Modo II seja numericamente maior, boas práticas de FMEA (como as diretrizes AIAG/VDA) recomendam que modos de falha com severidade muito alta (próxima de 9 ou 10) recebam atenção prioritária independentemente do NPR, pois podem representar riscos críticos de segurança ou de falha catastrófica, não capturados adequadamente apenas pelo produto dos três fatores.
+- ❌ **C)** Incorreta. Essa alternativa inverte os valores corretos: o NPR do Modo I é 81, e o do Modo II é 140; portanto, a afirmação de que o NPR do Modo I seria maior está matematicamente incorreta.
+- ❌ **D)** Incorreta. Não existe um limiar universal de NPR abaixo do qual nenhuma ação é necessária; além disso, a severidade 9 do Modo I, isoladamente, já costuma justificar avaliação e, possivelmente, ação preventiva ou controles adicionais.
 
-**9. Resposta: B**
+**9. Resposta: C**
 
-- ❌ **A)** Incorreta. Mapear a sequência cronológica de etapas de um processo é a função do fluxograma, não do histograma.
-- ✅ **B)** Correta. O histograma é um gráfico de barras que representa a distribuição de frequências de uma variável contínua (como dimensões de peças, tempos de processo etc.), permitindo visualizar a forma da distribuição (simétrica, assimétrica, bimodal), sua dispersão e sua tendência central, auxiliando na análise da capacidade e do comportamento do processo.
-- ❌ **C)** Incorreta. Identificar relações de causa e efeito é a função do diagrama de causa e efeito (espinha de peixe), não do histograma.
-- ❌ **D)** Incorreta. Monitorar em tempo real se um processo está dentro ou fora dos limites estatísticos é a função da carta (gráfico) de controle, não do histograma, que normalmente analisa dados de um período já coletado, sem a dimensão temporal sequencial explícita.
+- ❌ **A)** Incorreta. A fase Define já foi concluída no enunciado (definição formal do problema), sendo anterior à investigação de causas-raiz descrita na questão.
+- ❌ **B)** Incorreta. A fase Measure também já foi concluída (mensuração do desempenho atual), antecedendo a etapa de identificação de causas descrita no cenário.
+- ✅ **C)** Correta. A fase Analyze (Analisar) do DMAIC tem como objetivo identificar e validar estatisticamente as causas-raiz da variabilidade ou do problema, utilizando ferramentas como o diagrama de causa e efeito, testes de hipótese e análise de dados — exatamente o que a equipe realizou.
+- ❌ **D)** Incorreta. A fase Improve (Melhorar) ocorre após a identificação das causas-raiz, quando são propostas, testadas e implementadas soluções para eliminá-las; no cenário descrito, a equipe ainda está identificando as causas, não implementando soluções.
 
 **10. Resposta: B**
 
-- ❌ **A)** Incorreta. A folha de verificação é útil para coletar dados de forma estruturada (por exemplo, contagem de tipos de defeito), mas não é a ferramenta voltada a analisar a relação entre duas variáveis quantitativas como temperatura e taxa de defeitos.
-- ✅ **B)** Correta. O diagrama de dispersão (scatter plot) é a ferramenta indicada para investigar visualmente se existe uma relação (correlação positiva, negativa ou ausência de relação) entre duas variáveis quantitativas, como temperatura do forno e taxa de defeitos, sendo um passo inicial comum antes de análises estatísticas mais formais (como regressão).
-- ❌ **C)** Incorreta. O fluxograma de fato mapeia a sequência de etapas do processo, mas não é a ferramenta adequada para analisar a relação numérica entre duas variáveis contínuas.
-- ❌ **D)** Incorreta. A carta de controle serve para monitorar a variação de um processo ao longo do tempo em relação a limites estatísticos, e não para calcular custos da qualidade nem para analisar a correlação entre duas variáveis distintas.
+- ❌ **A)** Incorreta. Estar dentro dos limites de 3 sigma é condição necessária, mas não suficiente, para considerar o processo sob controle; padrões não aleatórios, como longas sequências (runs) do mesmo lado da linha central, também sinalizam causas especiais.
+- ✅ **B)** Correta. As regras complementares de interpretação de cartas de controle (como as regras de Nelson/Western Electric) consideram que uma sequência longa de pontos consecutivos do mesmo lado da linha central (tipicamente 8 ou 9 pontos) é estatisticamente improvável sob variação puramente aleatória, sinalizando um possível deslocamento sistemático da média do processo (causa especial), mesmo sem violação dos limites de 3 sigma.
+- ❌ **C)** Incorreta. Cartas de controle são projetadas justamente para identificar padrões não aleatórios além das violações de limite; ignorar esse tipo de sinal contraria o propósito analítico do CEP.
+- ❌ **D)** Incorreta. Uma sequência de pontos do mesmo lado da linha central não indica, por si só, erro no cálculo dos limites; é um padrão a ser investigado quanto à causa-raiz, e não uma falha de cálculo estatístico.

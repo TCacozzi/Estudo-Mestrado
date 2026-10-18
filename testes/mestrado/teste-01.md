@@ -1,74 +1,75 @@
 # Fundamentos e Evolução da Qualidade: Gurus, Conceitos e TQM
 
 **Tópico:** Fundamentos e Evolução da Qualidade  
-**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.
+**Dificuldade:** básico 3 · intermediário 5 · avançado 2
 
 ## Questões
 
-**1.** William Edwards Deming é associado a uma visão estatística e sistêmica da qualidade, tendo popularizado no Japão pós-guerra um ciclo de melhoria contínua originalmente proposto por Walter Shewhart. Esse ciclo é conhecido como:
+**1.** William Edwards Deming é associado a uma visão estatística e sistêmica da qualidade, tendo popularizado no Japão pós-guerra um ciclo de melhoria contínua originalmente proposto por Walter Shewhart. Esse ciclo é conhecido como: _(básico · conceitual · Ciclo PDCA e Deming)_
 
 - **A)** Ciclo PDCA (Plan-Do-Check-Act), também chamado de ciclo de Shewhart ou ciclo de Deming
 - **B)** Trilogia da Qualidade (Planejamento, Controle e Melhoria)
 - **C)** Os 14 pontos para a gestão, que substituem qualquer ferramenta estatística
 - **D)** O método dos Zero Defeitos, baseado em metas comportamentais
 
-**2.** Joseph Juran definiu qualidade de forma pragmática como "adequação ao uso" (fitness for use) e estruturou a gestão da qualidade em três processos gerenciais inter-relacionados. Esse modelo é conhecido como:
+**2.** Joseph Juran definiu qualidade de forma pragmática como "adequação ao uso" (fitness for use) e estruturou a gestão da qualidade em três processos gerenciais inter-relacionados. Esse modelo é conhecido como: _(básico · conceitual · Trilogia de Juran)_
 
 - **A)** Os quatro absolutos da qualidade
 - **B)** A Trilogia de Juran: Planejamento da Qualidade, Controle da Qualidade e Melhoria da Qualidade
 - **C)** O Total Quality Control (TQC)
 - **D)** O diagrama de causa e efeito
 
-**3.** Philip Crosby ficou conhecido por afirmar que "a qualidade é gratuita" (quality is free), argumentando que o investimento em prevenção é compensado pela redução de custos de falhas. Qual conceito está mais diretamente associado à sua abordagem?
+**3.** Philip Crosby ficou conhecido por afirmar que "a qualidade é gratuita" (quality is free), argumentando que o investimento em prevenção é compensado pela redução de custos de falhas. Qual conceito está mais diretamente associado à sua abordagem? _(básico · conceitual · Crosby e Zero Defeitos)_
 
 - **A)** Controle Estatístico de Processo (CEP) como base exclusiva da qualidade
 - **B)** Círculos de Controle da Qualidade (CCQ) como unidade central do programa
 - **C)** Zero Defeitos e conformidade com os requisitos como padrão de desempenho
 - **D)** A hierarquia dos 9Rs para gestão de resíduos
 
-**4.** Kaoru Ishikawa é reconhecido por difundir ferramentas simples e acessíveis a todos os níveis da organização, incluindo operários, para análise e solução de problemas de qualidade. Duas de suas principais contribuições são:
+**4.** Kaoru Ishikawa é reconhecido por difundir ferramentas simples e acessíveis a todos os níveis da organização, incluindo operários, para análise e solução de problemas de qualidade. Duas de suas principais contribuições são: _(intermediário · conceitual · Ishikawa e CCQ)_
 
 - **A)** O diagrama de causa e efeito (espinha de peixe) e os Círculos de Controle da Qualidade (CCQ)
 - **B)** A matriz FMEA e o diagrama de dispersão
 - **C)** Os 14 pontos para a gestão e a reação em cadeia da qualidade
 - **D)** O conceito de custo da má qualidade (COPQ) e os quatro absolutos
 
-**5.** Armand Feigenbaum cunhou o termo Total Quality Control (TQC), defendendo que a qualidade não poderia ser responsabilidade exclusiva de um departamento. Qual é a ideia central dessa abordagem?
+**5.** Armand Feigenbaum cunhou o termo Total Quality Control (TQC), defendendo que a qualidade não poderia ser responsabilidade exclusiva de um departamento. Qual é a ideia central dessa abordagem? _(intermediário · conceitual · Feigenbaum e TQC)_
 
 - **A)** A qualidade deve ser garantida apenas pela inspeção final realizada pelo departamento de controle de qualidade
 - **B)** A qualidade é responsabilidade de todos os departamentos e funções da organização, exigindo coordenação sistêmica ao longo de todo o ciclo do produto
 - **C)** A qualidade é determinada exclusivamente pela conformidade estatística dos processos de manufatura
 - **D)** A qualidade deve ser medida apenas após a entrega do produto ao cliente, por meio de pesquisas de satisfação
 
-**6.** David Garvin propôs uma visão histórica da evolução da gestão da qualidade em eras sucessivas. Qual sequência representa corretamente essa evolução, do estágio mais antigo ao mais recente?
+**6.** David Garvin propôs uma visão histórica da evolução da gestão da qualidade em eras sucessivas. Qual sequência representa corretamente essa evolução, do estágio mais antigo ao mais recente? _(intermediário · analítica · Eras da Qualidade (Garvin))_
 
 - **A)** Gestão Estratégica da Qualidade → Garantia da Qualidade → Controle Estatístico → Inspeção
 - **B)** Inspeção → Controle Estatístico da Qualidade → Garantia da Qualidade → Gestão Estratégica da Qualidade
 - **C)** Controle Estatístico → Inspeção → Gestão Estratégica da Qualidade → Garantia da Qualidade
 - **D)** Garantia da Qualidade → Inspeção → Gestão Estratégica da Qualidade → Controle Estatístico
 
-**7.** A Gestão da Qualidade Total (TQM - Total Quality Management) é frequentemente descrita por um conjunto de princípios centrais. Qual das alternativas reúne corretamente princípios amplamente associados ao TQM?
+**7.** Uma empresa decide reestruturar sua gestão da qualidade por meio de um programa que enfatiza o foco no cliente interno e externo, o envolvimento e a capacitação dos colaboradores em todos os níveis hierárquicos, a melhoria contínua dos processos e a tomada de decisão baseada em dados e fatos, em vez de opiniões isoladas. Esse programa está alinhado aos princípios de qual abordagem de gestão? _(intermediário · aplicação · Princípios do TQM)_
 
-- **A)** Foco exclusivo em metas financeiras de curto prazo e centralização das decisões na alta direção
-- **B)** Foco no cliente, melhoria contínua, envolvimento e comprometimento de todos os colaboradores, e gestão baseada em processos
-- **C)** Ênfase exclusiva na certificação ISO 9001 como único mecanismo de melhoria
-- **D)** Priorização da inspeção final como principal mecanismo de garantia da qualidade
+- **A)** Gestão da Qualidade Total (TQM), caracterizada por foco no cliente, melhoria contínua, envolvimento das pessoas e gestão baseada em processos e fatos
+- **B)** Inspeção final centralizada, caracterizada pela concentração das decisões de qualidade em um único departamento técnico
+- **C)** Administração científica clássica, baseada exclusivamente na padronização de tempos e movimentos
+- **D)** Terceirização integral da função qualidade para auditores externos independentes
 
-**8.** Garvin também propôs diferentes abordagens (definições) para o conceito de qualidade, que variam conforme a perspectiva adotada. Qual par de abordagens está corretamente descrito?
+**8.** Garvin também propôs diferentes abordagens (definições) para o conceito de qualidade, que variam conforme a perspectiva adotada. Qual par de abordagens está corretamente descrito? _(avançado · conceitual · Abordagens da Qualidade (Garvin))_
 
 - **A)** Abordagem transcendente (qualidade como excelência inata, absoluta e reconhecível, mas difícil de definir) e abordagem baseada no usuário (qualidade como capacidade de satisfazer preferências e necessidades do consumidor)
 - **B)** Abordagem baseada no produto e abordagem transcendente são sinônimos e definem qualidade apenas pelo preço do bem
 - **C)** Abordagem baseada no valor considera exclusivamente as especificações técnicas do produto, ignorando custo e preço
 - **D)** Abordagem baseada na manufatura define qualidade a partir da percepção subjetiva do cliente final
 
-**9.** Garvin também identificou oito dimensões da qualidade aplicáveis a produtos, úteis para análise estratégica e competitiva. Qual conjunto de dimensões está correto?
+**9.** Garvin também identificou oito dimensões da qualidade aplicáveis a produtos, úteis para análise estratégica e competitiva. Qual conjunto de dimensões está correto? _(intermediário · conceitual · Dimensões da Qualidade (Garvin))_
 
 - **A)** Desempenho, características (features), confiabilidade, conformidade, durabilidade, atendimento, estética e qualidade percebida
 - **B)** Preço, promoção, praça, produto, pessoas, processos, evidência física e produtividade
 - **C)** Planejar, Fazer, Verificar, Agir, Medir, Analisar, Melhorar e Controlar
 - **D)** Severidade, ocorrência, detecção e número de prioridade de risco
 
-**10.** Comparando as abordagens dos principais gurus da qualidade, é correto afirmar que:
+**10.** Comparando as abordagens dos principais gurus da qualidade, é correto afirmar que: _(avançado · analítica · Comparação entre gurus da qualidade)_
 
 - **A)** Deming enfatizava sobretudo a redução da variação por meio de métodos estatísticos e a responsabilidade da alta administração pelo sistema; Crosby enfatizava mais os aspectos comportamentais e motivacionais, com a meta de zero defeitos
 - **B)** Todos os gurus da qualidade (Deming, Juran, Crosby, Ishikawa e Feigenbaum) propuseram exatamente o mesmo conjunto de ferramentas e a mesma definição de qualidade, sem diferenças relevantes entre si
@@ -119,12 +120,12 @@
 - ❌ **C)** Incorreta. Essa ordem mistura e inverte as eras de forma incoerente; a Inspeção é historicamente a primeira era, não a segunda, e a Gestão Estratégica é a última, não a terceira.
 - ❌ **D)** Incorreta. A Garantia da Qualidade é a terceira era, posterior à Inspeção e ao Controle Estatístico, não a primeira.
 
-**7. Resposta: B**
+**7. Resposta: A**
 
-- ❌ **A)** Incorreta. O TQM não prioriza metas financeiras de curto prazo isoladamente, nem centraliza decisões apenas na alta direção; pelo contrário, valoriza o envolvimento de todos os níveis organizacionais e uma visão de longo prazo.
-- ✅ **B)** Correta. O TQM é tipicamente caracterizado por princípios como foco no cliente (interno e externo), melhoria contínua (kaizen), envolvimento e capacitação de todos os colaboradores, liderança comprometida, gestão baseada em fatos e processos, e integração da qualidade à estratégia organizacional.
-- ❌ **C)** Incorreta. A certificação ISO 9001 é um instrumento formal de sistema de gestão, mas o TQM é um conceito filosófico e gerencial mais amplo, que não depende de certificação para existir, nem se resume a ela.
-- ❌ **D)** Incorreta. A inspeção final é característica da era mais antiga (Inspeção) na evolução da qualidade segundo Garvin; o TQM, ao contrário, busca prevenir defeitos ao longo de todo o processo, reduzindo a dependência da inspeção final.
+- ✅ **A)** Correta. O cenário descreve exatamente os princípios centrais do TQM: foco no cliente, melhoria contínua (kaizen), envolvimento e capacitação de todos os colaboradores, liderança comprometida e gestão baseada em fatos e processos, em substituição a decisões centralizadas e baseadas apenas em opinião.
+- ❌ **B)** Incorreta. A inspeção final centralizada é característica da era mais antiga da qualidade (Inspeção, segundo Garvin), justamente o oposto do envolvimento amplo e da prevenção ao longo do processo que caracteriza o TQM.
+- ❌ **C)** Incorreta. A administração científica (Taylorismo) antecede historicamente o movimento da qualidade total e tem foco na padronização de tarefas, não no envolvimento multinível dos colaboradores nem no foco no cliente.
+- ❌ **D)** Incorreta. O TQM pressupõe internalização da responsabilidade pela qualidade por toda a organização, e não a transferência dessa função para agentes externos.
 
 **8. Resposta: A**
 

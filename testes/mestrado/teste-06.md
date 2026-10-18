@@ -1,148 +1,149 @@
-# Microeconomia Aplicada: Estrutura de Mercado, Custos e Decisões da Firma
+# Microeconomia Aplicada: Oferta, Demanda e Elasticidade
 
-**Tópico:** Microeconomia Aplicada: Estrutura de Mercado, Custos de Produção e Decisões da Firma (concorrência perfeita, monopólio, oligopólio, custos fixos/variáveis/marginais, maximização de lucro, segundo Pindyck & Rubinfeld)  
-**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).
+**Tópico:** Microeconomia Aplicada: Oferta, Demanda e Elasticidade  
+**Instruções:** Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.
+**Dificuldade:** básico 2 · intermediário 5 · avançado 3
 
 ## Questões
 
-**1.** Segundo a teoria microeconômica da firma, o custo marginal é definido como:
+**1.** Segundo Pindyck e Rubinfeld, a elasticidade-preço da demanda de um bem é definida como: _(básico · conceitual · Conceito de elasticidade-preço da demanda)_
 
-- **A)** O custo total dividido pela quantidade produzida.
-- **B)** O acréscimo no custo total resultante da produção de uma unidade adicional do bem.
-- **C)** A soma dos custos fixos e variáveis em um dado nível de produção.
-- **D)** O custo médio de produção no longo prazo, quando todos os insumos são variáveis.
+- **A)** A variação absoluta na quantidade demandada dividida pela variação absoluta no preço.
+- **B)** A razão entre a variação percentual na quantidade demandada e a variação percentual no preço do bem.
+- **C)** A inclinação (slope) da curva de demanda no gráfico preço-quantidade.
+- **D)** A diferença entre a quantidade demandada e a quantidade ofertada a um dado nível de preço.
 
-**2.** Em qualquer estrutura de mercado, a condição necessária para a maximização do lucro de uma firma é:
+**2.** O coeficiente de elasticidade-preço da demanda (em módulo) de um determinado bem é igual a 0,4. Esse bem deve ser classificado como: _(básico · conceitual · Classificação da elasticidade-preço da demanda)_
 
-- **A)** Receita total igual a custo total.
-- **B)** Receita marginal igual a custo marginal (RMg = CMg).
-- **C)** Preço igual a custo médio (P = CMe).
-- **D)** Custo marginal igual a custo médio (CMg = CMe).
+- **A)** De demanda elástica, pois |Ed| > 1.
+- **B)** De demanda inelástica, pois |Ed| < 1.
+- **C)** De demanda unitária, pois Ed = 1.
+- **D)** De demanda perfeitamente inelástica, pois Ed = 0.
 
-**3.** A distinção entre curto prazo e longo prazo na teoria da produção e dos custos, conforme Pindyck e Rubinfeld, baseia-se principalmente em:
+**3.** O preço de um produto sobe de R$ 10,00 para R$ 12,00, e a quantidade demandada cai de 500 para 400 unidades. Utilizando o método do ponto médio (fórmula do arco), qual é a elasticidade-preço da demanda e como ela deve ser classificada? _(intermediário · quantitativa · Cálculo da elasticidade-preço pelo método do ponto médio)_
 
-- **A)** No curto prazo todos os custos são variáveis; no longo prazo existem custos fixos.
-- **B)** No curto prazo pelo menos um fator de produção é fixo; no longo prazo todos os fatores podem ser ajustados.
-- **C)** O curto prazo refere-se a períodos inferiores a um ano e o longo prazo a períodos superiores a um ano.
-- **D)** No curto prazo a firma não pode alterar o preço; no longo prazo o preço é livremente ajustável.
+- **A)** Ed ≈ -0,82; demanda inelástica.
+- **B)** Ed ≈ -1,22; demanda elástica.
+- **C)** Ed ≈ -1,00; demanda unitária.
+- **D)** Ed ≈ -2,22; demanda elástica.
 
-**4.** São características do modelo de concorrência perfeita, EXCETO:
+**4.** As funções de demanda e oferta de um bem são dadas por Qd = 200 - 4P e Qs = -40 + 6P, em que P é o preço em reais e Q é a quantidade em unidades. Qual é o preço de equilíbrio de mercado? _(intermediário · quantitativa · Equilíbrio de mercado a partir de oferta e demanda)_
 
-- **A)** Grande número de compradores e vendedores, nenhum deles capaz de influenciar o preço de mercado.
-- **B)** Produto homogêneo entre os vendedores.
-- **C)** Livre entrada e saída de firmas no mercado no longo prazo.
-- **D)** Firmas enfrentam curva de demanda com inclinação negativa, podendo fixar o preço acima do custo marginal.
+- **A)** R$ 16,00
+- **B)** R$ 20,00
+- **C)** R$ 24,00
+- **D)** R$ 120,00
 
-**5.** O poder de monopólio de uma firma — isto é, sua capacidade de fixar o preço acima do custo marginal — depende fundamentalmente da existência de:
+**5.** Com base nas funções de demanda e oferta da questão anterior (Qd = 200 - 4P e Qs = -40 + 6P, com equilíbrio em P = R$ 24,00 e Q = 104 unidades), calcule o excedente do consumidor nesse mercado. _(intermediário · quantitativa · Excedente do consumidor)_
 
-- **A)** Economias de escala apenas no curto prazo.
-- **B)** Barreiras à entrada que impedem ou dificultam a entrada de novos concorrentes.
-- **C)** Um grande número de compradores dispostos a pagar qualquer preço.
-- **D)** Produtos homogêneos e informação perfeita no mercado.
+- **A)** R$ 2.704,00
+- **B)** R$ 1.352,00
+- **C)** R$ 2.496,00
+- **D)** R$ 676,00
 
-**6.** Em um mercado monopolista, a receita marginal (RMg) é sempre menor que o preço (P) para quantidades positivas, exceto na primeira unidade. Isso ocorre porque:
+**6.** Ainda considerando o mercado da questão anterior (Qs = -40 + 6P, com equilíbrio em P = R$ 24,00 e Q = 104 unidades), calcule o excedente do produtor. _(intermediário · quantitativa · Excedente do produtor)_
 
-- **A)** O monopolista enfrenta uma curva de demanda de mercado com inclinação negativa, e para vender uma unidade a mais precisa reduzir o preço de todas as unidades vendidas.
-- **B)** O monopolista tem custo marginal crescente, o que reduz sua receita a cada unidade adicional.
-- **C)** O governo impõe um teto de preços que reduz a receita do monopolista.
-- **D)** Os consumidores possuem poder de barganha sobre o monopolista, forçando descontos.
+- **A)** R$ 1.802,67
+- **B)** R$ 901,33
+- **C)** R$ 2.496,00
+- **D)** R$ 450,67
 
-**7.** No modelo de oligopólio de Cournot, as firmas competem escolhendo simultaneamente:
+**7.** Suponha que o preço de uma matéria-prima essencial à produção de determinado bem aumente significativamente, mantendo-se constante a demanda pelo bem. O efeito mais provável sobre esse mercado, no curto prazo, é: _(intermediário · analítica · Deslocamento da curva de oferta)_
 
-- **A)** Preços, tomando como dado o preço das rivais.
-- **B)** Quantidades, tomando como dada a quantidade produzida pelas rivais.
-- **C)** Níveis de publicidade, mantendo preços fixos por acordo.
-- **D)** Capacidade de produção apenas no longo prazo, sem considerar rivais.
+- **A)** Deslocamento da curva de demanda para a direita, elevando preço e quantidade de equilíbrio.
+- **B)** Deslocamento da curva de oferta para a esquerda (para cima), elevando o preço de equilíbrio e reduzindo a quantidade de equilíbrio.
+- **C)** Deslocamento da curva de oferta para a direita (para baixo), reduzindo o preço e elevando a quantidade de equilíbrio.
+- **D)** Movimento ao longo da curva de oferta, sem qualquer alteração do preço ou da quantidade de equilíbrio.
 
-**8.** A curva de custo médio de longo prazo (CMeLP) de uma firma apresenta formato de 'U' tipicamente porque, à medida que a escala de produção aumenta:
+**8.** A função de demanda de um bem é Q = 500 - 5P. Utilizando a fórmula da elasticidade-ponto [Ed = (dQ/dP) × (P/Q)], calcule a elasticidade-preço da demanda quando P = R$ 60,00. _(avançado · quantitativa · Elasticidade-ponto a partir da função de demanda)_
 
-- **A)** A firma primeiro experimenta economias de escala (CMeLP decrescente) e depois deseconomias de escala (CMeLP crescente).
-- **B)** O custo fixo aumenta proporcionalmente ao custo variável em qualquer nível de produção.
-- **C)** O custo marginal de curto prazo permanece constante, independentemente da escala.
-- **D)** A demanda de mercado diminui conforme a escala de produção aumenta.
+- **A)** Ed = -5,00
+- **B)** Ed = -1,50
+- **C)** Ed = -0,68
+- **D)** Ed = 0,30
 
-**9.** No arcabouço de excedente do consumidor e excedente do produtor, o excedente do consumidor é definido como:
+**9.** Quando a renda média dos consumidores sobe de R$ 3.000,00 para R$ 3.600,00 mensais, a quantidade demandada de um bem cai de 50 para 40 unidades. Calculando a elasticidade-renda da demanda pelo método do ponto médio, como esse bem deve ser classificado? _(avançado · quantitativa · Elasticidade-renda da demanda)_
 
-- **A)** A diferença entre o preço que o consumidor está disposto a pagar e o preço que ele de fato paga, somada ao longo de todas as unidades consumidas.
-- **B)** O lucro obtido pelo consumidor ao revender o bem adquirido.
-- **C)** A diferença entre o preço de mercado e o custo marginal de produção do bem.
-- **D)** O valor total gasto pelos consumidores em um mercado.
+- **A)** Ey ≈ +1,22; bem normal de luxo (bem superior).
+- **B)** Ey ≈ -1,22; bem inferior.
+- **C)** Ey ≈ -0,82; bem inferior.
+- **D)** Ey ≈ -1,22; bem substituto.
 
-**10.** Em relação à elasticidade-preço da demanda e a receita total do vendedor, é correto afirmar que:
+**10.** Em um mercado no qual a elasticidade-preço da demanda é consideravelmente menor, em módulo, do que a elasticidade-preço da oferta, a instituição de um imposto sobre a venda do bem resultará em: _(avançado · analítica · Incidência tributária e elasticidades)_
 
-- **A)** Se a demanda é elástica (|E| > 1), um aumento de preço eleva a receita total.
-- **B)** Se a demanda é inelástica (|E| < 1), um aumento de preço eleva a receita total.
-- **C)** A elasticidade-preço da demanda não tem relação com a variação da receita total.
-- **D)** Receita total é máxima sempre que a demanda é perfeitamente elástica.
+- **A)** Divisão igualitária do ônus do imposto entre consumidores e produtores, independentemente das elasticidades envolvidas.
+- **B)** Maior parte do ônus do imposto recaindo sobre os consumidores, pois a demanda é relativamente mais inelástica que a oferta.
+- **C)** Maior parte do ônus do imposto recaindo sobre os produtores, pois a demanda é relativamente mais inelástica que a oferta.
+- **D)** Ônus do imposto recaindo inteiramente sobre o Estado, já que este arrecada o valor total do tributo.
 
 ## Gabarito e explicações
 
 **1. Resposta: B**
 
-- ❌ **A)** Isso descreve o custo médio (ou custo total médio), não o custo marginal. O custo médio é uma medida de custo por unidade, enquanto o marginal mede a variação no custo total.
-- ✅ **B)** Correto. O custo marginal (CMg) é a derivada do custo total em relação à quantidade, isto é, o quanto o custo total varia ao se produzir uma unidade extra. É o conceito central para decisões de quanto produzir.
-- ❌ **C)** Essa é a definição de custo total (CT = CF + CV), uma medida de nível, e não de variação marginal.
-- ❌ **D)** O custo médio de longo prazo é outro conceito (custo por unidade quando todos os fatores são variáveis), distinto do custo marginal, que é uma medida incremental válida tanto no curto quanto no longo prazo.
+- ❌ **A)** Essa razão entre variações absolutas corresponde ao inverso da inclinação da curva de demanda (ΔQ/ΔP), uma medida de unidades físicas, e não à elasticidade, que é adimensional e expressa em termos percentuais.
+- ✅ **B)** Correto. A elasticidade-preço da demanda (Ed) é definida como %ΔQd / %ΔP, uma medida adimensional que permite comparar a sensibilidade da quantidade demandada a variações de preço entre bens diferentes, independentemente das unidades de medida.
+- ❌ **C)** A inclinação da curva de demanda (ΔP/ΔQ ou seu inverso) depende das unidades de medida de preço e quantidade e não é equivalente à elasticidade, que normaliza essas variações em termos percentuais.
+- ❌ **D)** Essa diferença descreve excesso de demanda ou de oferta em um mercado fora do equilíbrio, um conceito distinto de elasticidade.
 
 **2. Resposta: B**
 
-- ❌ **A)** Isso define o ponto de lucro econômico nulo (break-even), não o ponto de lucro máximo. A firma pode ter RT = CT em diferentes quantidades, mas isso não maximiza o lucro.
-- ✅ **B)** Correto. O lucro é maximizado no nível de produção em que a receita adicional de uma unidade a mais (RMg) se iguala ao custo adicional dessa unidade (CMg); essa é a regra geral válida em concorrência perfeita, monopólio e oligopólio.
-- ❌ **C)** P = CMe caracteriza o equilíbrio de longo prazo em concorrência perfeita (lucro econômico zero), não a condição geral de maximização de lucro.
-- ❌ **D)** CMg = CMe ocorre no ponto de custo médio mínimo (eficiência produtiva), um conceito relacionado mas distinto da maximização de lucro, que depende também da receita marginal.
+- ❌ **A)** Incorreto: demanda elástica ocorre quando |Ed| > 1, o que não é o caso de 0,4.
+- ✅ **B)** Correto. Quando |Ed| < 1, uma variação percentual no preço gera uma variação percentual proporcionalmente menor na quantidade demandada, caracterizando demanda inelástica, como ocorre com Ed = 0,4.
+- ❌ **C)** Elasticidade unitária exige Ed = 1 (em módulo), valor diferente de 0,4.
+- ❌ **D)** Demanda perfeitamente inelástica corresponde a Ed = 0 exatamente (curva vertical), o que não é o caso, já que 0,4 ≠ 0.
 
 **3. Resposta: B**
 
-- ❌ **A)** A afirmação está invertida: é no curto prazo que existem custos fixos (associados a fatores fixos, como capital/planta), enquanto no longo prazo todos os custos se tornam variáveis.
-- ✅ **B)** Correto. Essa é a definição econômica (não cronológica) de curto e longo prazo: no curto prazo há fatores fixos (gerando custos fixos), e no longo prazo a firma pode variar todos os insumos, inclusive a escala da planta.
-- ❌ **C)** A distinção não é temporal/calendário, mas sim definida pela possibilidade de ajuste dos fatores de produção; o tempo necessário varia conforme a indústria.
-- ❌ **D)** A formação de preços depende da estrutura de mercado (concorrência perfeita, monopólio etc.), não da duração do prazo em si; essa alternativa confunde dois conceitos distintos.
+- ❌ **A)** Esse valor é o inverso do resultado correto (obtido ao trocar numerador e denominador na razão entre as variações percentuais), um erro comum de montagem da fórmula.
+- ✅ **B)** Correto. Pelo ponto médio: %ΔQ = (400-500)/[(500+400)/2] = -100/450 ≈ -22,22%; %ΔP = (12-10)/[(10+12)/2] = 2/11 ≈ 18,18%. Ed = -22,22%/18,18% ≈ -1,22, caracterizando demanda elástica (|Ed| > 1).
+- ❌ **C)** Esse resultado decorre do uso do método do valor inicial (ponto fixo), que usa apenas os valores de partida (ΔQ/Q1 = -20% e ΔP/P1 = 20%, logo Ed = -1,00) em vez do método do ponto médio solicitado no enunciado.
+- ❌ **D)** Esse valor resulta de erro no cálculo da variação percentual do preço, subestimando o denominador da razão.
 
-**4. Resposta: D**
+**4. Resposta: C**
 
-- ❌ **A)** Essa é de fato uma característica da concorrência perfeita: cada agente é 'tomador de preço' (price taker), pois é pequeno demais para afetar o mercado.
-- ❌ **B)** Também é característica real do modelo: produtos homogêneos tornam os bens perfeitos substitutos, eliminando diferenciação.
-- ❌ **C)** A livre entrada e saída de firmas é a condição que leva o lucro econômico a zero no equilíbrio de longo prazo; é uma premissa central do modelo.
-- ✅ **D)** Correto como resposta (é a FALSA/exceção): na concorrência perfeita a firma individual enfrenta uma curva de demanda horizontal (perfeitamente elástica) ao preço de mercado, e não pode fixar preço acima do custo marginal, pois perderia todos os seus clientes. Curva de demanda com inclinação negativa e poder de fixar preço é característica de monopólio ou concorrência monopolística.
+- ❌ **A)** Esse valor surge de um erro de sinal ao igualar as equações (tratando -40 como +40): 200-4P = 40+6P → 160 = 10P → P = 16, o que não corresponde à equação de oferta fornecida.
+- ❌ **B)** Não corresponde à solução do sistema; pode resultar de erro aritmético na soma dos coeficientes de P.
+- ✅ **C)** Correto. No equilíbrio, Qd = Qs: 200-4P = -40+6P → 240 = 10P → P = 24. Verificação: Qd = 200-4(24) = 104; Qs = -40+6(24) = 104. Os valores coincidem, confirmando o equilíbrio.
+- ❌ **D)** Esse valor decorre de um erro ao subtrair os coeficientes de P em vez de somá-los (6P-4P=2P): 240 = 2P → P = 120, procedimento incorreto, pois os termos em P devem ser somados ao se igualar as duas equações.
 
 **5. Resposta: B**
 
-- ❌ **A)** Economias de escala podem ser uma fonte de barreira à entrada (monopólio natural), mas a alternativa restringe isso ao curto prazo, o que não é correto — o monopólio natural é tipicamente um fenômeno de longo prazo ligado à estrutura de custos.
-- ✅ **B)** Correto. Barreiras à entrada (controle de recursos-chave, economias de escala, patentes, regulamentação governamental) são a razão pela qual o poder de monopólio persiste; sem barreiras, lucros extraordinários atrairiam entrantes e corroeriam o poder de mercado.
-- ❌ **C)** A disposição dos compradores a pagar mais está relacionada à elasticidade da demanda, mas isso por si só não garante poder de monopólio sem barreiras que impeçam a concorrência.
-- ❌ **D)** Produtos homogêneos e informação perfeita são características da concorrência perfeita, estrutura oposta ao monopólio, que geralmente envolve produto único (sem substitutos próximos).
+- ❌ **A)** Esse valor corresponde à área do retângulo (base × altura) sem a divisão por 2, isto é, ao dobro do excedente do consumidor correto.
+- ✅ **B)** Correto. Invertendo a demanda: Qd = 200-4P → P = 50 - Q/4; logo, o preço de reserva (Q=0) é R$ 50,00. O excedente do consumidor é a área do triângulo entre a curva de demanda e o preço de equilíbrio: EC = ½ × (50-24) × 104 = ½ × 26 × 104 = R$ 1.352,00.
+- ❌ **C)** Esse valor é a receita total do mercado no equilíbrio (P × Q = 24 × 104 = 2.496), e não o excedente do consumidor.
+- ❌ **D)** Esse valor resulta de um erro ao utilizar metade da quantidade de equilíbrio (52 unidades) no cálculo da área do triângulo.
 
-**6. Resposta: A**
+**6. Resposta: B**
 
-- ✅ **A)** Correto. Como a curva de demanda da indústria é a própria curva de demanda do monopolista, para vender mais unidades ele deve baixar o preço — e essa redução se aplica a todas as unidades já vendidas, não só à unidade adicional. Por isso RMg < P.
-- ❌ **B)** O comportamento do custo marginal é independente dessa relação entre RMg e P; a relação RMg < P decorre da curva de demanda, não da estrutura de custos.
-- ❌ **C)** Tetos de preço (price caps) são intervenções regulatórias específicas, não uma característica inerente ao modelo básico de monopólio discutido por Pindyck e Rubinfeld para explicar RMg < P.
-- ❌ **D)** O modelo padrão de monopólio pressupõe que o monopolista fixa o preço (ou a quantidade) e os consumidores são tomadores de preço; não há barganha dos consumidores nesse modelo básico.
+- ❌ **A)** Esse valor corresponde à área do triângulo sem a divisão por 2 (base × altura), ou seja, ao dobro do excedente do produtor correto.
+- ✅ **B)** Correto. Invertendo a oferta: Qs = -40+6P → P = (Q+40)/6; logo, o preço mínimo de oferta (Q=0) é R$ 6,67. O excedente do produtor é EP = ½ × (24 - 6,67) × 104 = ½ × 17,33 × 104 ≈ R$ 901,33.
+- ❌ **C)** Esse valor é a receita total do mercado no equilíbrio (P × Q = 24 × 104 = 2.496), não o excedente do produtor.
+- ❌ **D)** Esse valor resulta de um erro ao utilizar metade da quantidade de equilíbrio (52 unidades) no cálculo da área do triângulo.
 
 **7. Resposta: B**
 
-- ❌ **A)** A competição via escolha simultânea de preços, dado o preço do rival, caracteriza o modelo de Bertrand, não o de Cournot.
-- ✅ **B)** Correto. No modelo de Cournot, cada firma decide sua quantidade de produção considerando a quantidade que espera que a(s) rival(is) produza(m), e o equilíbrio ocorre quando as expectativas de cada firma sobre a produção da outra se confirmam (equilíbrio de Nash em quantidades).
-- ❌ **C)** Competição por publicidade com preços fixos é uma forma de diferenciação não associada ao modelo de Cournot, que é um modelo de concorrência em quantidade.
-- ❌ **D)** O modelo de Cournot trata de decisões de produção interdependentes e não se limita a decisões de capacidade de longo prazo isoladas das rivais; a interdependência estratégica é central ao modelo.
+- ❌ **A)** A demanda não é afetada diretamente por um aumento no custo de um insumo de produção; o choque atinge as condições de oferta, não as de demanda.
+- ✅ **B)** Correto. Um aumento no custo de um insumo essencial eleva o custo marginal de produção em cada nível de preço, deslocando a curva de oferta para a esquerda/para cima. Com a demanda inalterada, o novo equilíbrio apresenta preço mais alto e quantidade menor.
+- ❌ **C)** Um aumento de custo reduz a disposição dos ofertantes em vender a cada preço, deslocando a oferta para a esquerda, e não para a direita.
+- ❌ **D)** Uma mudança no custo dos insumos é um determinante da oferta, provocando deslocamento da própria curva (e não apenas movimento ao longo dela), alterando o equilíbrio.
 
-**8. Resposta: A**
+**8. Resposta: B**
 
-- ✅ **A)** Correto. Economias de escala (ganhos de especialização, diluição de custos, eficiências técnicas) reduzem o CMeLP até certo ponto; além dele, deseconomias de escala (dificuldades de coordenação e gestão em grandes operações) elevam o CMeLP, gerando o formato em U.
-- ❌ **B)** No longo prazo, por definição, não existem custos fixos — todos os fatores são variáveis; portanto a premissa da alternativa está incorreta.
-- ❌ **C)** O formato da curva de longo prazo decorre da relação entre escala e eficiência produtiva, não do comportamento do custo marginal de curto prazo mantido constante.
-- ❌ **D)** O formato em U é um fenômeno do lado da oferta/custos da firma, relacionado a sua tecnologia de produção, e não depende diretamente do comportamento da demanda de mercado.
+- ❌ **A)** Esse valor é apenas a derivada dQ/dP = -5, sem a ponderação pela razão P/Q exigida pela fórmula da elasticidade-ponto.
+- ✅ **B)** Correto. dQ/dP = -5. Em P = 60, Q = 500 - 5(60) = 200. Logo, Ed = -5 × (60/200) = -5 × 0,30 = -1,50, indicando demanda elástica nesse ponto.
+- ❌ **C)** Esse valor resulta de um erro no cálculo de Q, obtido como Q = 500 - 60 = 440 (esquecendo o coeficiente 5 que multiplica P), levando a Ed = -5 × (60/440) ≈ -0,68.
+- ❌ **D)** Esse valor corresponde apenas à razão P/Q = 60/200 = 0,30, calculada sem multiplicar pela derivada dQ/dP, e também com sinal incorreto.
 
-**9. Resposta: A**
+**9. Resposta: B**
 
-- ✅ **A)** Correto. O excedente do consumidor mede o ganho líquido de bem-estar dos consumidores: a área abaixo da curva de demanda e acima do preço de mercado, refletindo o quanto os consumidores valorizam o bem a mais do que pagam por ele.
-- ❌ **B)** O excedente do consumidor não envolve revenda; é um conceito de bem-estar associado ao próprio consumo, não a uma transação secundária.
-- ❌ **C)** Essa diferença (preço menos custo marginal) está mais associada ao excedente do produtor ou ao lucro marginal, não ao excedente do consumidor.
-- ❌ **D)** O valor total gasto (preço × quantidade) é a despesa do consumidor, enquanto o excedente do consumidor é o ganho líquido acima desse gasto — conceitos distintos.
+- ❌ **A)** O sinal está invertido: a quantidade demandada caiu quando a renda subiu, o que exige elasticidade-renda negativa, e não positiva.
+- ✅ **B)** Correto. %ΔQ = (40-50)/45 ≈ -22,22%; %ΔRenda = (3.600-3.000)/3.300 ≈ 18,18%. Ey = -22,22%/18,18% ≈ -1,22. Como a elasticidade-renda é negativa, o consumo do bem cai quando a renda aumenta, caracterizando-o como bem inferior.
+- ❌ **C)** Esse valor é o inverso do resultado correto, obtido ao trocar numerador e denominador na razão entre as variações percentuais.
+- ❌ **D)** A classificação 'substituto' refere-se à elasticidade-preço cruzada da demanda (relação entre dois bens distintos), e não à elasticidade-renda, que classifica o bem em normal ou inferior.
 
 **10. Resposta: B**
 
-- ❌ **A)** Quando a demanda é elástica, a quantidade demandada cai proporcionalmente mais do que o preço sobe, de modo que um aumento de preço reduz a receita total — o oposto do afirmado.
-- ✅ **B)** Correto. Quando a demanda é inelástica, a quantidade cai proporcionalmente menos do que o preço aumenta, resultando em aumento da receita total; esse é um resultado clássico da relação entre elasticidade e receita, muito usado em decisões de precificação.
-- ❌ **C)** A elasticidade-preço é exatamente o conceito que determina como a receita total responde a mudanças de preço, sendo fundamental para decisões de precificação de firmas com poder de mercado.
-- ❌ **D)** Com demanda perfeitamente elástica, qualquer aumento de preço leva a quantidade demandada a zero, anulando a receita total; portanto a receita não é maximizada nesse caso.
+- ❌ **A)** A divisão do ônus tributário entre as partes depende diretamente das elasticidades relativas de oferta e demanda, não sendo necessariamente igualitária.
+- ✅ **B)** Correto. Quanto mais inelástica a demanda em relação à oferta, menor a capacidade dos consumidores de reduzir o consumo diante do aumento de preço, fazendo com que recaia sobre eles a maior parte do ônus tributário (princípio geral da incidência tributária em microeconomia).
+- ❌ **C)** O raciocínio está invertido: quando a oferta é relativamente mais elástica que a demanda, os produtores conseguem repassar mais facilmente o imposto aos consumidores, e não absorvê-lo.
+- ❌ **D)** O Estado arrecada o valor do imposto, mas o ônus econômico (quem efetivamente perde bem-estar) é suportado por consumidores e produtores, conforme as elasticidades do mercado.

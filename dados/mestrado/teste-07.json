@@ -1,178 +1,208 @@
 {
   "id": "mestrado-07",
-  "titulo": "Administração da Produção: Estratégia de Operações e Projeto de Processos",
-  "topico": "Administração da Produção: Estratégia de Operações e Projeto de Processos (objetivos de desempenho de Slack: qualidade, rapidez, confiabilidade, flexibilidade, custo; tipos de processo; projeto de produtos e serviços)",
-  "instrucoes": "Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP).",
+  "titulo": "Microeconomia Aplicada: Estrutura de Mercado, Custos e Maximização de Lucro",
+  "topico": "Microeconomia Aplicada: Estrutura de Mercado, Custos de Produção e Maximização de Lucro",
+  "instrucoes": "Responda às questões a seguir com base nos conceitos centrais da linha de pesquisa Qualidade e Sustentabilidade (PPGEP/USP), no padrão de prova ABEPRO/SAEPRO.",
   "texto": null,
   "questoes": [
     {
       "numero": 1,
-      "enunciado": "Slack, Brandon-Jones e Johnston definem cinco objetivos de desempenho da produção. São eles:",
+      "assunto": "Custos fixos e variáveis",
+      "dificuldade": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Os custos fixos de produção de uma firma são aqueles que:",
       "alternativas": {
-        "A": "Qualidade, rapidez, confiabilidade, flexibilidade e custo.",
-        "B": "Eficiência, eficácia, produtividade, lucratividade e competitividade.",
-        "C": "Planejamento, controle, execução, melhoria e inovação.",
-        "D": "Capacidade, estoque, qualidade, layout e tecnologia."
+        "A": "Variam proporcionalmente com o volume produzido.",
+        "B": "Não variam com o volume de produção no curto prazo, sendo incorridos mesmo que a produção seja nula.",
+        "C": "Existem apenas no longo prazo, quando todos os fatores de produção são variáveis.",
+        "D": "Correspondem exclusivamente aos gastos com matéria-prima e insumos diretos."
       },
-      "resposta": "A",
+      "resposta": "B",
       "explicacoes": {
-        "A": "Correto. Esses cinco objetivos — fazer certo (qualidade), fazer com rapidez, fazer pontualmente/com confiabilidade, mudar o que faz (flexibilidade) e fazer com baixo custo — são o núcleo do modelo de estratégia de operações de Slack e colaboradores, usados para traduzir necessidades dos clientes em prioridades operacionais.",
-        "B": "Esses são termos genéricos de desempenho organizacional/econômico, mas não correspondem à classificação específica dos cinco objetivos de desempenho definidos pelo modelo de Slack.",
-        "C": "Esses termos descrevem etapas ou funções do processo de administração da produção (o ciclo de planejamento e controle), não os objetivos de desempenho que orientam a estratégia de operações.",
-        "D": "Esses são áreas de decisão ou recursos operacionais (decisões estruturais e infraestruturais), não os objetivos de desempenho em si, embora estejam relacionados a eles."
+        "A": "Essa é a definição de custo variável, que se altera conforme o nível de produção (por exemplo, matéria-prima e mão de obra direta).",
+        "B": "Correto. Custos fixos (como aluguel, depreciação e parte da folha administrativa) permanecem constantes no curto prazo, independentemente do volume produzido, inclusive quando a produção é igual a zero.",
+        "C": "No longo prazo, por definição, todos os fatores de produção são variáveis; é justamente no curto prazo que existem custos fixos, pela presença de ao menos um fator fixo.",
+        "D": "Matéria-prima é tipicamente um custo variável, pois seu consumo total aumenta com o volume de produção, e não um custo fixo."
       }
     },
     {
       "numero": 2,
-      "enunciado": "Segundo o modelo de Slack, os objetivos de desempenho geram efeitos tanto externos (junto aos clientes) quanto internos (dentro da operação). Um exemplo típico de efeito INTERNO do objetivo 'confiabilidade' é:",
+      "assunto": "Características da concorrência perfeita",
+      "dificuldade": "básico",
+      "tipo": "conceitual",
+      "enunciado": "São características de um mercado em concorrência perfeita, EXCETO:",
       "alternativas": {
-        "A": "Aumento da satisfação do cliente por receber o produto no prazo prometido.",
-        "B": "Redução de custos e aumento da eficiência interna, pois a confiabilidade elimina perturbações e retrabalho no fluxo de operações.",
-        "C": "Maior fidelização de clientes em função da confiança na marca.",
-        "D": "Aumento da participação de mercado da empresa."
+        "A": "Grande número de compradores e vendedores, nenhum deles capaz de influenciar isoladamente o preço de mercado.",
+        "B": "Produto homogêneo entre os ofertantes.",
+        "C": "Livre entrada e saída de empresas no longo prazo.",
+        "D": "Existência de barreiras relevantes à entrada de novos concorrentes, o que garante lucro econômico positivo no longo prazo."
       },
-      "resposta": "B",
+      "resposta": "D",
       "explicacoes": {
-        "A": "Esse é um efeito EXTERNO (percebido diretamente pelo cliente), não interno; a questão pede o efeito interno da confiabilidade.",
-        "B": "Correto. Internamente, confiabilidade (entregar conforme prometido) evita paradas, retrabalhos e incertezas no fluxo de produção, economizando tempo e reduzindo custos — por isso, no modelo de Slack, a confiabilidade afeta diretamente o custo interno das operações.",
-        "C": "Fidelização de clientes é um efeito externo de mercado, resultante da percepção do cliente, e não um efeito interno sobre a operação.",
-        "D": "Participação de mercado é uma consequência estratégica de mercado (efeito externo de médio/longo prazo), não um efeito interno imediato sobre os processos da operação."
+        "A": "Essa é, de fato, uma característica da concorrência perfeita: cada agente é um tomador de preços (price taker).",
+        "B": "A homogeneidade do produto é condição clássica da concorrência perfeita, o que elimina a diferenciação como fonte de poder de mercado.",
+        "C": "A livre entrada e saída de firmas é condição central do modelo, responsável por levar o lucro econômico a zero no equilíbrio de longo prazo.",
+        "D": "Correto (é a exceção pedida). A existência de barreiras relevantes à entrada é característica de estruturas com poder de mercado, como monopólio e oligopólio, e não da concorrência perfeita, que pressupõe livre entrada e saída e, por isso, lucro econômico nulo no longo prazo."
       }
     },
     {
       "numero": 3,
-      "enunciado": "O conceito de 'trade-off' entre objetivos de desempenho, discutido por Slack, Brandon-Jones e Johnston, refere-se a:",
+      "assunto": "Cálculo do custo marginal",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "A função de custo total de uma firma é CT(Q) = 200 + 10Q + 2Q², em que Q é a quantidade produzida e CT é dado em reais. Qual é o custo marginal quando a firma produz 10 unidades?",
       "alternativas": {
-        "A": "À impossibilidade teórica de qualquer operação ser boa em mais de um objetivo de desempenho simultaneamente.",
-        "B": "À necessidade de a operação escolher, a cada momento, um único objetivo de desempenho e abandonar os demais permanentemente.",
-        "C": "À situação em que a melhoria de um objetivo de desempenho pode implicar a piora (ou limitação de melhoria) de outro, exigindo decisões de priorização, embora melhorias simultâneas também sejam buscadas via mudanças na curva de trade-off.",
-        "D": "À substituição total da estratégia de operações pela estratégia de marketing da empresa."
+        "A": "R$ 30,00",
+        "B": "R$ 50,00",
+        "C": "R$ 500,00",
+        "D": "R$ 90,00"
       },
-      "resposta": "C",
+      "resposta": "B",
       "explicacoes": {
-        "A": "A literatura reconhece que operações de classe mundial buscam romper trade-offs tradicionais (ex.: via tecnologia ou reprojeto de processos), portanto não é uma impossibilidade absoluta e permanente.",
-        "B": "O conceito não exige abandono permanente de outros objetivos; trata-se de equilíbrios e priorizações relativas, que podem mudar ao longo do tempo, não de uma escolha excludente definitiva.",
-        "C": "Correto. Trade-off significa que, dada uma certa capacitação/tecnologia da operação, enfatizar um objetivo (ex.: flexibilidade) pode comprometer outro (ex.: custo); gestores de operações buscam tanto navegar esses trade-offs quanto deslocar a 'fronteira' de trade-off por meio de melhorias estruturais.",
-        "D": "Trade-off é um conceito interno à estratégia de operações (relação entre objetivos de desempenho da produção), não uma substituição da estratégia de operações pela de marketing."
+        "A": "Esse valor resulta de um erro ao derivar o termo 2Q², tratando-o incorretamente como se gerasse derivada igual a 2Q (10 + 2×10 = 30) em vez de 4Q.",
+        "B": "Correto. CMg(Q) = dCT/dQ = 10 + 4Q. Em Q = 10: CMg = 10 + 4(10) = 10 + 40 = R$ 50,00.",
+        "C": "Esse valor é o custo total CT(10) = 200 + 100 + 200 = 500, e não o custo marginal (que mede a variação do custo, não seu nível).",
+        "D": "Esse valor resulta de um erro ao derivar o termo 2Q², duplicando indevidamente o coeficiente (tratando-o como 8Q em vez de 4Q): 10 + 8(10) = 90."
       }
     },
     {
       "numero": 4,
-      "enunciado": "Na matriz volume-variedade de processos de manufatura, um processo caracterizado por ALTO volume e BAIXA variedade de produtos, com fluxo contínuo e pouca ou nenhuma parada, é classificado como:",
+      "assunto": "Ponto de equilíbrio (break-even)",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "Uma empresa tem custo fixo mensal de R$ 50.000,00, custo variável unitário de R$ 80,00, e vende seu produto a R$ 180,00 a unidade. Qual é a quantidade de equilíbrio (break-even), ou seja, a quantidade que iguala a receita total ao custo total?",
       "alternativas": {
-        "A": "Processo de projeto (jobbing/projeto único).",
-        "B": "Processo em lotes ou bateladas.",
-        "C": "Processo de produção em massa.",
-        "D": "Processo contínuo."
+        "A": "625 unidades",
+        "B": "500 unidades",
+        "C": "278 unidades",
+        "D": "192 unidades"
       },
-      "resposta": "D",
+      "resposta": "B",
       "explicacoes": {
-        "A": "Processos de projeto envolvem baixíssimo volume e altíssima variedade (ex.: construção de um navio), o oposto da situação descrita.",
-        "B": "Processos em lotes têm volume e variedade intermediários, com produção organizada em bateladas distintas, diferente do fluxo ininterrupto descrito.",
-        "C": "A produção em massa tem alto volume e baixa variedade, mas ainda opera com unidades discretas (ex.: linha de montagem de automóveis); o enunciado descreve um fluxo contínuo sem interrupções, que é a característica distintiva do processo contínuo (ex.: refino de petróleo, geração de energia).",
-        "D": "Correto. O processo contínuo representa o extremo de altíssimo volume e baixíssima variedade na matriz volume-variedade, com fluxo ininterrupto de materiais, típico de indústrias como petroquímica, siderurgia e energia elétrica."
+        "A": "Esse valor resulta de dividir o custo fixo pelo custo variável unitário (50.000/80), ignorando indevidamente o preço de venda e a margem de contribuição.",
+        "B": "Correto. A margem de contribuição unitária é P - CVu = 180 - 80 = R$ 100,00. O ponto de equilíbrio é Q = CF / margem de contribuição = 50.000/100 = 500 unidades.",
+        "C": "Esse valor resulta de dividir o custo fixo apenas pelo preço de venda (50.000/180 ≈ 278), desconsiderando o custo variável unitário.",
+        "D": "Esse valor resulta de dividir o custo fixo pela soma do preço e do custo variável unitário (50.000/260 ≈ 192), uma combinação incorreta dessas variáveis."
       }
     },
     {
       "numero": 5,
-      "enunciado": "Para operações de serviço, Slack e colaboradores propõem uma tipologia análoga à de manufatura. Um 'serviço de massa', como um supermercado ou uma companhia aérea de baixo custo, caracteriza-se por:",
+      "assunto": "Maximização de lucro em concorrência perfeita",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "Uma firma em concorrência perfeita enfrenta um preço de mercado de R$ 60,00. Sua função de custo marginal é CMg(Q) = 20 + 4Q. Qual é a quantidade que maximiza o lucro dessa firma?",
       "alternativas": {
-        "A": "Alto contato com o cliente, alta customização e baixo volume de transações.",
-        "B": "Alto volume de transações, baixa customização e menor tempo de contato/discricionariedade do pessoal de contato com o cliente.",
-        "C": "Baixíssimo volume, com cada serviço sendo único e altamente personalizado.",
-        "D": "Ausência completa de qualquer tipo de padronização de processos."
+        "A": "5 unidades",
+        "B": "10 unidades",
+        "C": "15 unidades",
+        "D": "40 unidades"
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "Essa descrição corresponde a 'serviços profissionais' (ex.: consultoria, advocacia), que têm baixo volume, alta customização e alto contato/discricionariedade, o oposto do serviço de massa.",
-        "B": "Correto. Serviços de massa envolvem muitas transações, processos padronizados, pouca customização e menor grau de discricionariedade dos funcionários de linha de frente, permitindo eficiência em escala.",
-        "C": "Essa é a descrição do extremo oposto na tipologia (serviços profissionais ou semelhantes a projeto), não do serviço de massa.",
-        "D": "Serviços de massa dependem fortemente de padronização de processos para operar com eficiência em alto volume; a ausência de padronização seria incompatível com esse modelo."
+        "A": "Esse valor resulta de um erro ao dobrar indevidamente o coeficiente angular da função de custo marginal no denominador do cálculo.",
+        "B": "Correto. Em concorrência perfeita, a maximização de lucro ocorre quando P = CMg: 60 = 20 + 4Q → 40 = 4Q → Q = 10 unidades.",
+        "C": "Esse valor resulta de dividir diretamente o preço (60) pelo coeficiente angular (4), sem subtrair antes o termo constante (20).",
+        "D": "Esse valor resulta de subtrair o termo constante (20) do preço, mas sem dividir pelo coeficiente angular da função de custo marginal (60-20=40, sem dividir por 4)."
       }
     },
     {
       "numero": 6,
-      "enunciado": "No processo de projeto de produtos e serviços descrito por Slack, Brandon-Jones e Johnston, o 'funil de geração de conceitos' (ou funil de projeto) tem a função de:",
+      "assunto": "Maximização de lucro em monopólio",
+      "dificuldade": "intermediário",
+      "tipo": "quantitativa",
+      "enunciado": "Um monopolista enfrenta a curva de demanda inversa P = 120 - 3Q e possui custo marginal constante CMg = 30. Sabendo que a receita marginal correspondente é RMg = 120 - 6Q, qual é o preço de equilíbrio que maximiza o lucro do monopolista?",
       "alternativas": {
-        "A": "Aumentar continuamente o número de conceitos ao longo do desenvolvimento, sem eliminar nenhuma alternativa.",
-        "B": "Filtrar progressivamente um grande número de ideias/conceitos iniciais até chegar a um número reduzido de conceitos viáveis para desenvolvimento final e lançamento.",
-        "C": "Substituir a etapa de triagem (screening) por decisões exclusivamente financeiras.",
-        "D": "Garantir que nenhum conceito seja descartado antes do lançamento no mercado."
+        "A": "R$ 30,00",
+        "B": "R$ 75,00",
+        "C": "R$ 120,00",
+        "D": "R$ 60,00"
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "O funil funciona exatamente ao contrário: ele estreita o número de alternativas à medida que o processo avança, eliminando as menos promissoras.",
-        "B": "Correto. O funil de projeto representa a redução progressiva do número de ideias e conceitos, por meio de triagens sucessivas (viabilidade técnica, mercadológica, financeira), até restar um conjunto reduzido de conceitos a serem desenvolvidos e lançados.",
-        "C": "A triagem no funil envolve múltiplos critérios (técnicos, mercadológicos, financeiros, operacionais), e não apenas critérios financeiros isoladamente.",
-        "D": "A essência do funil é justamente descartar conceitos inviáveis ao longo do processo, reduzindo risco e custo de desenvolvimento antes do lançamento."
+        "A": "Esse valor corresponde ao preço de equilíbrio que resultaria se a firma igualasse preço a custo marginal (P = CMg), solução característica da concorrência perfeita, e não da maximização de lucro em monopólio, que exige RMg = CMg.",
+        "B": "Correto. Igualando RMg = CMg: 120 - 6Q = 30 → 90 = 6Q → Q = 15. Substituindo na demanda inversa: P = 120 - 3(15) = 120 - 45 = R$ 75,00.",
+        "C": "Esse valor corresponde ao preço de reserva (intercepto vertical da curva de demanda, quando Q = 0), e não ao preço de equilíbrio de monopólio.",
+        "D": "Esse valor resulta de um erro no cálculo da quantidade ótima, ao confundir a inclinação da curva de receita marginal com a da curva de demanda, subestimando o preço final."
       }
     },
     {
       "numero": 7,
-      "enunciado": "Os conceitos de 'qualificadores de pedido' (order qualifiers) e 'ganhadores de pedido' (order winners), de Terry Hill e incorporados por Slack, Brandon-Jones e Johnston, referem-se a:",
+      "assunto": "Identificação de estrutura de mercado",
+      "dificuldade": "intermediário",
+      "tipo": "aplicação",
+      "enunciado": "Um mercado é caracterizado por um pequeno número de grandes empresas, cujas decisões de preço e quantidade afetam diretamente as decisões das demais firmas (interdependência estratégica), havendo ainda barreiras significativas à entrada de novos concorrentes. Esse mercado é classificado como:",
       "alternativas": {
-        "A": "Critérios usados exclusivamente pelo departamento financeiro para aprovar pedidos de compra.",
-        "B": "Qualificadores são critérios mínimos necessários para o produto/serviço ser considerado pelo cliente; ganhadores de pedido são os critérios que efetivamente determinam a escolha do cliente entre fornecedores concorrentes.",
-        "C": "Qualificadores são critérios usados após a venda; ganhadores de pedido são usados apenas antes da venda.",
-        "D": "Ambos os termos são sinônimos e podem ser usados indistintamente na análise de mercado."
+        "A": "Concorrência perfeita.",
+        "B": "Concorrência monopolística.",
+        "C": "Oligopólio.",
+        "D": "Monopólio puro."
       },
-      "resposta": "B",
+      "resposta": "C",
       "explicacoes": {
-        "A": "Esses conceitos pertencem à análise de mercado e estratégia de operações, usados para traduzir requisitos de mercado em objetivos de desempenho, e não são exclusivos do departamento financeiro.",
-        "B": "Correto. Qualificadores são o 'bilhete de entrada' — níveis mínimos de desempenho exigidos para que o cliente sequer considere a oferta; ganhadores de pedido são os fatores que, acima do patamar mínimo, realmente conquistam o pedido frente à concorrência. Essa distinção ajuda a priorizar objetivos de desempenho.",
-        "C": "A distinção não é temporal (antes/depois da venda); ambos os conceitos se referem a critérios de decisão de compra do cliente no momento da escolha entre alternativas.",
-        "D": "Os dois termos têm significados distintos e complementares (patamar mínimo versus fator decisivo de escolha), não sendo sinônimos."
+        "A": "A concorrência perfeita pressupõe um grande número de firmas, sem interdependência estratégica e sem poder individual sobre o preço, o que contraria o enunciado.",
+        "B": "A concorrência monopolística caracteriza-se por muitas firmas com produtos diferenciados e livre entrada, sem a forte interdependência estratégica descrita no enunciado.",
+        "C": "Correto. A interdependência estratégica entre poucas firmas de grande porte, combinada a barreiras de entrada, é a característica definidora do oligopólio.",
+        "D": "O monopólio puro envolve uma única firma no mercado, e não um pequeno número de empresas interdependentes."
       }
     },
     {
       "numero": 8,
-      "enunciado": "Na discussão sobre estratégia de operações, a perspectiva 'top-down' (de cima para baixo) propõe que:",
+      "assunto": "Decisão de produzir ou encerrar operações no curto prazo",
+      "dificuldade": "avançado",
+      "tipo": "aplicação",
+      "enunciado": "Uma firma em concorrência perfeita tem custo variável médio mínimo de R$ 25,00 e custo total médio mínimo de R$ 35,00 no curto prazo. O preço de mercado caiu para R$ 28,00. Com base na regra de decisão de produção no curto prazo, a firma deve:",
       "alternativas": {
-        "A": "A estratégia de operações deve emergir espontaneamente da experiência prática acumulada no chão de fábrica, sem relação com a estratégia corporativa.",
-        "B": "A estratégia de operações deve ser derivada e alinhada com a estratégia de negócio e a estratégia corporativa da empresa.",
-        "C": "A estratégia de operações é definida exclusivamente pelos requisitos dos clientes, ignorando a estratégia corporativa.",
-        "D": "Não deve haver nenhuma estratégia formal de operações, apenas decisões operacionais do dia a dia."
+        "A": "Encerrar as operações imediatamente, pois o preço está abaixo do custo médio total mínimo, o que garante prejuízo.",
+        "B": "Continuar operando no curto prazo, pois o preço cobre o custo variável médio mínimo, mesmo operando com prejuízo econômico.",
+        "C": "Elevar o preço de venda para cobrir o custo médio total, independentemente da estrutura de mercado concorrencial.",
+        "D": "Elevar a produção indefinidamente, já que qualquer preço acima do custo variável médio garante lucro positivo."
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "Essa descrição corresponde à perspectiva 'bottom-up', em que a estratégia emerge da experiência operacional acumulada, e não à perspectiva top-down.",
-        "B": "Correto. Na perspectiva top-down, a estratégia corporativa orienta a estratégia de negócios, que por sua vez orienta a estratégia funcional de operações — um desdobramento hierárquico de objetivos e prioridades.",
-        "C": "A perspectiva que parte dos requisitos de mercado/clientes é a perspectiva 'de fora para dentro' (market requirements), distinta (embora complementar) da perspectiva top-down baseada na hierarquia estratégica corporativa.",
-        "D": "O modelo de Slack defende justamente a necessidade de uma estratégia de operações deliberada e alinhada a objetivos de longo prazo, e não apenas decisões operacionais ad hoc."
+        "A": "A regra de decisão de encerramento no curto prazo é baseada na comparação entre preço e custo variável médio, e não entre preço e custo médio total; operar com prejuízo, mas cobrindo os custos variáveis, ainda é preferível a encerrar a produção.",
+        "B": "Correto. Como P = 28 > CVMe mínimo (25), a firma consegue cobrir todo o custo variável e ainda contribuir parcialmente para os custos fixos, minimizando o prejuízo; mesmo havendo prejuízo econômico (P = 28 < CMe mínimo = 35), a produção deve continuar no curto prazo.",
+        "C": "Em concorrência perfeita, a firma é tomadora de preços e não tem poder para fixar unilateralmente um preço acima do praticado pelo mercado.",
+        "D": "A maximização de lucro exige produzir no ponto em que P = CMg, e não produzir indefinidamente; além disso, com P = 28 < CMe mínimo, a firma opera com prejuízo, não com lucro positivo."
       }
     },
     {
       "numero": 9,
-      "enunciado": "A matriz importância-desempenho, ferramenta usada na estratégia de operações, serve para:",
+      "assunto": "Índice de Lerner e poder de mercado",
+      "dificuldade": "avançado",
+      "tipo": "quantitativa",
+      "enunciado": "Um monopolista maximizador de lucro enfrenta, no ponto ótimo, elasticidade-preço da demanda igual a -2,5 (em módulo, 2,5). Segundo a regra de precificação ótima do monopólio, qual é o valor do índice de Lerner [(P - CMg)/P] nesse ponto?",
       "alternativas": {
-        "A": "Calcular o custo marginal de cada unidade produzida.",
-        "B": "Priorizar quais objetivos/aspectos de desempenho precisam de melhoria urgente, comparando a importância de cada fator para o cliente com o desempenho atual da operação nesse fator.",
-        "C": "Determinar o layout físico ideal de uma fábrica.",
-        "D": "Substituir completamente a necessidade de pesquisa de mercado."
+        "A": "0,25",
+        "B": "0,40",
+        "C": "2,50",
+        "D": "0,60"
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "Cálculo de custo marginal é um conceito de microeconomia/custos de produção, não o propósito da matriz importância-desempenho.",
-        "B": "Correto. A matriz cruza a importância que os clientes atribuem a cada fator competitivo com o desempenho da operação nesse fator (comparado a concorrentes), classificando zonas de 'excesso', 'adequado', 'melhorar' e 'ação urgente', orientando prioridades de melhoria.",
-        "C": "A matriz importância-desempenho é uma ferramenta de priorização estratégica de objetivos de desempenho, não uma ferramenta de projeto de arranjo físico (layout).",
-        "D": "A matriz geralmente é alimentada por dados de pesquisa de mercado e benchmarking competitivo; ela complementa, mas não substitui, a pesquisa de mercado."
+        "A": "Esse valor resulta de um erro de cálculo ao inverter incorretamente o módulo da elasticidade (tratando-o como 4 em vez de 2,5).",
+        "B": "Correto. O índice de Lerner é dado por (P-CMg)/P = 1/|Ed| = 1/2,5 = 0,40, ou seja, a margem de lucro sobre o preço é de 40%.",
+        "C": "Esse valor confunde o índice de Lerner com o próprio valor da elasticidade-preço da demanda.",
+        "D": "Esse valor resulta de calcular o complementar do resultado correto (1 - 0,40 = 0,60), em vez do próprio índice."
       }
     },
     {
       "numero": 10,
-      "enunciado": "Em relação aos tipos básicos de arranjo físico (layout) descritos por Slack, Brandon-Jones e Johnston, o arranjo físico 'posicional' (ou de posição fixa) é adequado quando:",
+      "assunto": "Ajuste de longo prazo em concorrência perfeita",
+      "dificuldade": "avançado",
+      "tipo": "analítica",
+      "enunciado": "No longo prazo, em um mercado de concorrência perfeita no qual as firmas existentes auferem lucro econômico positivo, a entrada de novas empresas atraídas por esses lucros tende a:",
       "alternativas": {
-        "A": "O produto é pequeno, leve e produzido em altíssimo volume em linha de montagem.",
-        "B": "O produto é grande demais ou frágil demais para se mover, permanecendo estacionário enquanto recursos (pessoas, máquinas) se deslocam até ele.",
-        "C": "Recursos transformadores similares (máquinas do mesmo tipo) são agrupados fisicamente na mesma área.",
-        "D": "O fluxo de materiais segue uma sequência fixa e linear predeterminada, como em uma linha de produção contínua."
+        "A": "Deslocar a curva de oferta de mercado para a esquerda, elevando o preço de equilíbrio e preservando os lucros econômicos positivos indefinidamente.",
+        "B": "Deslocar a curva de oferta de mercado para a direita, reduzindo o preço de equilíbrio até que o lucro econômico se anule (P = CMe mínimo).",
+        "C": "Não afetar o preço de mercado, pois a entrada de novas firmas é sempre compensada pela saída simultânea de firmas ineficientes.",
+        "D": "Elevar os custos marginais de todas as firmas do setor, de modo a aumentar o preço de equilíbrio no longo prazo."
       },
       "resposta": "B",
       "explicacoes": {
-        "A": "Essa descrição é típica do arranjo físico por produto (linha), usado em produção em massa de itens padronizados de alto volume, o oposto do arranjo posicional.",
-        "B": "Correto. No arranjo físico posicional, o produto (ex.: navio, avião, edifício, usina) permanece fixo por ser grande, pesado ou frágil, e são os recursos transformadores (equipamentos, trabalhadores) que se movimentam até ele para realizar as operações.",
-        "C": "Esse agrupamento por semelhança de processo caracteriza o arranjo físico por processo (ou funcional), não o posicional.",
-        "D": "Fluxo fixo e linear corresponde ao arranjo físico por produto, não ao posicional, no qual não há um fluxo físico do produto entre estações, já que ele não se move."
+        "A": "O deslocamento é para a direita, não para a esquerda, já que a entrada de novas firmas aumenta a oferta total de mercado; além disso, lucros econômicos positivos não se sustentam no longo prazo sob livre entrada.",
+        "B": "Correto. A entrada de novas firmas aumenta a oferta de mercado, deslocando a curva de oferta para a direita e pressionando o preço para baixo, até que o lucro econômico se anule no equilíbrio de longo prazo (P = CMe mínimo), condição característica da concorrência perfeita.",
+        "C": "Embora possa haver saída de firmas ineficientes em paralelo, o mecanismo central do ajuste de longo prazo em concorrência perfeita é a entrada de novas firmas atraídas por lucro, que afeta diretamente o preço de mercado.",
+        "D": "A entrada de novas firmas não eleva o custo marginal das firmas já estabelecidas; o efeito relevante é sobre a oferta de mercado agregada e, consequentemente, sobre o preço de equilíbrio."
       }
     }
   ]
